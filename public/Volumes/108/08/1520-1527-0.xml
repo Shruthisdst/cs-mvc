@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_108_08_1520_1527_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Molecular characterization of viroid associated with tapping panel dryness syndrome of <italic>Hevea brasiliensis</italic> from India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>Ajay</given-names>
+					</name>
+					<string-name>Ajay Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pandey</surname>
+						<given-names>D. M.</given-names>
+					</name>
+					<string-name>D. M. Pandey</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Abraham</surname>
+						<given-names>Thomson</given-names>
+					</name>
+					<string-name>Thomson Abraham</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mathew</surname>
+						<given-names>Jacob</given-names>
+					</name>
+					<string-name>Jacob Mathew</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jyothsna</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Jyothsna</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ramachandran</surname>
+						<given-names>Padma</given-names>
+					</name>
+					<string-name>Padma Ramachandran</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Malathi</surname>
+						<given-names>V. G.</given-names>
+					</name>
+					<string-name>V. G. Malathi</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2015-04-00</string-date>
+			</pub-date>
+			<volume>108</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>1520-1527</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

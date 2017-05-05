@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_082_10_1253_1255_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Study of p53 codon 72 polymorphism in various ethnic groups of North India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chosdol</surname>
+						<given-names>Kunzang</given-names>
+					</name>
+					<string-name>Kunzang Chosdol</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ahuja</surname>
+						<given-names>Anupama</given-names>
+					</name>
+					<string-name>Anupama Ahuja</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rathore</surname>
+						<given-names>Annapurna</given-names>
+					</name>
+					<string-name>Annapurna Rathore</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Misra</surname>
+						<given-names>Anjan</given-names>
+					</name>
+					<string-name>Anjan Misra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mir</surname>
+						<given-names>Syed Hussain</given-names>
+					</name>
+					<string-name>Syed Hussain Mir</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chattopadhyay</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Chattopadhyay</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sinha</surname>
+						<given-names>Subrata</given-names>
+					</name>
+					<string-name>Subrata Sinha</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2002-05-00</string-date>
+			</pub-date>
+			<volume>082</volume>
+			<issue>10</issue>
+			<issue-title />
+			<page-range>1253-1255</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

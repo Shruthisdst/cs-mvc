@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_111_01_0109_0116_0</article-id>
+			<article-categories>
+				<series-title>Special Section: RAWEX-GVAX</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Variations in the cloud-base height over the central Himalayas during GVAX: association with the monsoon rainfall</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>Narendra</given-names>
+					</name>
+					<string-name>Narendra Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Solanki</surname>
+						<given-names>Raman</given-names>
+					</name>
+					<string-name>Raman Solanki</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ojha</surname>
+						<given-names>N.</given-names>
+					</name>
+					<string-name>N. Ojha</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Naja</surname>
+						<given-names>M.</given-names>
+					</name>
+					<string-name>M. Naja</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dumka</surname>
+						<given-names>U. C.</given-names>
+					</name>
+					<string-name>U. C. Dumka</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Phanikumar</surname>
+						<given-names>D. V.</given-names>
+					</name>
+					<string-name>D. V. Phanikumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sagar</surname>
+						<given-names>Ram</given-names>
+					</name>
+					<string-name>Ram Sagar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Satheesh</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Satheesh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Krishna Moorthy</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Krishna Moorthy</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kotamarthi</surname>
+						<given-names>V. R.</given-names>
+					</name>
+					<string-name>V. R. Kotamarthi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dhaka</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Dhaka</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2016-07-00</string-date>
+			</pub-date>
+			<volume>111</volume>
+			<issue>01</issue>
+			<issue-title />
+			<page-range>0109-0116</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

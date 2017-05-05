@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_109_08_1466_1470_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Evaluation of peptide-based approach for estimation of NSE and S-100&amp;beta;&amp;beta; towards the development of a cost-effective test for prognosis of AIS patients</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nayak</surname>
+						<given-names>Amit R.</given-names>
+					</name>
+					<string-name>Amit R. Nayak</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lande</surname>
+						<given-names>Neha H.</given-names>
+					</name>
+					<string-name>Neha H. Lande</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kawle</surname>
+						<given-names>Anuja P.</given-names>
+					</name>
+					<string-name>Anuja P. Kawle</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kabra</surname>
+						<given-names>Dinesh P.</given-names>
+					</name>
+					<string-name>Dinesh P. Kabra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chandak</surname>
+						<given-names>Nitin H.</given-names>
+					</name>
+					<string-name>Nitin H. Chandak</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Purohit</surname>
+						<given-names>Hemant J.</given-names>
+					</name>
+					<string-name>Hemant J. Purohit</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Taori</surname>
+						<given-names>Girdhar M.</given-names>
+					</name>
+					<string-name>Girdhar M. Taori</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Daginawala</surname>
+						<given-names>Hatim F.</given-names>
+					</name>
+					<string-name>Hatim F. Daginawala</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kashyap</surname>
+						<given-names>Rajpal S.</given-names>
+					</name>
+					<string-name>Rajpal S. Kashyap</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2015-10-00</string-date>
+			</pub-date>
+			<volume>109</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>1466-1470</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

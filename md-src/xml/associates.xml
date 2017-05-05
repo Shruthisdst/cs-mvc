@@ -1,0 +1,6380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE associates SYSTEM "associates.dtd">
+
+<associates>
+	<associate type="">
+		<name sal="Dr" first="Uday S." last="Agarwal">Agarwal, Dr. Uday S.</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Department, Indian Institute of Technology, Hauz Khas</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1993-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Manindra" last="Agrawal">Agrawal, Dr. Manindra</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Computer Science &amp; Engg., Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Science and Engineering</specialization>
+		<period>1998-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Baskaran" last="Anand">Anand, Dr. Baskaran</name>
+		<sex>M</sex>
+		<birth>1981-01-06</birth>
+		<degree>Ph.D. (IIT, Kanpur)</degree>
+		<honours />
+		<address>Dept. of Biosciences &amp; Bioengg., Indian Institute of Technology</address>
+		<city>Guwahati 781 039</city>
+		<state>Assam</state>
+		<country />
+		<telephone>
+			<office>(0361) 258 2223</office>
+			<residence>(0361) 258 4223, 98641 23088</residence>
+		</telephone>
+		<fax>(0361) 258 2249</fax>
+		<email>banand@iitg.ernet.in, anandbasub@gmail.com</email>
+		<specialization>RNA Biology, Structural &amp; Computational Biology, Genome Engineering</specialization>
+		<period>2015-2018</period>
+		<url>http://www.iitg.ernet.in/banand</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Venkataramanarao" last="Govindan Anand">Govindan Anand, Dr. Venkataramanarao</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Inst. of Science Education &amp; Research 900, NCL Innovation Park</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>vg.anand@iiserpune.ac.in</email>
+		<specialization>Bioinorganic Chemistry, Pi-Conjugated Macromolecules, Supramolecular Chemistry</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="U. K." last="Anandavardhanan">Anandavardhanan, Dr. U. K.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>anand@math.iitb.ac.in</email>
+		<specialization>Automorphic Forms, Representation Theory</specialization>
+		<period>2007-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sudarshan" last="Ananth">Ananth, Dr. Sudarshan</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Institute of Science Education &amp; Research, Central Tower, Sai Trinity Bldg. Gharware Circle, Sutarwadi, Pashan</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ananth@iiserpune.ac.in</email>
+		<specialization>High Energy Physics, Quantum Field Theory</specialization>
+		<period>2009-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="K. R." last="Anantharamaiah">Anantharamaiah, Prof. K. R.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Observational Radio Astronomy</specialization>
+		<period>1983-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pazhamalai" last="Anbarasan">Anbarasan, Dr. Pazhamalai</name>
+		<sex>M</sex>
+		<birth>1982-06-03</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Chennai 600 036</city>
+		<state>T.N.</state>
+		<country />
+		<telephone>
+			<office>(044) 2257 4216</office>
+			<residence>(044) 2257 6216, 98401 22302</residence>
+		</telephone>
+		<fax>(044) 2257 4202</fax>
+		<email>anbarasansp@iitm.ac.in</email>
+		<specialization>New Synthetic Methodoligies, Natural Products, Carbon-di-oxide Fixation</specialization>
+		<period>2015-2018</period>
+		<url>http://chem.iitm.ac.in/faculty/anbarasan/profanbu/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Santosh" last="Ansumali">Ansumali, Dr. Santosh</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Engineering Mechanics Unit, JNCASR, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ansumali@jncasr.ac.in</email>
+		<specialization>Kinetic Theory, Mesoscale Methods for Fluids</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="H. M." last="Antia">Antia, Dr. H. M.</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Astrophysics Group, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Solar Physics</specialization>
+		<period>1986-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="D. K." last="Arora">Arora, Dr. D. K.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Botany, Institute of Science, Banaras Hindu University</address>
+		<city>Varanasi 221 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Mycology and Microbiology</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sripati P." last="Arun">Arun, Dr. Sripati P.</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Neuroscience, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sparun@cns.iisc.ernet.in</email>
+		<specialization>Neuroscience, Visual Perception, Object Recognition</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vinod Kumar" last="Aswal">Aswal, Dr. Vinod Kumar</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Small Angle Neutron Scattering in studies of Condensed Matter</specialization>
+		<period>2000-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="G." last="Athithan">Athithan, Dr. G.</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>ANURAG Defence Research &amp; Development Organisation, Kanchanbagh P.O.</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Software</specialization>
+		<period>1989-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Siva" last="Athreya">Athreya, Dr. Siva</name>
+		<sex>M</sex>
+		<birth>1971-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute 7, SJS Sansanwal Marg</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Stochastic Analysis</specialization>
+		<period>2002-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R. J." last="Azmi">Azmi, Dr. R. J.</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Wadia Institute of Himalayan Geology 33, Gen. Mahadeo Singh Road</address>
+		<city>Dehra Dun 248 001</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Micropalaeontology</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Biman" last="Bagchi">Bagchi, Prof. Biman</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State and Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Statistical Mechanics and Chemical Kinetics</specialization>
+		<period>1985-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="R." last="Balasubramanian">Balasubramanian, Prof. R.</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, C.I.T. Campus Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Number Theory</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abhishek" last="Banerjee">Banerjee, Dr. Abhishek</name>
+		<sex>M</sex>
+		<birth>1984-09-08</birth>
+		<degree>Ph.D. (Johns Hopkins)</degree>
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3326</office>
+			<residence>(080) 2360 4334, 70335 27507</residence>
+		</telephone>
+		<fax>(080) 2360 0146</fax>
+		<email>abhishekbanerjee1313@gmail.com</email>
+		<specialization>Noncummutative Geometry, Algebraic Geometry, Number Theory</specialization>
+		<period>2015-2019</period>
+		<url>http://sites.google.com/site/abhishekb1313/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="D." last="Banerjee">Banerjee, Dr. D.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Director, Defence Metallurgical Research Laboratory, Kanchanbagh P.O.</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physical Metallurgy</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rahul" last="Banerjee">Banerjee, Dr. Rahul</name>
+		<sex>M</sex>
+		<birth>1965-00-00</birth>
+		<degree />
+		<honours />
+		<address>Division of Crystallography and Molecular Biology, Saha Institute of Nuclear Physics, 1/AF Bidhan Nagar</address>
+		<city>Calcutta 700 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biological Macromolecular Crystallography</specialization>
+		<period>1996-2000</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rahul" last="Banerjee">Banerjee, Dr. Rahul</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Physcical &amp; Materials Chemistry Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>r.banerjee@ncl.res.in</email>
+		<specialization>Crystal Engineering, Metal Organic Framework, Hydrogen Bonding</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sunanda" last="Banerjee">Banerjee, Dr. Sunanda</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>EHEP Group, School of Physics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Experimental High Energy Physics</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="M." last="Barma">Barma, Prof. M.</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Physics</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amit J." last="Basu">Basu, Dr. Amit J.</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computational Fluid Dynamics</specialization>
+		<period>1993-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Biswajit" last="Basu">Basu, Dr. Biswajit</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Tata Research Development and Design Centre 1, Mangaldas Road</address>
+		<city>Pune 411 050</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Thermal Science and Engineering</specialization>
+		<period>1989-1994</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ayesha" last="Begum">Begum, Dr. Ayesha</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Astronomy, University of Wisconsin 475N, Charter Street</address>
+		<city>Madison, WI</city>
+		<state />
+		<country>USA</country>
+		<telephone />
+		<fax />
+		<email>begum@astro.wisc.edu</email>
+		<specialization>Radio Astronomy</specialization>
+		<period>2006-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gautam" last="Bharali">Bharali, Dr. Gautam</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Analysis in Several Complex Variables</specialization>
+		<period>2006-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="B. V. Rajarama" last="Bhat">Bhat, Dr. B. V. Rajarama</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Statistical Institute, R.V. College P.O., Mysore Road</address>
+		<city>Bengaluru 560 059</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebra and Mathematics</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="T. Balakrishna" last="Bhat">Bhat, Dr. T. Balakrishna</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Defence Metallurgical Research Laboratory Kanchanbagh P.O</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Metallurgy</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abhay G." last="Bhatt">Bhatt, Dr. Abhay G.</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Statistical &amp; Mathematical Unit, Indian Statistical Institute, 7 SJS Sansanwal Marg</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Stochastic Differential Equations</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dipankar" last="Bhattacharya">Bhattacharya, Dr. Dipankar</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Astrophysics</specialization>
+		<period>1988-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Siddhartha" last="Bhattacharya">Bhattacharya, Dr. Siddhartha</name>
+		<sex>M</sex>
+		<birth>1971-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Rigidity Theory of Dynamical Systems</specialization>
+		<period>2003-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Suvendra Nath" last="Bhattacharyya">Bhattacharyya, Dr. Suvendra Nath</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Molecular &amp; Human Genetics Division, Indian Inst. of Chemical Biology 4, Raja SC Mullick Road</address>
+		<city>Kolkata 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>suvendra@iicb.res.in</email>
+		<specialization>Molecular Cell Biology, Small Regulatory RNA, Protein Translation</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Neel Sarovar" last="Bhavesh">Bhavesh, Dr. Neel Sarovar</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>SCB Group, International Centre for Genetic Engineering &amp; Biotechnology, Aruna Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>neelsb@icgeb.res.in, neelsb@gmail.com</email>
+		<specialization>Structural Biology, NMR Spectroscopy, Biophysical Chemistry, Metabonomics</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debabrata" last="Biswas">Biswas, Dr. Debabrata</name>
+		<sex>M</sex>
+		<birth>1964-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Chaos and Turbulence Studies, Neils Bohr Institute, Blegdansver 17,</address>
+		<city>DK-2100, Copenhagen</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Physics</specialization>
+		<period>1994-1999</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kingshook" last="Biswas">Biswas, Dr. Kingshook</name>
+		<sex>M</sex>
+		<birth>1980-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, RK Mission, Vivekananda University Belur Math</address>
+		<city>Howrah 711 202</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>kingshook@rkmvu.ac.in</email>
+		<specialization>Holomorphic Dynamics, Complex Analysis, Riemann Surfaces</specialization>
+		<period>2009-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S. K." last="Chakrabarti">Chakrabarti, Dr. S. K.</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Astrophysics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Astrophysics</specialization>
+		<period>1989-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subhabrata" last="Chakraborti">Chakraborti, Dr. Subhabrata</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>LV Prasad Eye Institute, LV Prasad Marg, Banjara Hills</address>
+		<city>Hyderabad 500 034</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Genetics of Ocular Diseases</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Partha Sarathi" last="Chakraborty">Chakraborty, Dr. Partha Sarathi</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Statistical Institute 7, SJS Sansanwal Marg</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Operator Algebras and Non-Commutative Geometry</specialization>
+		<period>2005-2008</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Charusita" last="Chakravarty">Chakravarty, Dr. Charusita</name>
+		<sex>M</sex>
+		<birth>1964-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemistry, Indian Institute of Technology, Hauz Khas</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Chemistry</specialization>
+		<period>1995-1999</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Hum" last="Chand">Chand, Dr. Hum</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>ARIES Manora Peak</address>
+		<city>Nainital 263 129</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>hum@aries.res.in</email>
+		<specialization>Absorption LInes Study</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amalendu" last="Chandra">Chandra, Dr. Amalendu</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physical Chemistry</specialization>
+		<period>1994-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="V. K." last="Chandrasekar">Chandrasekar, Dr. V. K.</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>CNLD, School of Physics, Bharathidasan University</address>
+		<city>Tiruchirapalli 620 024</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sekar@cnld.bdu.ac.in, chandru25nld@gmail.com</email>
+		<specialization>Integrable Systems, Synchronization in Complex Networks, Neural Networks</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Jayaraman" last="Chandrasekhar">Chandrasekhar, Prof. Jayaraman</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Organic Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Structure and Bonding</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Samrath Lal" last="Chaplot">Chaplot, Dr. Samrath Lal</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Nuclear Physics Division, Bhabha Atomic Research Centre, Trombay</address>
+		<city>Mumbai 400 085</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Structure and Dynamics of Solids</specialization>
+		<period>1985-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pratim Kumar" last="Chattaraj">Chattaraj, Dr. Pratim Kumar</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Quantum Chemistry</specialization>
+		<period>1990-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ambar" last="Chatterjee">Chatterjee, Dr. Ambar</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Nuclear Physics Division, Bhabha Atomic Research Centre, Trombay</address>
+		<city>Mumbai 400 085</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physics of Nuclear Reactions</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Probal" last="Chaudhuri">Chaudhuri, Dr. Probal</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat. Math. Unit, Indian Statistical Institute 203, B.T. Road</address>
+		<city>Calcutta 700 035</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Statistics</specialization>
+		<period>1994-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Santosh" last="Chauhan">Chauhan, Dr. Santosh</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Cancer Biology, MD Anderson Cancer Center, University of Texas 1515, Holcombe Blvd.</address>
+		<city>Houston, TX 77030</city>
+		<state />
+		<country>USA</country>
+		<telephone />
+		<fax />
+		<email>santosh78_@rediffmail.com</email>
+		<specialization>Molecular biology, Mycobacterium, Cancer Biology</specialization>
+		<period>2009-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Binny J." last="Cherayil">Cherayil, Dr. Binny J.</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>IPC Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Polymer Science</specialization>
+		<period>1990-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debajyoti" last="Choudhury">Choudhury, Dr. Debajyoti</name>
+		<sex>M</sex>
+		<birth>1964-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Group, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical High Energy Physics</specialization>
+		<period>1993-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rukhsana" last="Chowdhury">Chowdhury, Dr. Rukhsana</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Biophysics Division, Indian Institue of Chemical Biology 4, Raja S.C. Mullick Road, Jadavpur</address>
+		<city>Calcutta 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biology</specialization>
+		<period>1989-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Onkar" last="Dabeer">Dabeer, Dr. Onkar</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Technology &amp; Computer Science, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>onkar@tcs.tifr.res.in</email>
+		<specialization>Wireless Communications, Estimation Theory, Information Theory</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Partha Pratim" last="Das">Das, Dr. Partha Pratim</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Computer Science and Engineering, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Engineering</specialization>
+		<period>1993-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pallab" last="Dasgupta">Dasgupta, Dr. Pallab</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Computer Science and Engineering, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Artificial Intelligence, VLSI and Distributed Computing</specialization>
+		<period>1998-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ranjan" last="Datta">Datta, Dr. Ranjan</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Int. Centre for Materials Science, JNCASR, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ranjan@jncasr.ac.in, ranjan.bapi@gmail.com</email>
+		<specialization>Aberration-corrected High Resolution Transmission electron Microscopy, Semiconductors, Optoelectronics, Spintronics</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Avinash A." last="Deshpande">Deshpande, Dr. Avinash A.</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Observational Radio Astronomy</specialization>
+		<period>1989-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Gautam R." last="Desiraju">Desiraju, Prof. Gautam R.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Chemistry, University of Hyderabad, Central University P.O</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Solid State Chemistry, Crystallography</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dattatraya H." last="Dethe">Dethe, Dr. Dattatraya H.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ddethe@iitk.ac.in</email>
+		<specialization>Bioactive Natural Products, New Synthetic Methods</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pawan" last="Dewangan">Dewangan, Dr. Pawan</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist, IV National Institute of Oceanography</address>
+		<city>Dona Paula 403 004</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>pdewangan@nio.org</email>
+		<specialization>Seismay Wave Propagation in Anisotropic Medicum, Exploration of Gas Hydrates, Physical Properties of Shallow Marine Sediment</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Abhishek" last="Dey">Dey, Prof. Abhishek</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Inorganic Chemistry, Indian Association for the Cultivation of Science, Jadavpur</address>
+		<city>Kolkata 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>icad@iacs.res.in</email>
+		<specialization>Inorganic Catalysis, Hydrogen Evolution Reaction, Raman Spectroscopy, EPR &amp; X-ray Absorption</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abhishek" last="Dhar">Dhar, Dr. Abhishek</name>
+		<sex>M</sex>
+		<birth>1970-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Physics</specialization>
+		<period>2001-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Deepak" last="Dhar">Dhar, Prof. Deepak</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Statistical Physics</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Narendra Madhukar" last="Dixit">Dixit, Dr. Narendra Madhukar</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Engineering, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>narendra@chemeng.iisc.ernet.in</email>
+		<specialization>Theoretical &amp; Computational Biology</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Raghavendra" last="Gadagkar">Gadagkar, Prof. Raghavendra</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chairman, Centre for Ecological Sciences, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Ecology and Sociobiology</specialization>
+		<period>1983-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Siddhartha" last="Gadgil">Gadgil, Dr. Siddhartha</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute, RV College PO</address>
+		<city>Bengaluru 560 059</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>3-Manifold Topology and Geometic Group Theory</specialization>
+		<period>2003-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Shridhar R." last="Gadre">Gadre, Prof. Shridhar R.</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, University of Pune</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Quantum Chemistry</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vilas G." last="Gaikar">Gaikar, Dr. Vilas G.</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Technology, University of Bombay, Matunga</address>
+		<city>Mumbai 400 019</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1992-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rajesh" last="Ganapathy">Ganapathy, Dr. Rajesh</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>International Centre for Materials Science, JNCASR, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>rajeshg@jncasr.ac.in</email>
+		<specialization>Soft Condensed Matter</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="K. N." last="Ganesh">Ganesh, Dr. K. N.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Bio-organic Unit, Division of Organic Chemistry, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biophysics</specialization>
+		<period>1984-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gautam" last="Ganguly">Ganguly, Dr. Gautam</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Senior Scientist, United Solar Ovonnics Corp. 1000, West Maple Road</address>
+		<city>Troy, MI 48084 (USA)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Opto-Electronic Materials</specialization>
+		<period>1989-1994</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="L." last="Geetha">Geetha, Dr. L.</name>
+		<sex>M</sex>
+		<birth>1964-00-00</birth>
+		<degree />
+		<honours />
+		<address>Animal Behaviour Unit, JN Centre for Advanced Scientific Research, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Animal Behaviour</specialization>
+		<period>1996-1999</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subi Jacob" last="George">George, Dr. Subi Jacob</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>New Chemistry Unit, JN Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>george@jncasr.ac.in</email>
+		<specialization>Organic &amp; Supramolecular Synthesis, Functional Organic &amp; Organic-Inorganic Hybrid Materials</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anil Kumar" last="Ghosh">Ghosh, Dr. Anil Kumar</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Statistics and Mathematics Unit, Indian Statistical Institute 203, B.T. Road</address>
+		<city>Kolkata 700 108</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>akghosh@isical.ac.in, anilkghosh@rediffmail.com</email>
+		<specialization>Robust &amp; Nonparametric Statistics, Pattern Recognition and Statistical Computing</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ashish" last="Ghosh">Ghosh, Dr. Ashish</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Machine Intelligence Unit, Indian Statistical Institute 203, B T Road</address>
+		<city>Calcutta 700 035</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Science</specialization>
+		<period>1997-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pushpito Kumar" last="Ghosh">Ghosh, Dr. Pushpito Kumar</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Alchemie Research Centre, P.B. No. 155, Thane-Belapur Road</address>
+		<city>Thane 400 601</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemistry of Clays</specialization>
+		<period>1987-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Saurabh" last="Ghosh">Ghosh, Dr. Saurabh</name>
+		<sex>M</sex>
+		<birth>1971-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Genetic Epidemiology</specialization>
+		<period>2003-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Shankar" last="Ghosh">Ghosh, Dr. Shankar</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Raman Spectroscopy, Soft Condensed Matter, Carbon Nanotubes</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Suhrit" last="Ghosh">Ghosh, Dr. Suhrit</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Polymer Science Unit, Indian Association for the Cultivation of Science, Jadavpur</address>
+		<city>Kolkata 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>psusg2@iacs.res.in</email>
+		<specialization>Polymer Chemistry, Supramolecular Chemistry, Surfactant Aggregates</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Zhumur" last="Ghosh">Ghosh, Dr. Zhumur</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>COE in Bioinformatics Bose Institute, P-1/12, CIT Scheme VII M</address>
+		<city>Kolkata 700 054</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>zhumur@boseinst.ernet.in</email>
+		<specialization>Stem Cells, RNA Biology &amp; Gene Expression, Bioinformatics, Systems Biology</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Rohini M." last="Godbole">Godbole, Prof. Rohini M.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Theoretical Studies, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Elementary Particle Physics</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Parag Ratnakar" last="Gogate">Gogate, Dr. Parag Ratnakar</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemical Engineering, Institute of Chemical Technology, Matunga</address>
+		<city>Mumbai 400 019</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>pr.gogate@ictmumbai.edu.in, paraggoate@yahoo.co.in</email>
+		<specialization>Cavitational Reactors, Waste Water Treatment, Process Intensification</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debashish" last="Goswami">Goswami, Dr. Debashish</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Noncommutative Probabiligy, Noncommutative Geometry</specialization>
+		<period>2003-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Jitendra Nath" last="Goswami">Goswami, Prof. Jitendra Nath</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Geophysics Area, Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Solar System Astrophysics</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="T." last="Govindaraju">Govindaraju, Dr. T.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>New Chemistry Unit, JN Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>tgraju@jncasr.ac.in</email>
+		<specialization>Biomimetics, Organic Synthesis, Peptide Chemistry, Nucleic Acid Chemistry, Molecular Probes, Bionanotechnology</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jayaraman" last="Gowrishankar">Gowrishankar, Dr. Jayaraman</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Cellular and Molecular Biology, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Genetics</specialization>
+		<period>1987-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Thirupathi" last="Gudi">Gudi, Dr. Thirupathi</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>gudi@math.iisc.ernet.in</email>
+		<specialization>Numerical Analysis, Finite Element Methods, Partial Differential Equations</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sanoli" last="Gun">Gun, Dr. Sanoli</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, CIT Campus, Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sanoli@imsc.res.in</email>
+		<specialization>Number Theory, Modular Forms, Special Values of SLS-Functions, Transcendence</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anjan Kumar" last="Gupta">Gupta, Dr. Anjan Kumar</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Scanning Tunneling Microscopy</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="P. K." last="Gupta">Gupta, Dr. P. K.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Division of Biochemical Sciences, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Plant Tissue Culture</specialization>
+		<period>1987-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Purushottam Das" last="Gupta">Gupta, Dr. Purushottam Das</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Laser Division, Bhabha Atomic Research Centre, Trombay</address>
+		<city>Mumbai 400 085</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Laser Plasma Interaction Studies</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sanjeev Kumar" last="Gupta">Gupta, Dr. Sanjeev Kumar</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemical Engineering, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1997-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Satish Kumar" last="Gupta">Gupta, Dr. Satish Kumar</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Institute of Immunology, J.N.U. Campus, Aruna Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Immunology</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Purnananda" last="Guptasarma">Guptasarma, Dr. Purnananda</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist, C Institute of Microbial Technology, Sector 39A</address>
+		<city>Chandigarh 160 039</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Protein Chemistry and Biophysics</specialization>
+		<period>1997-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="T. N. Guru" last="Row">Row, Dr. T. N. Guru</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State and Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Crystallography</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Samam" last="Habib">Habib, Dr. Samam</name>
+		<sex>M</sex>
+		<birth>1968-00-00</birth>
+		<degree />
+		<honours />
+		<address>Membrane Biology Division, Central Drug Research Institute, P.B. No. 173, Chattar Manzil</address>
+		<city>Lucknow 226 001</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Gene Expression and Virology</specialization>
+		<period>1997-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ramesh" last="Hariharan">Hariharan, Dr. Ramesh</name>
+		<sex>M</sex>
+		<birth>1969-00-00</birth>
+		<degree />
+		<honours />
+		<address>Computer Science and Automation Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Design &amp; Analysis of Combinatorial Algorithms</specialization>
+		<period>2000-2004</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Prahladh" last="Harsha">Harsha, Dr. Prahladh</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Technology &amp; Computer Science, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>prahladh@tifr.res.in</email>
+		<specialization>Theoretical Computer Science, Computational Complexity, Probabilistically Checkable Proofs</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Yogish I." last="Holla">Holla, Dr. Yogish I.</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization />
+		<period>2002-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dipankar" last="Home">Home, Dr. Dipankar</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Bose Institute, 93/1 A.P.C. Road</address>
+		<city>Calcutta 700 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Quantum Mechanics</specialization>
+		<period>1987-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="R. V." last="Hosur">Hosur, Prof. R. V.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Physics Group, Tata Institute of Fundamental Res., Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Conformation of Biomolecules, Magnetic Resonance</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Maneesha S." last="Inamdar">Inamdar, Dr. Maneesha S.</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Molecular Biology &amp; Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biology</specialization>
+		<period>1999-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="" last="Inderjit">Inderjit, Dr. </name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Botany, University of Delhi</address>
+		<city>Delhi 110 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physiological Ecology</specialization>
+		<period>1995-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="B. R." last="Iyer">Iyer, Dr. B. R.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Relativistic Astrophysics and General Relativity</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Mukesh" last="Jain">Jain, Dr. Mukesh</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Staff Scientist, National Instiute for Plant, Genome Research, Aruna Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>mjain@nipgr.res.in, mjainanid@gmail.com</email>
+		<specialization>Plant Genomics and Biotechnology</specialization>
+		<period>2007-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vimal Kumar" last="Jain">Jain, Dr. Vimal Kumar</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientific Officer, Chemistry Division, Bhabha Atomic Research Centre</address>
+		<city>Mumbai 400 085</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Inorganic Chemistry</specialization>
+		<period>1988-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subhra" last="Jana">Jana, Dr. Subhra</name>
+		<sex>F</sex>
+		<birth>1981-03-22</birth>
+		<degree>Ph.D. (IIT, Kharagpur)</degree>
+		<honours />
+		<address>Dept. of CBM Sciences, SN Bose Natl. Centre for Basic Sciences, Block JD, Sector III, Salt Lake</address>
+		<city>Kolkata 700 098</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(033) 2335 5706</office>
+			<residence>(033) 2654 6595, 90513 65333</residence>
+		</telephone>
+		<fax>(033) 2335 3477</fax>
+		<email>subhra.jana@bose.res.in</email>
+		<specialization>Catalysis, Spectroscopy, Materials Science</specialization>
+		<period>2015-2018</period>
+		<url>http://people.bose.res.in/faculty/fac_new/SubhraJana.html</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Tushar" last="Jana">Jana, Dr. Tushar</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Chemistry, University of Hyderabad</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Polymer Chemistry, Materials Science</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="E. D." last="Jemmis">Jemmis, Prof. E. D.</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Chemistry, University of Hyderabad</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Chemistry</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amitabh" last="Joshi">Joshi, Dr. Amitabh</name>
+		<sex>M</sex>
+		<birth>1965-00-00</birth>
+		<degree />
+		<honours />
+		<address>Animal Behaviour Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Evolutionary Genetics</specialization>
+		<period>1997-2000</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="J. Bhalachandra" last="Joshi">Joshi, Prof. J. Bhalachandra</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemical Technology, University of Bombay, Matunga</address>
+		<city>Mumbai 400 019</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Yogesh M." last="Joshi">Joshi, Dr. Yogesh M.</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Engineering, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Rheology of Complex Fluids, Soft Matter, Polymer Science &amp; Engineering</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Thangaraj" last="Karthikeyan">Karthikeyan, Dr. Thangaraj</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Physical Metallurgy Division, IGCAR</address>
+		<city>Kalpakkam 603 102</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>tkarthik@igcar.gov.in</email>
+		<specialization>Physical Metallurgy, Materials Characterisation</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Romesh Kumar" last="Kaul">Kaul, Prof. Romesh Kumar</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, C.I.T. Campus Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Field Theory and Particle Physics</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Telikepalli" last="Kavitha">Kavitha, Dr. Telikepalli</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>C S A Department, Indian Institute of Science</address>
+		<city>Bengaluru - 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>kavitha@csa.iisc.ernet.in</email>
+		<specialization>Algorithms &amp; Data Structures, Computational Complexity and Efficient Graph algorithms</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Arvind Mohan" last="Kayastha">Kayastha, Dr. Arvind Mohan</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Biotechnology, Faculty of Science Banaras Hindu University</address>
+		<city>Varanasi 221 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Enzyme Biochemistry</specialization>
+		<period>1991-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ajit Keshav" last="Kembhavi">Kembhavi, Dr. Ajit Keshav</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Inter-University Centre for Astronomy and Astrophysics, Post Box No. 4, Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Astrophysics and General Relativity</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Faiz Ahmad" last="Khan">Khan, Dr. Faiz Ahmad</name>
+		<sex>M</sex>
+		<birth>1965-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Organic Chemistry</specialization>
+		<period>1997-2000</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Chandrashekhar" last="Khare">Khare, Dr. Chandrashekhar</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Modular Forms and Galois Representations</specialization>
+		<period>1998-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Asha Kiran" last="Kinger">Kinger, Dr. Asha Kiran</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Biotechnology, All India Inst. of Medical Sciences, Ansari Nagar</address>
+		<city>New Delhi 110 029</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biotechnology</specialization>
+		<period>1993-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Ashok S." last="Kolaskar">Kolaskar, Prof. Ashok S.</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Officer-in-Charge DIC Bioinformatics, Dept.of Zoology University of Poona Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biophysics</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sucheta" last="Koshti">Koshti, Dr. Sucheta</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>c/o Dr. Tarun Ghosh, CITA McLennan Laboratories, University of Toronto 60, St George Street</address>
+		<city>Toronto, Ontario M5S 1A7, Canada</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>General Relativity</specialization>
+		<period>1995-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="H. R." last="Krishnamurthy">Krishnamurthy, Prof. H. R.</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theory of Magnetism</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="M." last="Krishnamurthy">Krishnamurthy, Dr. M.</name>
+		<sex>M</sex>
+		<birth>1969-00-00</birth>
+		<degree />
+		<honours />
+		<address>Atomic &amp; Molecular Sciences Lab, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Atomic and Molecular Physics</specialization>
+		<period>1999-2004</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nadathur" last="Krishnan">Krishnan, Dr. Nadathur</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Research Associate, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Gravitation Experiments</specialization>
+		<period>1990-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Yamuna" last="Krishnan">Krishnan, Dr. Yamuna</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Centre for Biological Sciences, GKVK Campus</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Structure &amp; Dynamics of Nucleic Acids</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abhijit K." last="Kshirsagar">Kshirsagar, Dr. Abhijit K.</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Inter-University Centre for Astronomy &amp; Astrophysics, Pune University Campus, Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Superstring Theory, Gravitational Cosmology</specialization>
+		<period>1992-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amol A." last="Kulkarni">Kulkarni, Dr. Amol A.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory, Pashan</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>aa.kulkarni@ncl.res.in</email>
+		<specialization>Microreactors, Experimental &amp; Computational Fluid Dynamics, Reactor Design</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ankur Achyut" last="Kulkarni">Kulkarni, Dr. Ankur Achyut</name>
+		<sex>M</sex>
+		<birth>1983-08-15</birth>
+		<degree>Ph.D. (Illinois)</degree>
+		<honours />
+		<address>Systems &amp; Control Engineering, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(022) 2576 5384</office>
+			<residence>(022) 2576 9384, 91678 89384</residence>
+		</telephone>
+		<fax>(022) 2572 0057</fax>
+		<email>kulkarni.ankur@iitb.ac.in</email>
+		<specialization>Game Theory &amp; Optimisation, Stochastic Control, Information Theory</specialization>
+		<period>2015-2018</period>
+		<url>http://www.sc.iitb.ac.in/~ankur/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="M. G." last="Kulkarni">Kulkarni, Dr. M. G.</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Polymer Science and Engineering</specialization>
+		<period>1984-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R. N." last="Kulkarni">Kulkarni, Dr. R. N.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist, Central Institute of Medicinal and Aromatic Plants, Field Station Allalasandra, Near Yelahanka</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Plant Pathology and Genetics</specialization>
+		<period>1984-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Alok" last="Kumar">Kumar, Dr. Alok</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Institute of Physics, Sachivalaya Marg</address>
+		<city>Bhubaneswar 751 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>String Theory</specialization>
+		<period>1993-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Brijesh" last="Kumar">Kumar, Dr. Brijesh</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Physical Sciences, Jawaharlal Nehru University</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>bkumar@mail.jnu.ac.in</email>
+		<specialization>Quantum Magnetism, Strongly Correlated Electrons, Superconductivity, Quantum Many-Body Problems, Quantum Optics</specialization>
+		<period>2006-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Viswanathan" last="Kumaran">Kumaran, Dr. Viswanathan</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemical Engineering, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1995-2000</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Anil Kumar" last="Lala">Lala, Prof. Anil Kumar</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept of Chemistry &amp; Biotech. Centre, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biochemistry</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ashish K." last="Lele">Lele, Dr. Ashish K.</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Namit" last="Mahajan">Mahajan, Dr. Namit</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Division, Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>nmahajan@prl.res.in</email>
+		<specialization>Theoretical High Energy Physics</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Santanu" last="Mahapatra">Mahapatra, Dr. Santanu</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Electronic Design and Technology, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>santanu@cedt.iisc.ernet.in</email>
+		<specialization>Compact Modelling, Nanoelectronics, VLSI</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Uday" last="Maitra">Maitra, Prof. Uday</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Organic Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Organic Reactions</specialization>
+		<period>1989-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pradipta" last="Maji">Maji, Dr. Pradipta</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Machine Intelligence Unit, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>pmaji@isical.ac.in</email>
+		<specialization>Pattern Recognition, Soft Computing and Machine Learning, Bioinformatics</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sudip" last="Malik">Malik, Dr. Sudip</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Polymer Science Unit, Indian Association for the Cultivation of Science, Jadavpur</address>
+		<city>Kolkata 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>psusm2@iacs.res.in, sudipm75@yahoo.co.in</email>
+		<specialization>Electroluminescent Polymers, Clays, Conducting Polymers, small Molecular Gels</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gautam" last="Mandal">Mandal, Dr. Gautam</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theory Group, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>String Theory</specialization>
+		<period>1992-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nibir" last="Mandal">Mandal, Dr. Nibir</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Geological Sciences, Jadavpur University, Jadavpur</address>
+		<city>Calcutta 700 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Structural Geology</specialization>
+		<period>1992-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sumantra" last="Mandal">Mandal, Dr. Sumantra</name>
+		<sex>M</sex>
+		<birth>1979-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientific Officer, Indira Gandhi Centre for Atomic Research</address>
+		<city>Kalpakkam 603 102</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sumantra.mandal@gmail.com</email>
+		<specialization>Thermo-mechanical Processing, Grain Boundary Engineering, Materials Modelling</specialization>
+		<period>2009-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ajay" last="Manglik">Manglik, Dr. Ajay</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Geophysical Res. Institute, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Geophysics</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Krishnapur" last="Manjunath">Manjunath, Dr. Krishnapur</name>
+		<sex>M</sex>
+		<birth>1979-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>manju@math.iisc.ernet.in</email>
+		<specialization>Probability Theory</specialization>
+		<period>2009-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ganapathy" last="Marimuthu">Marimuthu, Dr. Ganapathy</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Animal Behaviour &amp; Physiol School of Biological Sciences, Madurai Kamaraj University</address>
+		<city>Madurai 625 021</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chronobiology</specialization>
+		<period>1987-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Krishanu" last="Maulik">Maulik, Dr. Krishanu</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>krishanu@isical.ac.in</email>
+		<specialization>Stochastic Modelling</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Shamalava" last="Mazumdar">Mazumdar, Dr. Shamalava</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Bio-inorganic Chemistry</specialization>
+		<period>1991-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anurag" last="Mehra">Mehra, Dr. Anurag</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Reaction Engineering</specialization>
+		<period>1989-1994</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Narinder Kumar" last="Mehra">Mehra, Prof. Narinder Kumar</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Officer-in-charge, Histocompati-bility Lab., Dept. of Anotomy All India Institute of Medical Sciences, Ansari Nagar</address>
+		<city>New Delhi 110 029</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Clinical Immunology</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ravi" last="Mehrotra">Mehrotra, Dr. Ravi</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Physical Laboratory, Dr. K S Krishnan Road</address>
+		<city>New Delhi 110 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Low Temperature Physics</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gautam I." last="Menon">Menon, Dr. Gautam I.</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Group, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Theory, Phase Transition</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rajiv Sharan" last="Mishra">Mishra, Dr. Rajiv Sharan</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Defence Metallurgical Research Laboratory, Kanchanbagh P.O</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>High Temperature Materials Behaviour</specialization>
+		<period>1993-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abhijit" last="Mitra">Mitra, Dr. Abhijit</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>ECE Department, Indian Institute of Technology</address>
+		<city>Guwahati 781 039</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>a.mitra@iitg.ernet.in</email>
+		<specialization>Signal Processing, Wireless Communication, Communication Networks</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Supriyo" last="Mitra">Mitra, Dr. Supriyo</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Earth Sciences, Indian Inst. of Science Education &amp; Research, BCKV Campus, Mohanpur</address>
+		<city>Nadia 741 252</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>supriyomitra@iiserkol.ac.in</email>
+		<specialization>Seismology, Continental Tectonics</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Aditya" last="Mittal">Mittal, Dr. Aditya</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Biomedical Engineering, Indian Institute of Technology</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biological Engineering, Biological Membranes</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anand" last="Mohan">Mohan, Dr. Anand</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Geology, Faculty of Science, Banaras Hindu University</address>
+		<city>Varanasi 221 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Petrology and Mineralogy</specialization>
+		<period>1988-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Neithalath Mohan" last="Kumar">Kumar, Prof. Neithalath Mohan</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebraic Geometry</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Bedangadas" last="Mohanty">Mohanty, Dr. Bedangadas</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Variable Energy Cyclotron Centre 1/AF, Bidhan Nagar</address>
+		<city>Kolkata 700 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Phase Transition</specialization>
+		<period>2003-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Saradaprasad" last="Mohanty">Mohanty, Dr. Saradaprasad</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Applied Geology, Indian School of Mines</address>
+		<city>Dhanbad 826 004</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Structural Geology</specialization>
+		<period>1989-1993</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Chandan" last="Mukherjee">Mukherjee, Dr. Chandan</name>
+		<sex>M</sex>
+		<birth>1981-01-09</birth>
+		<degree>Ph.D.(Max-Planck)</degree>
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Guwahati 781 039</city>
+		<state>Assam</state>
+		<country />
+		<telephone>
+			<office>(0361) 258 2327</office>
+			<residence>(0361) 258 4327, 80110 16571</residence>
+		</telephone>
+		<fax>(0361) 258 2349</fax>
+		<email>cmukherjee@iitg.ernet.in</email>
+		<specialization>Bioinorganic Chemistry, Biomedicinal Chemistry, Co-ordination Chemistry</specialization>
+		<period>2015-2018</period>
+		<url>http://www.iitg.ac.in/cmukherjee/mukherjee_page.html</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subroto" last="Mukerjee">Mukerjee, Dr. Subroto</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>smukerjee@physics.iisc.ernet.in</email>
+		<specialization>Condensed Matter Theory, Many-Body Theory</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Partha Sarathi" last="Mukherjee">Mukherjee, Dr. Partha Sarathi</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Assistant Professor, Department of Inorganic &amp; Physical Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>psm@ipc.iisc.ernet.in, part_dip@hotmail.com</email>
+		<specialization>Nanoscopic Supramolecular Assemblies, Magnetic Materials</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Prabir Kumar" last="Mukherjee">Mukherjee, Dr. Prabir Kumar</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Saha Institute of Nuclear Physics, 1/AF Bidan Nagar</address>
+		<city>Calcutta 700 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Phase Transition in Liquid Crystals</specialization>
+		<period>1997-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Banibrata" last="Mukhopadhyay">Mukhopadhyay, Dr. Banibrata</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru - 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>bm@physics.iisc.ernet.in</email>
+		<specialization>Theoretical Astrophysics, Nuclear Astrophysics, Astroparticle Physics and Field Theory in Curved Space Time</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debdeep" last="Mukhopadhyay">Mukhopadhyay, Dr. Debdeep</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Computer Science &amp; Engg., Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>debdeep@cse.iitkgp.ernet.in</email>
+		<specialization>Cryptography, Computer Architecture in Security, Side-Channel Analysis of Cryptographic Algorithms, VLSI Design &amp; Testing,Cellular Automata</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pritam" last="Mukhopadhyay">Mukhopadhyay, Dr. Pritam</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Physical Sciences, Jawaharlal Nehru University</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>m_pritam@mail.jnu.ac.in</email>
+		<specialization>Supramolecular Chemistry, Materials Chemistry and Organic &amp; Inorganic Synthesis</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Samrat" last="Mukhopadhyay">Mukhopadhyay, Dr. Samrat</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Inst. of Science Education and Research Knowledge City, Sector 81 Manauli P.O.</address>
+		<city>SAS Nagar 140 306</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>mukhopadhyay@iisermohali.ac.in</email>
+		<specialization>Protein Folding &amp; Misfolding, Single Molecule Biophysics, Biological Fluorescence Spectroscopy</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ramakrishnan" last="Nagaraj">Nagaraj, Dr. Ramakrishnan</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Cellular and Molecular Biology, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Bioorganic Chemistry</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Harini" last="Nagendra">Nagendra, Dr. Harini</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>ATREE 659, 5th Main Hebba</address>
+		<city>Bengaluru 560 024</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Ecology</specialization>
+		<period>2003-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Selvarajan" last="Nagendran">Nagendran, Dr. Selvarajan</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sisn@chemistry.iitd.ac.in, snagsi@gmail.com</email>
+		<specialization>Main-Group Organometallic Chemistry, Polymer Chemistry</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dr Arvind N." last="Nair">Nair, Dr. Dr Arvind N.</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Lie Groups &amp; Representation Theory</specialization>
+		<period>2000-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Samik" last="Nanda">Nanda, Dr. Samik</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>snanda@chem.iitkgp.ernet.in</email>
+		<specialization>Biocatalysis &amp; Biotransformations, Asymmetric Synthesis</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Aswini" last="Nangia">Nangia, Dr. Aswini</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Chemistry, University of Hyderabad</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Bioorganic Chemistry</specialization>
+		<period>1992-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ramesh" last="Narayan">Narayan, Dr. Ramesh</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Astrophysics, MS 51 60 Garden Street, Cambridge</address>
+		<city>Massachusetts 02138 (USA)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Crystallography and Astrophysics</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="E. K." last="Narayanan">Narayanan, Dr. E. K.</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Non-Commutative Harmonic Analysis</specialization>
+		<period>2001-2005</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Tharangattu" last="Narayanan">Narayanan, Dr. Tharangattu</name>
+		<sex>M</sex>
+		<birth>1982-11-18</birth>
+		<degree>Ph.D. (CUSAT)</degree>
+		<honours />
+		<address>TIFR - Centre for Interdisciplinary Sciences, 21, Brundavan Colony, Narsingi</address>
+		<city>Hyderabad 500 075</city>
+		<state>A.P.</state>
+		<country />
+		<telephone>
+			<office>(040) 2419 5018</office>
+			<residence>(040) 6776 8720, 90008 71889</residence>
+		</telephone>
+		<fax />
+		<email>tnn@tifrh.res.in, tn_narayanan@yahoo.com</email>
+		<specialization>Materials Science, Nanomagnetism, electrochemistry</specialization>
+		<period>2015-2018</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vijay" last="Natarajan">Natarajan, Dr. Vijay</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>CSA Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>vijayn@csa.iisc.ernet.in</email>
+		<specialization>Computational Topology, Scientific Visualisation, Computational Geometry</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Krishnan" last="Neelakantan">Neelakantan, Dr. Krishnan</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Director, Advanced Numerical &amp; Research Analysis Group (ANURAG), D.R.D.O, Kanchanbagh P.O</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Instrumentation</specialization>
+		<period>1983-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nitin" last="Nitsure">Nitsure, Dr. Nitin</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebraic Geometry</specialization>
+		<period>1989-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Madhav Vithal" last="Nori">Nori, Prof. Madhav Vithal</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Mathematics, University of Chicago 5734, South University Avenue</address>
+		<city>Chicago, IL 60637 (USA)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebra</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Lakshmi Charan" last="Padhy">Padhy, Dr. Lakshmi Charan</name>
+		<sex>M</sex>
+		<birth>1949-00-00</birth>
+		<degree />
+		<honours />
+		<address>Molecular Biology Unit, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biology</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Q. S." last="Padiath">Padiath, Dr. Q. S.</name>
+		<sex>M</sex>
+		<birth>1971-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Centre for Biological Sciences, GKVK Campus</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization />
+		<period>2002-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Thanu" last="Padmanabhan">Padmanabhan, Dr. Thanu</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>Inter-University Centre for Astronomy and Astrophysics, Post Bag No. 4, Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>General Relativity and Cosmology</specialization>
+		<period>1984-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Arupkumar" last="Pal">Pal, Dr. Arupkumar</name>
+		<sex>M</sex>
+		<birth>1968-00-00</birth>
+		<degree />
+		<honours />
+		<address>Stat. Math. Unit, Indian Statistical Institute 7, SJS Sansanwal Marg</address>
+		<city>New Delhi 110 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Operator Algebras, Quantum Stochastic Calculus, Representation of Groups</specialization>
+		<period>1999-2003</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Bipul" last="Pal">Pal, Dr. Bipul</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Inst. of Science Education &amp; Research, BCKV Post, Mohanpur</address>
+		<city>Nadia 741 252</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>bipul@iiserkol.ac.in</email>
+		<specialization>Semiconductor Physics, Laser Spectroscscopy</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kanchan" last="Pande">Pande, Dr. Kanchan</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Geochemistry</specialization>
+		<period>1987-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Rahul" last="Pandit">Pandit, Prof. Rahul</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Theory</specialization>
+		<period>1987-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="A. J." last="Parameswaran">Parameswaran, Dr. A. J.</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Instiute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Singularity Theory</specialization>
+		<period>1992-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Aseem" last="Paranjape">Paranjape, Dr. Aseem</name>
+		<sex>M</sex>
+		<birth>1983-01-26</birth>
+		<degree>Ph.D. (TIFR)</degree>
+		<honours />
+		<address>Inter-University Centre for Astronomy &amp; Astrophysics, Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2560 4100, 2560 4224</office>
+			<residence>(020) 2560 4433, 98207 61470</residence>
+		</telephone>
+		<fax>(020) 2560 4699</fax>
+		<email>aseem@iucaa.ernet.in</email>
+		<specialization>Cosmology, Large Scale Structure, Gravitation</specialization>
+		<period>2015-2018</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kapil Hari" last="Paranjape">Paranjape, Dr. Kapil Hari</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, C.I.T. Campus, Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebraic Geometry</specialization>
+		<period>1992-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R." last="Parthasarathi">Parthasarathi, Dr. R.</name>
+		<sex>M</sex>
+		<birth>1979-00-00</birth>
+		<degree />
+		<honours />
+		<address>Berkeley Lab., SNL, The Joint Bioenergy Institute 5885, Hollis St. IV Floor</address>
+		<city>Emeryville, CA 94608</city>
+		<state />
+		<country>USA</country>
+		<telephone />
+		<fax />
+		<email>parthas@lbl.gov, parthasbioc@gmail.com</email>
+		<specialization>Theoretical &amp; Computational Chemistry</specialization>
+		<period>2008-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Apoorva D." last="Patel">Patel, Dr. Apoorva D.</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Theoretical Studies, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Particle Theory</specialization>
+		<period>1990-1994</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vijay Vinayak" last="Patel">Patel, Dr. Vijay Vinayak</name>
+		<sex>M</sex>
+		<birth>1969-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist/Engineer, E IFCS Office, Aeronautical Development Agency, P.B. No. 1718, Vimanapura Post</address>
+		<city>Bengaluru 560 017</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Instrumentation &amp; Control, Flight Control Systems</specialization>
+		<period>2000-2004</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Arun Kumar" last="Pati">Pati, Dr. Arun Kumar</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Division, 5th Floor, Central Complex, Bhabha Atomic Research Centre, Trombay</address>
+		<city>Bombay 400 085</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Classical and Quantum Theory</specialization>
+		<period>1998-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ashok Kumar" last="Pati">Pati, Dr. Ashok Kumar</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Institute of Astrophysics, Sarjapur Road, Koramangala</address>
+		<city>Bengaluru 560 034</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Optical Astronomy</specialization>
+		<period>1983-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nitin T." last="Patil">Patil, Dr. Nitin T.</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Organic Chemistry Divn. - II, Indian Institute of Chemical Technology, Uppal Road</address>
+		<city>Hyderabad 500 607</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>nitin@iict.res.in</email>
+		<specialization>Catalytic Carbophilic Activation, Enantioselective Multiple Catalysis</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Satish Amrutrao" last="Patil">Patil, Dr. Satish Amrutrao</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State &amp; Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>satish@sscu.iisc.ernet.in</email>
+		<specialization>Conjugated Polymers, Polymer Nanocomposites, Biodegradable Polymers for Drug Delivery</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amit" last="Patra">Patra, Dr. Amit</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Electrical Engineering, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Modelling</specialization>
+		<period>1992-1997</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Arpita" last="Patra">Patra, Dr. Arpita</name>
+		<sex>F</sex>
+		<birth>1983-12-15</birth>
+		<degree>Ph.D. (IIT, Madras)</degree>
+		<honours />
+		<address>Dept. of Computer Science &amp; Automation, Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3566</office>
+			<residence>80409 43424, 88612 65180</residence>
+		</telephone>
+		<fax>(080) 2360 2911</fax>
+		<email>arpita@csa.iisc.ernet.in, arpitapatra10@gmail.com</email>
+		<specialization>Cryptography, Secure distributed Computing, Information Security</specialization>
+		<period>2015-2018</period>
+		<url>http://drona.csa.iisc.ernet.in/~arpita</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="A. W." last="Patwardhan">Patwardhan, Dr. A. W.</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Engineering, Institute of Chemical Technology, University of Bombay, Matunga</address>
+		<city>Mumbai 400 019</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computational Fluid Dynamics Modelling</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Prasad" last="Perlekar">Perlekar, Dr. Prasad</name>
+		<sex>M</sex>
+		<birth>1982-01-03</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>TIFR Centre for Interdisciplinary Sciences, 21, Brundavan Colony, Narsingi</address>
+		<city>Hyderabad 500 075</city>
+		<state>A.P.</state>
+		<country />
+		<telephone>
+			<office>(040) 2419 5006</office>
+			<residence>(040) 6776 8793, 97047 60500</residence>
+		</telephone>
+		<fax /> 
+		<email>perlekar@tifrh.res.in</email>
+		<specialization>Fluid Dynamics, Nonlinear Dynamics, Condensed Matter Physics</specialization>
+		<period>2015-2018</period>
+		<url>http://sites.google.com/site/pperlekar</url>
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Ramappa" last="Prabhu">Prabhu, Dr. Ramappa</name>
+		<sex>M</sex>
+		<birth>1981-06-10</birth>
+		<degree>Ph.D. (Kuvempu)</degree>
+		<honours />
+		<address>Harish Chandra Research Institute, Chhatnag Road, Jhunsi</address>
+		<city>Allahabad 211 019</city>
+		<state>U.P.</state>
+		<country />
+		<telephone>
+			<office>(0532) 227 4413</office>
+			<residence>(0532) 256 7748, 99564 72042</residence>
+		</telephone>
+		<fax>(0532) 256 7748</fax>
+		<email>prabhurama@hri.res.in</email>
+		<specialization>Quantum Information Theory, Many-Body Physics, Quantum Optics</specialization>
+		<period>2015-2018</period>
+		<url>http://www.hri.res.in/~prabhurama/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Narayana Dhuleep Pradeep" last="Singh">Singh, Dr. Narayana Dhuleep Pradeep</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ndpradeep@chem.iitkgp.ernet.in, ndpradeep@yahoo.co.in</email>
+		<specialization>Functional Group, Photolithography &amp; its Applications, Design &amp; Syntehsis of New PRPGs, Solid State Photochemistry</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="" last="Pradip">Pradip, Dr. </name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Tata Research Development and Design, Centre 1, Mangaldas Road</address>
+		<city>Pune 411 001</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Materials Engineering</specialization>
+		<period>1988-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Amritanshu" last="Prasad">Prasad, Dr. Amritanshu</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, CIT Campus, Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Automorphic Forms, Representation Theory, Matrices over Local Rings</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sudarsan D." last="Prasad">Prasad, Dr. Sudarsan D.</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Surface Chemical Physics</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gangan" last="Prathap">Prathap, Dr. Gangan</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Structures Division, National Aerospace Laboratories, Airport Road</address>
+		<city>Bengaluru 560 017</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Finite Element Analysis of Structures</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="U. Deva" last="Priyakumar">Priyakumar, Dr. U. Deva</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>CCNSD Int., Institute of Information Technology, Gachibowli</address>
+		<city>Hyderabad 500 032</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>deva@iiit.ac.in</email>
+		<specialization>Protein &amp; Nucleic Acid Simulations, Protein-DNA Interactions, Computer-Aided Drug Design</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Thomas J." last="Pucadyil">Pucadyil, Dr. Thomas J.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>IISER I Floor, Sai Trinity Building Garware Circle, Pashan</address>
+		<city>Pune 411 021</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>pucadyil@iiserpune.ac.in</email>
+		<specialization>Vesicular Transport, Membrane Biochemistry, Biophysics</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jaikumar" last="Radhakrishnan">Radhakrishnan, Dr. Jaikumar</name>
+		<sex>M</sex>
+		<birth>1964-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Computer Science Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Science</specialization>
+		<period>1994-1999</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="T. P." last="Radhakrishnan">Radhakrishnan, Dr. T. P.</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Reader School of Chemistry, University of Hyderabad</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Organic Solids</specialization>
+		<period>1990-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Akhilesh Singh" last="Raghubanshi">Raghubanshi, Dr. Akhilesh Singh</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Lecturer, Department of Botany, Banaras Hindu University</address>
+		<city>Varanasi 221 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Tropical Ecology</specialization>
+		<period>1993-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rajeev Anand" last="Rajadhyaksha">Rajadhyaksha, Dr. Rajeev Anand</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Technology, University of Bombay, Matunga</address>
+		<city>Mumbai 400 019</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S. Anantha" last="Ramakrishna">Ramakrishna, Dr. S. Anantha</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Nonlinear Optics, Quantum Optics</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S." last="Ramakrishnan">Ramakrishnan, Dr. S.</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>IPC Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Polymer Science</specialization>
+		<period>1991-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Mani" last="Ramaswami">Ramaswami, Dr. Mani</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Molecular Biology Unit, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Biology and Genetics</specialization>
+		<period>1991-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Ramakrishna" last="Ramaswamy">Ramaswamy, Prof. Ramakrishna</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Physical Sciences, Jawaharlal Nehru University</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Chemistry</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sriram" last="Ramaswamy">Ramaswamy, Dr. Sriram</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Theory</specialization>
+		<period>1988-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="D. S." last="Ramesh">Ramesh, Dr. D. S.</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Geotomography Division, National Geophysical Res. Institute, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Seismology</specialization>
+		<period>1991-1996</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="P. S." last="Ramkumar">Ramkumar, Dr. P. S.</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Astronomy</specialization>
+		<period>1998-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vivek Vinayak" last="Ranade">Ranade, Dr. Vivek Vinayak</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1994-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anand" last="Ranganathan">Ranganathan, Dr. Anand</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>International Centre for Genetic Engineering &amp; Biotechnology, Aruna Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Polyketide Syntheses, Mycobacterium Tuberculosis Pathogenesis</specialization>
+		<period>2002-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Pundi N." last="Rangarajan">Rangarajan, Dr. Pundi N.</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Biochemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biochemistry</specialization>
+		<period>1994-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Raghavan" last="Rangarajan">Rangarajan, Dr. Raghavan</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Division, Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Cosmology and Particle Physics</specialization>
+		<period>1998-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="I. V. Ramanuja" last="Rao">Rao, Dr. I. V. Ramanuja</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Botany, University of Delhi</address>
+		<city>Delhi 110 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Plant Physiology</specialization>
+		<period>1983-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debashis" last="Ray">Ray, Dr. Debashis</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Bioinorganic Chemistry</specialization>
+		<period>1990-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jyotiranjan S." last="Ray">Ray, Dr. Jyotiranjan S.</name>
+		<sex>M</sex>
+		<birth>1970-00-00</birth>
+		<degree />
+		<honours />
+		<address>Planetary &amp; Geosciences Division, Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Isotope Geology and Geochronology</specialization>
+		<period>1999-2004</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Partho Sarothi" last="Ray">Ray, Dr. Partho Sarothi</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Institute of Science Edn. &amp; Research, Haringhata, Mohanpur Post</address>
+		<city>Nadia 741 246</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>psray@iiserkol.ac.in</email>
+		<specialization>Translation Regulation, RNA-Protein-miRNA Interactions, Inflammation &amp; Cancer, Molecular Evolution</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Arup Kumar" last="Raychaudhuri">Raychaudhuri, Prof. Arup Kumar</name>
+		<sex>M</sex>
+		<birth>1952-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physics of Glasses</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Veronica F." last="Rodrigues">Rodrigues, Dr. Veronica F.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Molecular Biology Unit, Tata Inst.of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Genetics and Neurophysiology</specialization>
+		<period>1983-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debdas" last="Roy">Roy, Dr. Debdas</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>MME Department, National Institute of Foundry and Forge Technology, Hatia</address>
+		<city>Ranchi 834 002</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>droy2k3@yahoo.co.in</email>
+		<specialization>Nanomaterials, Composite Materials, Biomaterials</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dipanwita Roy" last="Chowdhury">Chowdhury, Dr. Dipanwita Roy</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Computer Science and Engineering, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Science</specialization>
+		<period>1994-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Binoy K." last="Saha">Saha, Dr. Binoy K.</name>
+		<sex>M</sex>
+		<birth>1978-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemistry, Pondicherry University</address>
+		<city>Pondicherry 605 014</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>binoypu@yahoo.co.in</email>
+		<specialization>Crystal Engineering</specialization>
+		<period>2009-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dipankar" last="Saha">Saha, Dr. Dipankar</name>
+		<sex>M</sex>
+		<birth>1979-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Electrical Engineering, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>dipankar.saha@iitb.ac.in</email>
+		<specialization>Devices Physics &amp; Nanotechnology</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dhruba Jyoti" last="Saikia">Saikia, Dr. Dhruba Jyoti</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>GMRT Project, Tata Inst. of Fundamental Research, Post Box No. 1, Ganeshkind, Poona University Campus</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Observational Radio Astronomy</specialization>
+		<period>1986-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Daman" last="Saluja">Saluja, Dr. Daman</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Botany, University of Delhi</address>
+		<city>Delhi 110 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Plant Molecular Biology</specialization>
+		<period>1990-1994</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="E. V." last="Sampathkumaran">Sampathkumaran, Dr. E. V.</name>
+		<sex>M</sex>
+		<birth>1954-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State Physics Group, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Valence Fluctuations in Rare-Earth Systems</specialization>
+		<period>1987-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Joseph" last="Samuel">Samuel, Dr. Joseph</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Classical Mechanics</specialization>
+		<period>1985-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kunnath" last="Sandeep">Sandeep, Dr. Kunnath</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>TIFR-CAM, PB No. 6503, Sharada Nagar</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sandeep@math.tifrbng.res.in</email>
+		<specialization>Elliptic PDE, Nonlinear Analysis, Calculus of Variation</specialization>
+		<period>2008-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dr G." last="Sankar">Sankar, Dr. Dr G.</name>
+		<sex>M</sex>
+		<birth>1959-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State &amp; Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>X-ray Spectroscopy</specialization>
+		<period>1988-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Chitra" last="Sarkar">Sarkar, Dr. Chitra</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Neuropathology, All India Institute of Medical Sciences, Ansari Nagar</address>
+		<city>New Delhi 110 029</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Neuropathology</specialization>
+		<period>1987-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ram Rup" last="Sarkar">Sarkar, Dr. Ram Rup</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Centre for Cellular &amp; Molecular Biology, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Mathematical &amp; Stochastic Modelling(Biological Systems), Nonlinear Dynamics</specialization>
+		<period>2006-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dipankar Das" last="Sarma">Sarma, Dr. Dipankar Das</name>
+		<sex>M</sex>
+		<birth>1955-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State and Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Surface Chemistry of Intermetallics</specialization>
+		<period>1987-1990</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S. K." last="Satheesh">Satheesh, Dr. S. K.</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address></address>
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization />
+		<period>2001-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Narayanasami" last="Sathyamurthy">Sathyamurthy, Prof. Narayanasami</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Chemistry</specialization>
+		<period>1983-1986</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Manoj" last="Saxena">Saxena, Dr. Manoj</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Electronics, Deen Dayal Upadhyaya College, Shivaji Marg Karampura</address>
+		<city>New Delhi 110 015</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>saxena_manoj77@yahoo.co.in, saxenamanoj77@gmail.com</email>
+		<specialization>Microelectronics, Semiconductor Device Modelling, Nanoscale Device Simulation</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jainagesh A." last="Sekhar">Sekhar, Dr. Jainagesh A.</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist, Defence Metallurgical Research Laboratory, P.O. Kanchanbagh</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Metallurgy Solidification Processing</specialization>
+		<period>1986-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Ashoke" last="Sen">Sen, Prof. Ashoke</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Particle Theory</specialization>
+		<period>1988-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Surajit" last="Sengupta">Sengupta, Dr. Surajit</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>Materials Science Division, Indira Gandhi Centre for Atomic Research</address>
+		<city>Kalpakkam 603 102</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Physics</specialization>
+		<period>1994-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="P. Senthil" last="Kumar">Kumar, Dr. P. Senthil</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Geophysical Research Institute, Uppal Road</address>
+		<city>Hyderabad 500 606</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>senthilngri@yahoo.com, senthil_kumar_perumal@brown.edu</email>
+		<specialization>Impact Cratering, Planetary Geology and Thermal Evolution of Planetary Lithosphere</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ram" last="Seshadri">Seshadri, Dr. Ram</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State and Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Synthesis and Properties of Inorganic Solids</specialization>
+		<period>1999-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nimish A." last="Shah">Shah, Dr. Nimish A.</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Ergodic Theory</specialization>
+		<period>1993-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="" last="Shalivahan">Shalivahan, Dr. </name>
+		<sex>M</sex>
+		<birth>1971-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Applied Geology, Indian School of Mines</address>
+		<city>Dhanbad 836 004</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Nonlinear Inversion and Electrical &amp; Electromagnetic Methods</specialization>
+		<period>2002-2006</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="V." last="Shankar">Shankar, Dr. V.</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Engineering, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Hydrodynamic Fluid Flows in Flexible Tubes &amp; Channels</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S." last="Shankaranarayanan">Shankaranarayanan, Dr. S.</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Inst. of Science Education &amp; Research, CET Campus</address>
+		<city>Thiruvananthapuram 695 016</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>shanki@iisertvm.ac.in</email>
+		<specialization>Black-Hole Physics, Cosmology, Classical &amp; Quantum Gravity</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Mahak" last="Sharma">Sharma, Dr. Mahak</name>
+		<sex>F</sex>
+		<birth>1983-04-23</birth>
+		<degree>Ph.D. (Nebraska)</degree>
+		<honours />
+		<address>Indian Institute of Sceicne Education &amp; Research, Sector 81, Manuli PO</address>
+		<city>SAS Nagar 140 306</city>
+		<state>Punjab</state>
+		<country />
+		<telephone>
+			<office>89685 44599</office>
+			<residence />
+		</telephone>
+		<fax />
+		<email>msharma@iisermohali.ac.in</email>
+		<specialization>Cell Biology, Molecular Biology</specialization>
+		<period>2015-2018</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vijay Kumar" last="Sharma">Sharma, Dr. Vijay Kumar</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chronobiology Laboratory (ABU), Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chronobiology</specialization>
+		<period>1998-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Aroon Vasudev" last="Shenoy">Shenoy, Dr. Aroon Vasudev</name>
+		<sex>M</sex>
+		<birth>1951-00-00</birth>
+		<degree />
+		<honours />
+		<address>Chemical Engineering Division, National Chemical Laboratory</address>
+		<city>Pune 411 008</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemical Engineering</specialization>
+		<period>1985-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="V. B." last="Shenoy">Shenoy, Dr. V. B.</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city></city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computational Materials Science, Nanomechanics and Thin Films</specialization>
+		<period>2001-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Hethu C." last="Sheth">Sheth, Dr. Hethu C.</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Earth Sciences, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Deccan Volcanism and Petrogenesis</specialization>
+		<period>2003-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Satish R." last="Shetye">Shetye, Dr. Satish R.</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Physical Oceanography Division, National Institute of Oceanography</address>
+		<city>Dona Paula 403 004 (Goa)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Physical Oceanography</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rahul" last="Siddharthan">Siddharthan, Dr. Rahul</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, CIT Campus, Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Condensed Matter Physics, Biological Physics, Regulatory Genomics</specialization>
+		<period>2005-2008</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ritesh K." last="Singh">Singh, Dr. Ritesh K.</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Physical Sciences, IISER BCKV Campus, Mohanpur</address>
+		<city>Nadia 741 252</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>ritesh.singh@iiserkol.ac.in</email>
+		<specialization>High Energy Physics, Collider Phenomenology, Spin &amp; Polarization Studies</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sanjay" last="Singh">Singh, Dr. Sanjay</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Sciences, IISER Knowledge City, Sector 81, Manauli P.O.</address>
+		<city>SAS Nagar 140 306</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sanjaysingh@iisermohali.ac.in</email>
+		<specialization>Main-Group Organometallics, Inorganic Syntheis &amp; Catalysis, Organic &amp; Inorganic Macrocycles</specialization>
+		<period>2009-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kumar N." last="Sivarajan">Sivarajan, Dr. Kumar N.</name>
+		<sex>M</sex>
+		<birth>1965-00-00</birth>
+		<degree />
+		<honours />
+		<address>Electrical Communication Engineering Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Optical Networks</specialization>
+		<period>1997-2000</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R." last="Srianand">Srianand, Dr. R.</name>
+		<sex>M</sex>
+		<birth>1969-00-00</birth>
+		<degree />
+		<honours />
+		<address>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind</address>
+		<city>Pune 411 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Astronomy - Quasars</specialization>
+		<period>1996-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Perali Ramu" last="Sridhar">Sridhar, Dr. Perali Ramu</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Chemistry, University of Hyderabad</address>
+		<city>Hyderabad 500 046</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>prssc@uohyd.ernet.in</email>
+		<specialization>Carbohydrate Chemistry, Total Synthesis of Natural Products</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Raja" last="Sridharan">Sridharan, Dr. Raja</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebraic Geometry</specialization>
+		<period>1999-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Srinivasan" last="Srikanth">Srikanth, Dr. Srinivasan</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Non-Ferrous Process Division, National Metallurgical Laboratory</address>
+		<city>Jamshedpur 831 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Thermodynamics of Alloys</specialization>
+		<period>1992-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Prof." first="Vasudevan" last="Srinivas">Srinivas, Prof. Vasudevan</name>
+		<sex>M</sex>
+		<birth>1958-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Institute of Fundamental Res., Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Pure Mathematics</specialization>
+		<period>1988-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="N. R. Srinivasa" last="Raghavan">Raghavan, Dr. N. R. Srinivasa</name>
+		<sex>M</sex>
+		<birth>1972-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Management Studies, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Decision Sciences &amp; Technologies</specialization>
+		<period>2004-2007</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vishwanath" last="Sriram">Sriram, Dr. Vishwanath</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Centre for Biological Sciences, GKVK Campus</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sriram@ncbs.res.in</email>
+		<specialization>Mytochondrial Remodelling</specialization>
+		<period>2006-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ravi" last="Subrahmanyan">Subrahmanyan, Dr. Ravi</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Astrophysics Group, Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O</address>
+		<city>Bengaluru 560 080</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Observational Cosmology</specialization>
+		<period>1990-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ganesh" last="Subramanian">Subramanian, Dr. Ganesh</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Engineering Mechanics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru - 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sganesh@jncasr.ac.in</email>
+		<specialization>Dynamics &amp; Rheology of Complex Fluids, Hydrodynamic Stability and Vortex Dynamics</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R." last="Sujatha">Sujatha, Dr. R.</name>
+		<sex>M</sex>
+		<birth>1962-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebra</specialization>
+		<period>1993-1997</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dr G." last="Sundararajan">Sundararajan, Dr. Dr G.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Defence Metallurgical Research Laboratory, Kanchanbagh P.O.</address>
+		<city>Hyderabad 500 058</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Material Deformation and Fracture</specialization>
+		<period>1987-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="L. Sunil" last="Chandran">Chandran, Dr. L. Sunil</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Computer Science &amp; Automation, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>sunil@csa.iisc.ernet.in</email>
+		<specialization>Graph Theory, Theoretical Computer Science, Graph Algorithms</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Raghavan B." last="Sunoj">Sunoj, Dr. Raghavan B.</name>
+		<sex>M</sex>
+		<birth>1974-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computational &amp; Theoretical Organic Chemistry</specialization>
+		<period>2006-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Venapally" last="Suresh">Suresh, Dr. Venapally</name>
+		<sex>M</sex>
+		<birth>1966-00-00</birth>
+		<degree />
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Bombay 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Algebra</specialization>
+		<period>1998-2001</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="S. N. Suresh" last="Babu">Babu, Dr. S. N. Suresh</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Space Physics Laboratory, Vikram Sarabhai Space Centre</address>
+		<city>Thiruvananthapuram 695 022</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>s_sureshbabu@vssc.gov.in</email>
+		<specialization>Atmospheric Aerosols, Radiative Forcing, Climate Change</specialization>
+		<period>2007-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nikhil" last="Tandon">Tandon, Dr. Nikhil</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Endocrinology and Metabolism Dept., All India Institute of Medical Sciences, Ansari Nagar</address>
+		<city>New Delhi 110 029</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Immunobiology</specialization>
+		<period>1995-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Srabani" last="Taraphder">Taraphder, Dr. Srabani</name>
+		<sex>M</sex>
+		<birth>1969-00-00</birth>
+		<degree />
+		<honours />
+		<address>Assistant Professor, Department of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Theoretical Physical Chemistry, Dynamics in Condensed Phases, Chemical Reac</specialization>
+		<period>1999-2004</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Smita V." last="Thampi">Thampi, Dr. Smita V.</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>SAS Division, Physical Research Laboratory, Navrangpura</address>
+		<city>Ahmedabad 380 009</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>smitha@prl.res.in</email>
+		<specialization>Space Science, Terrestrial Ionosphere</specialization>
+		<period>2011-2014</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Palanisamy" last="Thanikaivelan">Thanikaivelan, Dr. Palanisamy</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>CLAAD Central Leather Rese. Institute, SP Road, Adyar</address>
+		<city>Chennai 600 020</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>thanik8@yahoo.com, clad@clrim.org</email>
+		<specialization>Leather Science &amp; Technology, New &amp; Advanced Materials, Environmental Science &amp; Technology</specialization>
+		<period>2007-2011</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Mukund" last="Thattai">Thattai, Dr. Mukund</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Centre for Biological Sciences, GKVK Campus</address>
+		<city>Bengaluru 560 065</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Genetic Networks</specialization>
+		<period>2005-2009</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Dr P." last="Thilagar">Thilagar, Dr. Dr P.</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Inorganic &amp; Physical Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>thilagar@ipc.iisc.ernet.in</email>
+		<specialization>Main Group Organometallics, Sensors, OLEDs, Polymer Chemistry</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Mahesh S." last="Tirumkudulu">Tirumkudulu, Dr. Mahesh S.</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Dept. of Chemical Engineering, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Fluid Mechanics &amp; Colloids and Interface Science</specialization>
+		<period>2005-2008</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Shubha" last="Tole">Tole, Dr. Shubha</name>
+		<sex>M</sex>
+		<birth>1967-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Biological Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Neurobiology</specialization>
+		<period>1999-2002</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vikram" last="Tripathi">Tripathi, Dr. Vikram</name>
+		<sex>M</sex>
+		<birth>1973-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Theoretical Physics, Tata Institute of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai - 400 005</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>vtripathi@theory.tifr.res.in</email>
+		<specialization>Theoretical Condensed Matter Physics, Strongly Correlated Electron Systems, Transport Properties of Granular Metals, Disordered Superconductors and Nanoscale Devices</specialization>
+		<period>2007-2010</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Gyana Ranjan" last="Tripathy">Tripathy, Dr. Gyana Ranjan</name>
+		<sex>M</sex>
+		<birth>1981-07-05</birth>
+		<degree>Ph.D. (PRL, Ahmedabad)</degree>
+		<honours />
+		<address>Dept. of Earth &amp; Climate Sci., Indian Institute of Science Education &amp; Research, Pashan</address>
+		<city>Pune 411 008</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2590 8275</office>
+			<residence>77988 85981</residence>
+		</telephone>
+		<fax />
+		<email>grtripathy@gmail.com, grtripathy@iiserpune.ac.in</email>
+		<specialization>Re-OS Geochronology, Weathering &amp; Erosion, Isotope Geochemistry</specialization>
+		<period>2015-2018</period>
+		<url>http://sites.google.com/site/grtripathy/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rakesh" last="Tuli">Tuli, Dr. Rakesh</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Scientist, National Botanical Research Institute, Rana Prathap Marg</address>
+		<city>Lucknow 226 001</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Plant Genetics</specialization>
+		<period>1986-1989</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jayant B." last="Udgaonkar">Udgaonkar, Dr. Jayant B.</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>National Centre for Biological Sciences, TIFR Centre, P.O. 1234, Indian Institute of Science Campus</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Protein Folding</specialization>
+		<period>1991-1995</period>
+		<url />
+	</associate>
+		<associate type="">
+		<name sal="Dr" first="Kizhathur Narasimhan" last="Uma">Uma, Dr. Kizhathur Narasimhan</name>
+		<sex>F</sex>
+		<birth>1982-05-12</birth>
+		<degree>Ph.D. (SV University)</degree>
+		<honours />
+		<address>Space Physics Laboratory, Vikram Sarabhai Space Centre</address>
+		<city>Thiruvananthapuram 695 022</city>
+		<state>Kerala</state>
+		<country />
+		<telephone>
+			<office>(0471) 256 2157</office>
+			<residence>(0471) 234 2603, 98955 94770</residence>
+		</telephone>
+		<fax>(0471) 270 6535</fax>
+		<email>uma_kn@vssc.gov.in, urmimondal@gmail.com</email>
+		<specialization>Tropical Mesoscale Convective Systems, Stratosphere-Troposphere Exchange Processes, Ground &amp; Space Borne Remote Sensing</specialization>
+		<period>2015-2018</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vidita A." last="Vaidya">Vaidya, Dr. Vidita A.</name>
+		<sex>M</sex>
+		<birth>0000-00-00</birth>
+		<degree />
+		<honours />
+		<address />
+		<city />
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Neuroscience</specialization>
+		<period>2000-2005</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sukumaran" last="Vasudevan">Vasudevan, Dr. Sukumaran</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Inorganic &amp; Physical Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chemistry of Layered Compounds</specialization>
+		<period>1987-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="P." last="Venkatakrishnan">Venkatakrishnan, Dr. P.</name>
+		<sex>M</sex>
+		<birth>1953-00-00</birth>
+		<degree />
+		<honours />
+		<address>Indian Institute of Astrophysics, Sarjapur Road, Koramangala</address>
+		<city>Bengaluru 560 034</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Solar Astrophysics</specialization>
+		<period>1984-1988</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Santhanam" last="Venugopal">Venugopal, Dr. Santhanam</name>
+		<sex>M</sex>
+		<birth>1975-00-00</birth>
+		<degree />
+		<honours />
+		<address>Department of Chemical Engineering, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>venu@chemeng.iisc.ernet.in</email>
+		<specialization>Nanoparticle Engineering, Nanoscale Product Design, Energy Conversion</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Usha" last="VijayRaghavan">VijayRaghavan, Dr. Usha</name>
+		<sex>M</sex>
+		<birth>1961-00-00</birth>
+		<degree />
+		<honours />
+		<address>Microbiology and Cell Biology Dept., Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Molecular Genetics</specialization>
+		<period>1990-1995</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sankaran" last="Viswanath">Viswanath, Dr. Sankaran</name>
+		<sex>M</sex>
+		<birth>1977-00-00</birth>
+		<degree />
+		<honours />
+		<address>The Institute of Mathematical Sciences, CIT Campus, Taramani</address>
+		<city>Chennai 600 113</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>svis@imsc.res.in</email>
+		<specialization>Infinite Dimensional Lie Algebras, Coxeter Groups</specialization>
+		<period>2009-2012</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Narayanan" last="Viswanathan">Viswanathan, Dr. Narayanan</name>
+		<sex>M</sex>
+		<birth>1960-00-00</birth>
+		<degree />
+		<honours />
+		<address>Research Associate, Department of Biology 414, Mugar Life Sciences Building, Northeastern University</address>
+		<city>Boston, MA 02115 (USA)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Chronobiology</specialization>
+		<period>1988-1993</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="R. Raju" last="Viswanathan">Viswanathan, Dr. R. Raju</name>
+		<sex>M</sex>
+		<birth>1963-00-00</birth>
+		<degree />
+		<honours />
+		<address>Institute of Systems Science, National University of Singapore, Kentridge</address>
+		<city>Singapore 0511 (Singapore)</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Neural Networks</specialization>
+		<period>1993-1998</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sandhya S." last="Visweswariah">Visweswariah, Dr. Sandhya S.</name>
+		<sex>M</sex>
+		<birth>1957-00-00</birth>
+		<degree />
+		<honours />
+		<address>ASTRA Research Centre, Post Box No. 359, 18th Cross, Malleswaram</address>
+		<city>Bengaluru 560 003</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Biochemistry</specialization>
+		<period>1988-1992</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="U. V." last="Waghmare">Waghmare, Dr. U. V.</name>
+		<sex>M</sex>
+		<birth>1968-00-00</birth>
+		<degree />
+		<honours />
+		<address>Theoretical Science Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computational Condensed Matter Physics, Materials Science</specialization>
+		<period>2000-2003</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gitanjali" last="Yadav">Yadav, Dr. Gitanjali</name>
+		<sex>M</sex>
+		<birth>1976-00-00</birth>
+		<degree />
+		<honours />
+		<address>Computational Biology Lab., National Institute of Plant Genome Research, Arun Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email>gy@nipgr.res.in, gitanjali.yadav@gmail.com</email>
+		<specialization>Computational Biology, Plant Stress Biology, Systems Biology, Network Science</specialization>
+		<period>2010-2013</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jhillu Singh" last="Yadav">Yadav, Dr. Jhillu Singh</name>
+		<sex>M</sex>
+		<birth>1950-00-00</birth>
+		<degree />
+		<honours />
+		<address>Division of Organic Chemistry, Indian Inst. of Chemical Technology, Uppal Road</address>
+		<city>Hyderabad 500 007</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Bio-organic Chemistry</specialization>
+		<period>1984-1987</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subramanian" last="Yashonath">Yashonath, Dr. Subramanian</name>
+		<sex>M</sex>
+		<birth>1956-00-00</birth>
+		<degree />
+		<honours />
+		<address>Solid State and Structural Chemistry Unit, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state />
+		<country />
+		<telephone />
+		<fax />
+		<email />
+		<specialization>Computer Simulation of Physical Systems</specialization>
+		<period>1988-1991</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kumaran Nair Valsala Devi" last="Adarsh">Adarsh, Dr. Kumaran Nair Valsala Devi</name>
+		<sex>M</sex>
+		<birth>1980-05-30</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>Department of Physics, Indian Inst. of Science Education &amp; Research, ITI-GR Building, Govindapura</address>
+		<city>Bhopal 462 023</city>
+		<state>M.P.</state>
+		<country />
+		<telephone>
+			<office>(0755) 409 2322</office>
+			<residence>(0755) 268 0547, 99819 55380</residence>
+		</telephone>
+		<fax>(0755) 409 2392</fax>
+		<email>adarsh@iiserb.ac.in</email>
+		<specialization>Ultrafast Nonlinear Optics, Amorphous Semiconductors, Condensed Matter Physics</specialization>
+		<period>2014-2017</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Shivani" last="Agarwal">Agarwal, Dr. Shivani</name>
+		<sex>F</sex>
+		<birth>1978-04-08</birth>
+		<degree>Ph.D. (Illinois)</degree>
+		<honours />
+		<address>CSA Department, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3204</office>
+			<residence />
+		</telephone>
+		<fax />
+		<email>shivani@csa.iisc.ernet.in</email>
+		<specialization>Machine Learning, Statistical Learning Theory</specialization>
+		<period>2012-2015</period>
+		<url>http://www.csa.iisc.ernet.in/~shivani/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sanjib Kumar" last="Agarwalla">Agarwalla, Dr. Sanjib Kumar</name>
+		<sex>M</sex>
+		<birth>1980-04-08</birth>
+		<degree>Ph.D. (Calcutta)</degree>
+		<honours />
+		<address>Institute of Physics, Sachivalaya Marg, Sainik School Post</address>
+		<city>Bhubaneswar 751 005</city>
+		<state>Orissa</state>
+		<country />
+		<telephone>
+			<office>(0674) 230 6427</office>
+			<residence>(0674) 230 6672, 91788 45656</residence>
+		</telephone>
+		<fax>(0674) 230 0142</fax>
+		<email>sanjib@iopb.res.in, sanjib.agarwalla@gmail.com</email>
+		<specialization>Particle Physics, Dark Matter</specialization>
+		<period>2013-2016</period>
+		<url>http://www.iopb.res.in/members/sanjib</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Parameswaran" last="Ajith">Ajith, Dr. Parameswaran</name>
+		<sex>M</sex>
+		<birth>1980-05-27</birth>
+		<degree>Ph.D. (Max Planck Institute)</degree>
+		<honours />
+		<address>International Centre for Theoretical Sciences, Shivakote, Hesaraghatta Post</address>
+		<city>Bengaluru 560 089</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2360 8200/20</office>
+			<residence>(080) 4175 1819, 91645 94474</residence>
+		</telephone>
+		<fax>(080) 2360 8199</fax>
+		<email>ajith@icts.res.in</email>
+		<specialization>Gravitational-Wave Physics &amp; Astronomy, Relativity &amp; Gravitation, Astrophysics</specialization>
+		<period>2014-2017</period>
+		<url>http://home.icts.res.in/~ajith</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Arvind" last="Ayyer">Ayyer, Dr. Arvind</name>
+		<sex>M</sex>
+		<birth>1980-07-06</birth>
+		<degree>Ph.D. (Rutgers)</degree>
+		<honours />
+		<address>Department of Mathematics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3215</office>
+			<residence>(080) 2346 8246, 99016 40616</residence>
+		</telephone>
+		<fax>(080) 2360 0146</fax>
+		<email>arvind@math.iisc.ernet.in</email>
+		<specialization>Probability Theory, Combinatorics, Statistical Physics</specialization>
+		<period>2014-2017</period>
+		<url>http://www.math.iisc.ernet.in/~arvind</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Naseema S." last="Beegum">Beegum, Dr. Naseema S.</name>
+		<sex>F</sex>
+		<birth>1981-05-25</birth>
+		<degree>Ph.D. (Kerala)</degree>
+		<honours />
+		<address>Radio &amp; Atmospheric Sci. Divn., National Physical Laboratory, Dr. K.S. Krishnan Road</address>
+		<city>New Delhi 110 012</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office>(011) 4560 8265</office>
+			<residence>96548 56784</residence>
+		</telephone>
+		<fax />
+		<email>naseemaspl@gmail.com</email>
+		<specialization>Remote Sensing, Atmospheric Aerosols and Climate Implications</specialization>
+		<period>2012-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Melinda Kumar" last="Bera">Bera, Dr. Melinda Kumar</name>
+		<sex>M</sex>
+		<birth>1979-12-29</birth>
+		<degree>Ph.D. (IIT, Kharagpur)</degree>
+		<honours />
+		<address>Dept. of Geology &amp; Geophysics, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office />
+			<residence>94339 30456</residence>
+		</telephone>
+		<fax />
+		<email>melinda_bera@yahoo.com, melinda@gg.iitkgp.ernet.in</email>
+		<specialization>Sedimentology, Sequence Stratigraphy, Stable Isotope Geochemistry, Evolution of Himalayan Foreland, Indian Monsoon</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jyotishman" last="Bhowmick">Bhowmick, Dr. Jyotishman</name>
+		<sex>M</sex>
+		<birth>1981-11-05</birth>
+		<degree>Ph.D. (ISI, Kolkata)</degree>
+		<honours />
+		<address>Theoretical Statistics Mathematics Division, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(033) 2575 5410</office>
+			<residence>(033) 2464 5928, 90073 13505</residence>
+		</telephone>
+		<fax>(033) 2577 3071</fax>
+		<email>jyotishmanb@gmail.com</email>
+		<specialization>Operator Algebras, Noncommutative Geometry, Quantum Groups</specialization>
+		<period>2014-2017</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kanishka" last="Biswas">Biswas, Dr. Kanishka</name>
+		<sex>M</sex>
+		<birth>1982-10-25</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>New Chemistry Unit, JN Centre for Advanced Scientific Research, Jakkur</address>
+		<city>Bengaluru 560 064</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2208 2678</office>
+			<residence>(080) 2362 0380, 99020 63469</residence>
+		</telephone>
+		<fax />
+		<email>biswas.kanishka@gmail.com, kanishka@jncasr.ac.in</email>
+		<specialization>Solid State &amp; Materials Chemistry, Thermoelectrics, Inorganic Nanomaterials</specialization>
+		<period>2014-2017</period>
+		<url>http://www.jncasr.ac.in/kanishka/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ayan" last="Datta">Datta, Dr. Ayan</name>
+		<sex>M</sex>
+		<birth>1980-06-03</birth>
+		<degree>Ph.D. (JNCASR)</degree>
+		<honours />
+		<address>Department of Spectroscopy, Indian Assn. for the Cultivation of Science, Jadavpur</address>
+		<city>Kolkata 700 032</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(033) 2473 4971/2105</office>
+			<residence>98742 95938</residence>
+		</telephone>
+		<fax>(033) 2473 2805</fax>
+		<email>spad@iacs.res.in</email>
+		<specialization>Theoretical Chemistry, Computational Materials Science, Accurate Ground State, Excited State Properties, 2-Dimensional Systems</specialization>
+		<period>2010-2015</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sujit Kumar" last="Ghosh">Ghosh, Dr. Sujit Kumar</name>
+		<sex>M</sex>
+		<birth>1978-01-04</birth>
+		<degree>Ph.D. (IIT, Kanpur)</degree>
+		<honours />
+		<address>Indian Institute of Science Edn. &amp; Research, Homi Bhabha Road, Pashan</address>
+		<city>Pune 411 008</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2590 8076</office>
+			<residence>95525 72172</residence>
+		</telephone>
+		<fax>(020) 2590 8186</fax>
+		<email>sghosh@iiserpune.ac.in</email>
+		<specialization>Metal-Organic Frameworks, Functional Porous Materials</specialization>
+		<period>2012-2015</period>
+		<url>http://www.isserpune.ac.in/~sghosh/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Neena" last="Gupta">Gupta, Dr. Neena</name>
+		<sex>F</sex>
+		<birth>1984-11-24</birth>
+		<degree>Ph.D. (ISI, Calcutta)</degree>
+		<honours />
+		<address>Statistics &amp; Mathematics Unit, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(033) 2575 3400</office>
+			<residence>93310 27972</residence>
+		</telephone>
+		<fax>(033) 2577 3071</fax>
+		<email>neenag@isical.ac.in</email>
+		<specialization>Commutative Algebra, Affine Fibrations, Affine Spaces</specialization>
+		<period>2013-2018</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vishwesha" last="Guttal">Guttal, Dr. Vishwesha</name>
+		<sex>M</sex>
+		<birth>1981-03-27</birth>
+		<degree>Ph.D. (Ohio State)</degree>
+		<honours />
+		<address>Centre for Ecological Sciences TA-10, Biological Sci. Building, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2360 5797</office>
+			<residence>(080) 2672 1028, 96637 70707</residence>
+		</telephone>
+		<fax>(080) 2360 1428</fax>
+		<email>guttal@ces.iisc.ernet.in</email>
+		<specialization>Theoretical Ecology &amp; Evolution, Ecosystem Dynamics, collective Animal Behaviour</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Tanvi" last="Jain">Jain, Dr. Tanvi</name>
+		<sex>F</sex>
+		<birth>1981-05-17</birth>
+		<degree>Ph.D. (IIT, Delhi)</degree>
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute 7, SJS Sansanwal Marg</address>
+		<city>New Delhi 110 016</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office />
+			<residence>98998 66343</residence>
+		</telephone>
+		<fax />
+		<email>tanvi@isid.ac.in, tvi.jain@gmail.com</email>
+		<specialization>Operator Theory, Matrix Analysis, Topology</specialization>
+		<period>2010-2015</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Masilamani" last="Jeganmohan">Jeganmohan, Dr. Masilamani</name>
+		<sex>M</sex>
+		<birth>1978-04-29</birth>
+		<degree>Ph.D. (NTHU, Taiwan)</degree>
+		<honours />
+		<address>Indian Institute of Science Edn. &amp; Research, Mendeleev Block, Dr. Homi Bhabha Road</address>
+		<city>Pune 411 008</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2590 8206</office>
+			<residence>(020) 2586 2205, 91583 92179</residence>
+		</telephone>
+		<fax>(020) 2589 9790</fax>
+		<email>mjeganmohan@iiserpune.ac.in</email>
+		<specialization>Organometallic Chemistry, Asymmetric Synthesis and Total Synthesis</specialization>
+		<period>2012-2015</period>
+		<url>http://www.iiserpune.ac.in/~mjeganmohan</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rajan" last="Jha">Jha, Dr. Rajan</name>
+		<sex>M</sex>
+		<birth>1979-02-13</birth>
+		<degree>Ph.D. (IIT, Delhi)</degree>
+		<honours />
+		<address>School of Basic Sciences, Indian Institute of Technology</address>
+		<city>Bhubaneswar 751 013</city>
+		<state>Orissa</state>
+		<country />
+		<telephone>
+			<office>(0674) 257 6100</office>
+			<residence>95566 74679</residence>
+		</telephone>
+		<fax />
+		<email>rjha@iitbbs.ac.in, rajaniitd@gmail.com</email>
+		<specialization>Optical Sensors, Optical Fibre-based Devices, Plasmonics</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ullasa" last="Kodandaramaiah">Kodandaramaiah, Dr. Ullasa</name>
+		<sex>M</sex>
+		<birth>1981-11-01</birth>
+		<degree>Ph.D. (Stockholm)</degree>
+		<honours />
+		<address>School of Biology, Indian Inst. of Science Education &amp; Research, CET College Campus</address>
+		<city>Thiruvananthapuram 695 016</city>
+		<state>Kerala</state>
+		<country />
+		<telephone>
+			<office>(0471) 259 9424</office>
+			<residence>(0471) 270 8116, 82816 37975</residence>
+		</telephone>
+		<fax>(0471) 259 7427</fax>
+		<email>ullasa@iisertvm.ac.in</email>
+		<specialization>Evolutionary Biology, Ecology</specialization>
+		<period>2014-2017</period>
+		<url>http://www.vanasiri.in/ullasa</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ulaganathan" last="Mabalirajan">Mabalirajan, Dr. Ulaganathan</name>
+		<sex>M</sex>
+		<birth>1979-05-05</birth>
+		<degree>Ph.D. (AIIMS)</degree>
+		<honours />
+		<address>Molecular Immunogenetics Laboratory, Institute of Genomics &amp; Integrative Biology, Mall Road</address>
+		<city>Delhi 110 007</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office>(011) 2766 2580</office>
+			<residence>93117 01569</residence>
+		</telephone>
+		<fax>(011) 2766 7471</fax>
+		<email>mabsome@yahoo.co.in</email>
+		<specialization>Allergy &amp; Asthama, Mitochondrial Biology, Drug Discovery</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Radhakrishnan" last="Mahalakshmi">Mahalakshmi, Dr. Radhakrishnan</name>
+		<sex>F</sex>
+		<birth>1980-04-08</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>Molecular Biophysics Laboratory, Indian Institute of Science Edn. &amp; Research, Indore Bypass Road</address>
+		<city>Bhopal 462 066</city>
+		<state>M.P.</state>
+		<country />
+		<telephone>
+			<office>(0755) 409 2318</office>
+			<residence>(0755) 268 8272, 96850 04721</residence>
+		</telephone>
+		<fax>(0755) 409 2392</fax>
+		<email>maha@iiserb.ac.in</email>
+		<specialization>Membrane Protein Biophysics, Protein Folding, Spectroscopy</specialization>
+		<period>2014-2017</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Debabrata" last="Maiti">Maiti, Dr. Debabrata</name>
+		<sex>M</sex>
+		<birth>1980-12-10</birth>
+		<degree>Ph.D. (John Hopkins)</degree>
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(022) 2576 1755</office>
+			<residence>(022) 2576 8155, 98209 07155</residence>
+		</telephone>
+		<fax>(022) 2576 7152, (022) 2576 3480</fax>
+		<email>dmaiti@chem.iitb.ac.in</email>
+		<specialization>Organometallic Chemistry, Bioinorganic Chemistry, Synthetic Catalysis</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Abha" last="Misra">Misra, Dr. Abha</name>
+		<sex>F</sex>
+		<birth>1979-07-07</birth>
+		<degree>Ph.D. (IIT, Bombay)</degree>
+		<honours />
+		<address>Dept. of Instrumentation &amp; Applied Physics, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3198</office>
+			<residence>(080) 2360 4142, 94496 82451</residence>
+		</telephone>
+		<fax />
+		<email>abha@iap.iisc.ernet.in</email>
+		<specialization>Graphene &amp; CNT-based NEMS/MEMS Devices, Sensors &amp; Actuators, Hybrid Fuel Cells &amp; Batteries</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Santanu" last="Mukherjee">Mukherjee, Dr. Santanu</name>
+		<sex>M</sex>
+		<birth>1980-04-15</birth>
+		<degree>Ph.D. (Cologne)</degree>
+		<honours />
+		<address>Dept. of Organic Chemistry, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 2850</office>
+			<residence>(080) 2341 3465, 77606 35465</residence>
+		</telephone>
+		<fax>(080) 2360 0529</fax>
+		<email>sm@orgchem.iisc.ernet.in</email>
+		<specialization>Asymmetric Catalysis, Synthetic Methodologies, Stereoselective Synthesis</specialization>
+		<period>2012-2015</period>
+		<url>http://orgchem.iisc.ernet.in/faculty/sm/SM.htm</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Angshuman" last="Nag">Nag, Dr. Angshuman</name>
+		<sex>M</sex>
+		<birth>1980-10-05</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Science Edn. &amp; Research, Dr. Homi Bhabha Road, Pashan</address>
+		<city>Pune 411 008</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2590 8117</office>
+			<residence>95274 99260</residence>
+		</telephone>
+		<fax>(020) 2590 8186</fax>
+		<email>angshuman@iiserpune.ac.in</email>
+		<specialization>Colloidal Semiconductor Nanocrystals, Photophysical Properties, Optoelectronic Devices</specialization>
+		<period>2014-2017</period>
+		<url>http://www.iiserpune.ac.in/~angshuman</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Nisanth Narayanan" last="Nair">Nair, Dr. Nisanth Narayanan</name>
+		<sex>M</sex>
+		<birth>1979-05-05</birth>
+		<degree>Ph.D. (Hannover)</degree>
+		<honours />
+		<address>Dept. of Chemistry, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state>U.P.</state>
+		<country />
+		<telephone>
+			<office>(0512) 259 6311</office>
+			<residence>(0512) 259 8402, 97956 69397</residence>
+		</telephone>
+		<fax>(0512) 259 7436</fax>
+		<email>nnair@iitk.ac.in</email>
+		<specialization>Theoretical Chemistry, Molecular Dynamics Simulation, Soft Condensed Matter Systems</specialization>
+		<period>2012-2015</period>
+		<url>http://home.iitk.ac.in/~nnair</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vijaykumar S." last="Nair">Nair, Dr. Vijaykumar S.</name>
+		<sex>M</sex>
+		<birth>1981-05-26</birth>
+		<degree>Ph.D. (Kerala)</degree>
+		<honours />
+		<address>Space Physics Laboratory, Vikram Sarabhai Space Centre</address>
+		<city>Thiruvananthapuram 695 022</city>
+		<state>Kerala</state>
+		<country />
+		<telephone>
+			<office>(0471) 256 2160</office>
+			<residence>94956 56326</residence>
+		</telephone>
+		<fax>(0471) 270 6535</fax>
+		<email>vijayakumarsnair@gmail.com</email>
+		<specialization>Climate Change, Atmospheric Aerosols, Radiative Forcing, Cryosphere-Climate Interactions</specialization>
+		<period>2010-2015</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Anshu" last="Pandey">Pandey, Dr. Anshu</name>
+		<sex>M</sex>
+		<birth>1982-08-22</birth>
+		<degree>Ph.D. (Chicago)</degree>
+		<honours />
+		<address>SSCU, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 2070</office>
+			<residence>99016 20721</residence>
+		</telephone>
+		<fax>(080) 2360 1310</fax>
+		<email>anshup@sscu.iisc.ernet.in</email>
+		<specialization>Nanocrystals, Magneto-Optical Properties, Ultrafast Spectroscopy</specialization>
+		<period>2014-2017</period>
+		<url>http://www.sscu.iisc.ernet.in/anshu.html</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="G. V. Pavan" last="Kumar">Kumar, Dr. G. V. Pavan</name>
+		<sex>M</sex>
+		<birth>1980-12-03</birth>
+		<degree>Ph.D. (Bengaluru)</degree>
+		<honours />
+		<address>Divn. of Physics &amp; Chemistry, IISER Medleev Block, Pashan</address>
+		<city>Pune 411 008</city>
+		<state>Maharashtra</state>
+		<country />
+		<telephone>
+			<office>(020) 2590 8026</office>
+			<residence />
+		</telephone>
+		<fax>(020) 2586 5315</fax>
+		<email>pavan@iiserpune.ac.in</email>
+		<specialization>Plasmonics, Raman Scattering, Nanophotonics</specialization>
+		<period>2011-2015</period>
+		<url>http://www.iiserpune.ac.in/~pavan/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Gopalan" last="Rajaraman">Rajaraman, Dr. Gopalan</name>
+		<sex>M</sex>
+		<birth>1979-04-03</birth>
+		<degree>Ph.D. (Manchester)</degree>
+		<honours />
+		<address>Department of Chemistry, Indian Institute of Technology, Powai</address>
+		<city>Mumbai 400 076</city>
+		<state>Maharasthra</state>
+		<country />
+		<telephone>
+			<office>(022) 2576 7183</office>
+			<residence>(022) 2576 8183, 98336 07183</residence>
+		</telephone>
+		<fax />
+		<email>rajaraman@chem.iitb.ac.in</email>
+		<specialization>Applied Computational Chemistry, Molecular Magnetism, Catalysis</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Supratim" last="Ray">Ray, Dr. Supratim</name>
+		<sex>M</sex>
+		<birth>1979-09-21</birth>
+		<degree>Ph.D. (John Hopkins)</degree>
+		<honours />
+		<address>Centre for Neuroscience, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3437</office>
+			<residence>77606 64684</residence>
+		</telephone>
+		<fax />
+		<email>sray@cns.iisc.ernet.in</email>
+		<specialization>Systems Neuroscience, Attention, Gamma Oscillations, Signal Processing</specialization>
+		<period>2012-2015</period>
+		<url>http://www.cns.iisc.ernet.in/sray/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Parthanil" last="Roy">Roy, Dr. Parthanil</name>
+		<sex>M</sex>
+		<birth>1978-10-23</birth>
+		<degree>Ph.D. (Cornell)</degree>
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute 203, BT Road</address>
+		<city>Kolkata 700 108</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(033) 2575 2312</office>
+			<residence>90387 42510</residence>
+		</telephone>
+		<fax>(033) 2577 3071</fax>
+		<email>parthanil@isical.ac.in</email>
+		<specialization>Probability Theory, Stochastic Processes, Random Fields</specialization>
+		<period>2012-2015</period>
+		<url>http://sites.google.com/site/parthanilroy/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Kirti Chandra" last="Sahu">Sahu, Dr. Kirti Chandra</name>
+		<sex>F</sex>
+		<birth>1978-07-08</birth>
+		<degree>Ph.D. (JNCASR)</degree>
+		<honours />
+		<address>Dept. of Chemical Engineering, Indian Institute of Technology, Eddumailaram</address>
+		<city>Hyderabad 502 205</city>
+		<state>A.P.</state>
+		<country />
+		<telephone>
+			<office>(040) 2301 6063</office>
+			<residence>83740 91309</residence>
+		</telephone>
+		<fax>(040) 2301 6032</fax>
+		<email>ksahu@iith.ac.in, kirtichsahu@gmail.com</email>
+		<specialization>Fluid Mechanics, Transition to Turbulence in Shear Flows, Spatially Developing Flows in Complex Geometries, Multiphase Flows, Interfacial Fluid Mechanics</specialization>
+		<period>2012-2015</period>
+		<url>http://www.iith.ac.in/~ksahu/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Aswin Narayan" last="Sheshasayee">Sheshasayee, Dr. Aswin Narayan</name>
+		<sex>M</sex>
+		<birth>1983-11-06</birth>
+		<degree>Ph.D. (Cambridge)</degree>
+		<honours />
+		<address>National Centre for Biological Sciences, GKVK Campus</address>
+		<city>Bengaluru 560 065</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2366 6502</office>
+			<residence>(080) 4091 1541, 98448 13559</residence>
+		</telephone>
+		<fax>(080) 2363 6662</fax>
+		<email>aswin@ncbs.res.in</email>
+		<specialization>Evolution of Genomics, Gene Regulation, Microbiology</specialization>
+		<period>2013-2018</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Chandan" last="Srivastava">Srivastava, Dr. Chandan</name>
+		<sex>M</sex>
+		<birth>1980-05-01</birth>
+		<degree>Ph.D. (Alabama)</degree>
+		<honours />
+		<address>Dept. of Materials Engineering, Indian Institute of Science</address>
+		<city>Bengaluru 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 2834</office>
+			<residence>99006 26327</residence>
+		</telephone>
+		<fax />
+		<email>csrivastava@materials.iisc.ernet.in</email>
+		<specialization>Synthesis of Nanosolids, Size-dependent Phase Stability, TEM</specialization>
+		<period>2014-2017</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Maddika" last="SubbaReddy">SubbaReddy, Dr. Maddika</name>
+		<sex>M</sex>
+		<birth>1978-02-06</birth>
+		<degree>Ph.D. (Manitoba)</degree>
+		<honours />
+		<address>Centre for DNA Fingerprinting &amp; Diagnostics Gruhakalpa, Nampally</address>
+		<city>Hyderabad 500 001</city>
+		<state>A.P.</state>
+		<country />
+		<telephone>
+			<office>(040) 2474 9353</office>
+			<residence>99639 00011</residence>
+		</telephone>
+		<fax>(040) 2474 9448</fax>
+		<email>msreddy@cdfd.org.in</email>
+		<specialization>Cell Biology, Cell Signalling, Protein Modifications</specialization>
+		<period>2012-2015</period>
+		<url>http://cdfd.org.in/labpages/ms_reddy.html</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rotti Srinivasamurthy" last="Swathi">Swathi, Dr. Rotti Srinivasamurthy</name>
+		<sex>F</sex>
+		<birth>1982-07-17</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>School of Chemistry, Indian Inst. of Science Education &amp; Research, CET Campus</address>
+		<city>Thiruvananthapuram 695 016</city>
+		<state>Kerala</state>
+		<country />
+		<telephone>
+			<office>(0471) 259 9404</office>
+			<residence>97466 15945</residence>
+		</telephone>
+		<fax />
+		<email>swathi@iisertvm.ac.in</email>
+		<specialization>Theoretical Chemistry, Quantum Chemistry, Spectroscopy</specialization>
+		<period>2014-2017</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="C." last="Vineeth">Vineeth, Dr. C.</name>
+		<sex>M</sex>
+		<birth>1980-05-02</birth>
+		<degree>Ph.D. (Kerala)</degree>
+		<honours />
+		<address>Space Physics Laboratory, Vikram Sarabhai Space Centre</address>
+		<city>Thiruvananthapuram 695 022</city>
+		<state>Kerala</state>
+		<country />
+		<telephone>
+			<office>(0471) 256 3122</office>
+			<residence>97474 61222</residence>
+		</telephone>
+		<fax>(0471) 270 6535</fax>
+		<email>c_vineeth@vssc.gov.in, cnvins@gmail.com</email>
+		<specialization>Optical Remote Sensing of Terrestrial &amp; Planetary Atmospheres</specialization>
+		<period>2011-2015</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ranjani" last="Viswanatha">Viswanatha, Dr. Ranjani</name>
+		<sex>F</sex>
+		<birth>1979-02-06</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>ICMS &amp; NCU JN, Centre for Advanced Scientific Research, Jakkur P.O.</address>
+		<city>Bengaluru 560 064</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2208 2573</office>
+			<residence>95359 75745</residence>
+		</telephone>
+		<fax>(080) 2208 2599</fax>
+		<email>rv@jncasr.ac.in</email>
+		<specialization>Nanomaterials, Spectroscopy &amp; Electronic Structure, Magnetism</specialization>
+		<period>2013-2016</period>
+		<url />
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Atanu" last="Bhattacharya">Bhattacharya, Dr. Atanu</name>
+		<sex>M</sex>
+		<birth>1983-03-02</birth>
+		<degree>Ph.D. (Colorado State)</degree>
+		<honours />
+		<address>IPC Department, Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3349</office>
+			<residence>(080) 2360 0187, 94815 53095</residence>
+		</telephone>
+		<fax></fax>
+		<email>atanub@ipc.iisc.ernet.in, atanubhattach@gmail.com</email>
+		<specialization>Ultrafast Science, Surface Science, Molecular Beam Experiments</specialization>
+		<period>2016-2019</period>
+		<url>http://atanulab.weebly.com/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sabyashachi" last="Mishra">Mishra, Dr. Sabyashachi</name>
+		<sex>M</sex>
+		<birth>1982-06-01</birth>
+		<degree>Ph.D. (Munich)</degree>
+		<honours />
+		<address>Dept. of Chemistry, Indian Institute of Technology</address>
+		<city>Kharagpur 721 302</city>
+		<state>W.B.</state>
+		<country />
+		<telephone>
+			<office>(03222) 28 2328</office>
+			<residence>(03222) 28 2329</residence>
+		</telephone>
+		<fax></fax>
+		<email>mishra@chem.iitkgp.ernet.in</email>
+		<specialization>Theoretical &amp; Computational Chemistry, Enzyme Catalysis, Molecular Physics</specialization>
+		<period>2016-2019</period>
+		<url>http://www.chemistry.iitkgp.ac.in/faculty/SM/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Jagannath" last="Mondal">Mondal, Dr. Jagannath</name>
+		<sex>M</sex>
+		<birth>1983-03-17</birth>
+		<degree>Ph.D. (Wisconsin-Madison)</degree>
+		<honours />
+		<address>TIFR Centre for Interdisciplinary, Sciences, 21, Brundavan Colony, Narsangi</address>
+		<city>Hyderabad 500 075</city>
+		<state>A.P.</state>
+		<country />
+		<telephone>
+			<office>(040) 2419 5021</office>
+			<residence>89788 00599</residence>
+		</telephone>
+		<fax></fax>
+		<email>jmandal@tifrh.res.in, jagannath.mondal@gmail.com</email>
+		<specialization>Computational Chemistry, Theoretical Chemistry</specialization>
+		<period>2016-2019</period>
+		<url>https://sites.google.com/site/jmondalweb3/home</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Chandrika Thulaseedharan" last="Dhanya">Dhanya, Dr. Chandrika Thulaseedharan</name>
+		<sex>F</sex>
+		<birth>1983-05-31</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>Dept. of Civil Engineering, Indian Institute of Technology</address>
+		<city>New Delhi 110 016</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office>(011) 2658 7328</office>
+			<residence>(011) 2658 1681, 98104 12411</residence>
+		</telephone>
+		<fax>(011) 2658 1117</fax>
+		<email>dhanya@civil.iitd.ac.in, dhanyact@gmail.com</email>
+		<specialization>Water Resources Engineering, Climate Change Impact Assessment, Hydroclimatological Modelling</specialization>
+		<period>2016-2019</period>
+		<url>http://web.iitd.ac.in/~dhanya</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Swetaprovo" last="Chaudhuri">Chaudhuri, Dr. Swetaprovo</name>
+		<sex>M</sex>
+		<birth>1983-09-01</birth>
+		<degree>Ph.D. (Connecticut)</degree>
+		<honours />
+		<address>Dept. of Aerospace Engineering, Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 2875</office>
+			<residence>77604 56511</residence>
+		</telephone>
+		<fax></fax>
+		<email>schaudhuri@aero.iisc.ernet.in, swetaprovo@gmail.com</email>
+		<specialization>Propulsion, Combustion, Energy</specialization>
+		<period>2016-2019</period>
+		<url>https://www.aero.iisc.ernet.in/users/chaudhuri</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Praveen" last="Kumar">Kumar, Dr. Praveen</name>
+		<sex>M</sex>
+		<birth>1982-09-14</birth>
+		<degree>Ph.D. (Uni. South Calif.)</degree>
+		<honours />
+		<address>Dept. of Materials Engg., Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3369</office>
+			<residence>(080) 2360 4142, 99453 06436</residence>
+		</telephone>
+		<fax>(080) 2293 0472</fax>
+		<email>praveenk@materials.iisc.ernet.in</email>
+		<specialization>Mechanical Behaviour of Materials, Electromigration, Microelectronic packages</specialization>
+		<period>2016-2019</period>
+		<url>http://materials.iisc.ernet.in/~praveenk</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Bondhugula" last="Uday Kumar Reddy">Uday Kumar Reddy, Dr. Bondhugula</name>
+		<sex>M</sex>
+		<birth>1982-09-10</birth>
+		<degree>Ph.D. (Ohio State)</degree>
+		<honours />
+		<address>Dept. of Computer Sci. &amp; Automation, Indian Institute of Science</address>
+		<city>Bangalore 560 012</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2293 3249</office>
+			<residence>(080) 2360 1491, 94828 88228</residence>
+		</telephone>
+		<fax>(080) 2293 2911</fax>
+		<email>uday@csa.iisc.ernet.in</email>
+		<specialization>Compiler Optimisation, High Performance Computing, Automatic Parallelisation</specialization>
+		<period>2016-2019</period>
+		<url>https://www.csa.iisc.ernet.in/~uday</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Rohini" last="Garg">Garg, Dr. Rohini</name>
+		<sex>F</sex>
+		<birth>1982-09-19</birth>
+		<degree>Ph.D. (JNU)</degree>
+		<honours />
+		<address>INSPIRE Faculty Fellow, National Inst. of Plant Genome, Research, Aruna Asaf Ali Marg</address>
+		<city>New Delhi 110 067</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office>(011) 2673 5176</office>
+			<residence>(011) 2673 5136, 95600 56446</residence>
+		</telephone>
+		<fax>(011) 2674 1658</fax>
+		<email>rohini@nipgr.ac.in, gargrohini20@gmail.com</email>
+		<specialization>Plant Epigenomics, Biotechnology, Gene Regulation</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sameena" last="Khan">Khan, Dr. Sameena</name>
+		<sex>F</sex>
+		<birth>1984-05-23</birth>
+		<degree>Ph.D. (ICGEB)</degree>
+		<honours />
+		<address>Drug Delivery Res. Centre, Translational Health Sci. &amp; Tech., Institute, NCR Biotech. Science, Cluster 3rd Mailstone</address>
+		<city>Faridabad 121 001</city>
+		<state>Haryana</state>
+		<country />
+		<telephone>
+			<office>(0129) 287 6498</office>
+			<residence>(0124) 498 1539, 99581 32505</residence>
+		</telephone>
+		<fax></fax>
+		<email>sameena@thsti.res.in</email>
+		<specialization>Structural Biology, Cell Biology</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Samrat" last="Mondol">Mondol, Dr. Samrat</name>
+		<sex>M</sex>
+		<birth>1982-03-28</birth>
+		<degree>Ph.D. (Mangalore)</degree>
+		<honours />
+		<address>AECB Department, Wildlife Inst. of India, PO Box 18, Chandrabani</address>
+		<city>Dehradun 248 001</city>
+		<state>Uttarakhand</state>
+		<country />
+		<telephone>
+			<office>(0135) 264 6249</office>
+			<residence>(0135) 264 6177, 81919 70271</residence>
+		</telephone>
+		<fax>(0135) 264 0117</fax>
+		<email>samrat@wii.gov.in, samratmondol@gmail.com</email>
+		<specialization>Molecular Ecology, Conservation Genetics, Wildlife Endocrinology</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Vijay Kumar" last="Prajapati">Prajapati, Dr. Vijay Kumar</name>
+		<sex>M</sex>
+		<birth>1984-07-05</birth>
+		<degree>Ph.D. (BHU)</degree>
+		<honours />
+		<address>Dept. of Biochemistry, School of Life Science, Central University of Rajasthan, Bandarsindri</address>
+		<city>Kishangarh 305 817</city>
+		<state>Rajasthan</state>
+		<country />
+		<telephone>
+			<office></office>
+			<residence>75972 71362</residence>
+		</telephone>
+		<fax></fax>
+		<email>vkprajapati@curaj.ac.in, vijay84bhu@gmail.com</email>
+		<specialization>Infection Biology, Parasitology, Chemical Biology</specialization>
+		<period>2016-2019</period>
+		<url>http://vkprajapati-lab.webs.com/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Yogeshwaran" last="Dhandapani">Dhandapani, Dr. Yogeshwaran</name>
+		<sex>M</sex>
+		<birth>1982-12-13</birth>
+		<degree>Ph.D. (Pierre &amp; Marie Curie)</degree>
+		<honours />
+		<address>Stat-Math Unit, Indian Statistical Institute, RV College Post</address>
+		<city>Bangalore 560 059</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 2698 5471</office>
+			<residence></residence>
+		</telephone>
+		<fax>(080) 2848 4265</fax>
+		<email>d.yogesh@isibang.ac.in</email>
+		<specialization>Probability, Stochastic Geometry, Random Topology</specialization>
+		<period>2016-2019</period>
+		<url>https://sites.google.com/site/yogeshacademies/</url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Radhika" last="Ganapathy">Ganapathy, Dr. Radhika</name>
+		<sex>F</sex>
+		<birth>1982-06-18</birth>
+		<degree>Ph.D. (Purdue)</degree>
+		<honours />
+		<address>School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road</address>
+		<city>Mumbai 400 005</city>
+		<state>M.S.</state>
+		<country />
+		<telephone>
+			<office>(022) 2278 2472</office>
+			<residence>73582 37680</residence>
+		</telephone>
+		<fax>(022) 2280 4610-11</fax>
+		<email>rad.gan18@gmail.com</email>
+		<specialization>Representation Theory, Number Theory, Algebraic Groups</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Palanichamy" last="Jayanth Kumar">Jayanth Kumar, Dr. Palanichamy</name>
+		<sex>M</sex>
+		<birth>1983-05-09</birth>
+		<degree>MD (AIIMS)</degree>
+		<honours />
+		<address>Dept. of Biochemistry, All India Institute of Medical, Sciences, Ansari Nagar</address>
+		<city>New Delhi 110 029</city>
+		<state>U.T.</state>
+		<country />
+		<telephone>
+			<office>(011) 2659 4483</office>
+			<residence>98107 80293</residence>
+		</telephone>
+		<fax>(011) 2658 8663</fax>
+		<email>jayanthaiims@gmail.com</email>
+		<specialization>Noncoding RNA, Acute Lymphoblastic &amp; Myeloid Leukemias, RNA Building Proteins</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Subhro" last="Bhattacharjee">Bhattacharjee, Dr. Subhro</name>
+		<sex>M</sex>
+		<birth>1982-09-14</birth>
+		<degree>Ph.D. (IISc)</degree>
+		<honours />
+		<address>International Centre for, Theoretical Science, Hesaraghatta Post</address>
+		<city>Bangalore 560 089</city>
+		<state>Karnataka</state>
+		<country />
+		<telephone>
+			<office>(080) 4653 6250</office>
+			<residence>94812 84306</residence>
+		</telephone>
+		<fax>(080) 4653 6002</fax>
+		<email>subhro@icts.res.in</email>
+		<specialization>Quantum Many-Body Systems, Quantum Magnets, Topological Phases of Condensed Matter</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Sagar" last="Chakraborty">Chakraborty, Dr. Sagar</name>
+		<sex>M</sex>
+		<birth>1982-06-28</birth>
+		<degree>Ph.D. (SN B=NCBS, Kolkata)</degree>
+		<honours />
+		<address>Dept. of Physics, Indian Institute of Technology</address>
+		<city>Kanpur 208 016</city>
+		<state>U.P.</state>
+		<country />
+		<telephone>
+			<office>(0512) 392 6584</office>
+			<residence>(0512) 392 8840, 86019 53677</residence>
+		</telephone>
+		<fax>(0512) 259 0914</fax>
+		<email>sagarc@iitk.ac.in</email>
+		<specialization>Nonlinear Dynamics, Turbulence, Magnetohydrodynamics</specialization>
+		<period>2016-2019</period>
+		<url></url>
+	</associate>
+	<associate type="">
+		<name sal="Dr" first="Ranjit" last="Thapa">Thapa, Dr. Ranjit</name>
+		<sex>M</sex>
+		<birth>1982-09-17</birth>
+		<degree>Ph.D. (Jadavpur)</degree>
+		<honours />
+		<address>SRM Research Institute, 13th Floor, Central Lib. Bldg., SRM University</address>
+		<city>Kattankulathur 603 203</city>
+		<state>T.N.</state>
+		<country />
+		<telephone>
+			<office>(044) 2741 7918</office>
+			<residence>91762 96112</residence>
+		</telephone>
+		<fax></fax>
+		<email>ranjit.phy@gmail.com</email>
+		<specialization>Density Functional Theory, Metal-free Catalyst, Hydrogen Storage</specialization>
+		<period>2016-2019</period>
+		<url>http://www.ranjitcmslab.com</url>
+	</associate>
+</associates>

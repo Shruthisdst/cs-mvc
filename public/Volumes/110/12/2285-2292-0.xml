@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_110_12_2285_2292_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Assessment of polycyclic aromatic hydrocarbons and heavy metals pollution in soils of Guwahati city, Assam, India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Das</surname>
+						<given-names>Momita</given-names>
+					</name>
+					<string-name>Momita Das</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patel</surname>
+						<given-names>Devendra Kumar</given-names>
+					</name>
+					<string-name>Devendra Kumar Patel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarma</surname>
+						<given-names>Arup Kumar</given-names>
+					</name>
+					<string-name>Arup Kumar Sarma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baruah</surname>
+						<given-names>Binode Kumar</given-names>
+					</name>
+					<string-name>Binode Kumar Baruah</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Banu</surname>
+						<given-names>Sofia</given-names>
+					</name>
+					<string-name>Sofia Banu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kotoky</surname>
+						<given-names>Jibon</given-names>
+					</name>
+					<string-name>Jibon Kotoky</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2016-06-00</string-date>
+			</pub-date>
+			<volume>110</volume>
+			<issue>12</issue>
+			<issue-title />
+			<page-range>2285-2292</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

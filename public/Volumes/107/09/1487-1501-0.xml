@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_107_09_1487_1501_0</article-id>
+			<article-categories>
+				<series-title>Special Section: Georeferenced soil information system for agricultural land use planning</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Impact of management levels and land-use changes on soil properties in riceâ€“wheat cropping system of the Indo-Gangetic Plains</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sidhu</surname>
+						<given-names>G. S.</given-names>
+					</name>
+					<string-name>G. S. Sidhu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhattacharyya</surname>
+						<given-names>T.</given-names>
+					</name>
+					<string-name>T. Bhattacharyya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarkar</surname>
+						<given-names>D.</given-names>
+					</name>
+					<string-name>D. Sarkar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ray</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Ray</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chandran</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Chandran</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pal</surname>
+						<given-names>D. K.</given-names>
+					</name>
+					<string-name>D. K. Pal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mandal</surname>
+						<given-names>D. K.</given-names>
+					</name>
+					<string-name>D. K. Mandal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad</surname>
+						<given-names>J.</given-names>
+					</name>
+					<string-name>J. Prasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nair</surname>
+						<given-names>K. M.</given-names>
+					</name>
+					<string-name>K. M. Nair</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sahoo</surname>
+						<given-names>A. K.</given-names>
+					</name>
+					<string-name>A. K. Sahoo</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Das</surname>
+						<given-names>T. H.</given-names>
+					</name>
+					<string-name>T. H. Das</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>R. S.</given-names>
+					</name>
+					<string-name>R. S. Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mandal</surname>
+						<given-names>C.</given-names>
+					</name>
+					<string-name>C. Mandal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srivastava</surname>
+						<given-names>R.</given-names>
+					</name>
+					<string-name>R. Srivastava</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sen</surname>
+						<given-names>T. K.</given-names>
+					</name>
+					<string-name>T. K. Sen</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chatterjii</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Chatterjii</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patil</surname>
+						<given-names>N. G.</given-names>
+					</name>
+					<string-name>N. G. Patil</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Opireddy</surname>
+						<given-names>G. P.</given-names>
+					</name>
+					<string-name>G. P. Opireddy</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mahapatra</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Mahapatra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Anil Kumar</surname>
+						<given-names>K. S.</given-names>
+					</name>
+					<string-name>K. S. Anil Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Das</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Das</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>A. K.</given-names>
+					</name>
+					<string-name>A. K. Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Reza</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Reza</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dutta</surname>
+						<given-names>D.</given-names>
+					</name>
+					<string-name>D. Dutta</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srinivas</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Srinivas</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tiwary</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Tiwary</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Karthikeyan</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Karthikeyan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Venugopalan</surname>
+						<given-names>M. V.</given-names>
+					</name>
+					<string-name>M. V. Venugopalan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Velmourougane</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Velmourougane</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srivastava</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Srivastava</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Raychaudhuri</surname>
+						<given-names>Mausumi</given-names>
+					</name>
+					<string-name>Mausumi Raychaudhuri</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kundu</surname>
+						<given-names>D. K.</given-names>
+					</name>
+					<string-name>D. K. Kundu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mandal</surname>
+						<given-names>K. G.</given-names>
+					</name>
+					<string-name>K. G. Mandal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname></surname>
+						<given-names></given-names>
+					</name>
+					<string-name></string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2014-11-00</string-date>
+			</pub-date>
+			<volume>107</volume>
+			<issue>09</issue>
+			<issue-title />
+			<page-range>1487-1501</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_109_06_1114_1120_0</article-id>
+			<article-categories>
+				<series-title>Special Section: Mars Orbiter Mission</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Lyman Alpha Photometer: a far-ultraviolet sensor for the study of hydrogen isotope ratio in the Martian exosphere</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sridhar</surname>
+						<given-names>Raja V. L. N.</given-names>
+					</name>
+					<string-name>Raja V. L. N. Sridhar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rao</surname>
+						<given-names>M. V. H.</given-names>
+					</name>
+					<string-name>M. V. H. Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kalyani</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Kalyani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhaskar</surname>
+						<given-names>K. V. S.</given-names>
+					</name>
+					<string-name>K. V. S. Bhaskar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chandran</surname>
+						<given-names>Anand</given-names>
+					</name>
+					<string-name>Anand Chandran</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mahajan</surname>
+						<given-names>Monika</given-names>
+					</name>
+					<string-name>Monika Mahajan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhaskar Manja</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Bhaskar Manja</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gouda</surname>
+						<given-names>Girish M.</given-names>
+					</name>
+					<string-name>Girish M. Gouda</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tayaramma</surname>
+						<given-names>J. D. P. V.</given-names>
+					</name>
+					<string-name>J. D. P. V. Tayaramma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Amudha</surname>
+						<given-names>P. R.</given-names>
+					</name>
+					<string-name>P. R. Amudha</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kandpal</surname>
+						<given-names>Madan Mohan</given-names>
+					</name>
+					<string-name>Madan Mohan Kandpal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pramod</surname>
+						<given-names>K. B.</given-names>
+					</name>
+					<string-name>K. B. Pramod</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Viswanath</surname>
+						<given-names>S. G.</given-names>
+					</name>
+					<string-name>S. G. Viswanath</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad</surname>
+						<given-names>L. V.</given-names>
+					</name>
+					<string-name>L. V. Prasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Laxmiprasad</surname>
+						<given-names>L. S.</given-names>
+					</name>
+					<string-name>L. S. Laxmiprasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chakraborty</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Chakraborty</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kamalakar</surname>
+						<given-names>J. A.</given-names>
+					</name>
+					<string-name>J. A. Kamalakar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nagendra Rao</surname>
+						<given-names>G.</given-names>
+					</name>
+					<string-name>G. Nagendra Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Viswanathan</surname>
+						<given-names>M.</given-names>
+					</name>
+					<string-name>M. Viswanathan</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2015-09-00</string-date>
+			</pub-date>
+			<volume>109</volume>
+			<issue>06</issue>
+			<issue-title />
+			<page-range>1114-1120</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

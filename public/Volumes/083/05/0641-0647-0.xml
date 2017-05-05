@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_083_05_0641_0647_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Recent findings on the Acheulian of the Hunsgi and Baichbal valleys, Karnataka, with special reference to the Isampur excavation and its dating</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Paddayya</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Paddayya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>B. A. B.</surname>
+						<given-names></given-names>
+					</name>
+					<string-name>B. A. B.</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Blackwell</surname>
+						<given-names></given-names>
+					</name>
+					<string-name>Blackwell</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jhaldiyal</surname>
+						<given-names>R.</given-names>
+					</name>
+					<string-name>R. Jhaldiyal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Petraglia</surname>
+						<given-names>M. D.</given-names>
+					</name>
+					<string-name>M. D. Petraglia</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fevrier</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Fevrier</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chaderton II</surname>
+						<given-names>D. A.</given-names>
+					</name>
+					<string-name>D. A. Chaderton II</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Blickstein</surname>
+						<given-names>J. I. B.</given-names>
+					</name>
+					<string-name>J. I. B. Blickstein</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Skinner</surname>
+						<given-names>A. R.</given-names>
+					</name>
+					<string-name>A. R. Skinner</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2002-09-00</string-date>
+			</pub-date>
+			<volume>083</volume>
+			<issue>05</issue>
+			<issue-title />
+			<page-range>0641-0647</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

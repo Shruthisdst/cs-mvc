@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_109_06_1097_1105_0</article-id>
+			<article-categories>
+				<series-title>Special Section: Mars Orbiter Mission</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Thermal Infrared Imaging Spectrometer for Mars Orbiter Mission</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>R. P.</given-names>
+					</name>
+					<string-name>R. P. Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarkar</surname>
+						<given-names>Somya S.</given-names>
+					</name>
+					<string-name>Somya S. Sarkar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>Manoj</given-names>
+					</name>
+					<string-name>Manoj Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Saxena</surname>
+						<given-names>Anish</given-names>
+					</name>
+					<string-name>Anish Saxena</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rao</surname>
+						<given-names>U. S. H.</given-names>
+					</name>
+					<string-name>U. S. H. Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhardwaj</surname>
+						<given-names>Arun</given-names>
+					</name>
+					<string-name>Arun Bhardwaj</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Desai</surname>
+						<given-names>Jalshri</given-names>
+					</name>
+					<string-name>Jalshri Desai</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sharma</surname>
+						<given-names>Jitendra</given-names>
+					</name>
+					<string-name>Jitendra Sharma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patel</surname>
+						<given-names>Amul</given-names>
+					</name>
+					<string-name>Amul Patel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Shinde</surname>
+						<given-names>Yogesh</given-names>
+					</name>
+					<string-name>Yogesh Shinde</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Arora</surname>
+						<given-names>Hemant</given-names>
+					</name>
+					<string-name>Hemant Arora</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srinivas</surname>
+						<given-names>A. R.</given-names>
+					</name>
+					<string-name>A. R. Srinivas</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rathi</surname>
+						<given-names>Jaya</given-names>
+					</name>
+					<string-name>Jaya Rathi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patel</surname>
+						<given-names>Hitesh</given-names>
+					</name>
+					<string-name>Hitesh Patel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarkar</surname>
+						<given-names>Meenakshi</given-names>
+					</name>
+					<string-name>Meenakshi Sarkar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gajaria</surname>
+						<given-names>Arpita</given-names>
+					</name>
+					<string-name>Arpita Gajaria</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manthira Moorthi</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Manthira Moorthi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pandya</surname>
+						<given-names>Mehul R.</given-names>
+					</name>
+					<string-name>Mehul R. Pandya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gujrati</surname>
+						<given-names>Ashwin</given-names>
+					</name>
+					<string-name>Ashwin Gujrati</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chauhan</surname>
+						<given-names>Prakash</given-names>
+					</name>
+					<string-name>Prakash Chauhan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kuriakose</surname>
+						<given-names>Saji A.</given-names>
+					</name>
+					<string-name>Saji A. Kuriakose</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Samudraiah</surname>
+						<given-names>D. R. M.</given-names>
+					</name>
+					<string-name>D. R. M. Samudraiah</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kiran Kumar</surname>
+						<given-names>A. S.</given-names>
+					</name>
+					<string-name>A. S. Kiran Kumar</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2015-09-00</string-date>
+			</pub-date>
+			<volume>109</volume>
+			<issue>06</issue>
+			<issue-title />
+			<page-range>1097-1105</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

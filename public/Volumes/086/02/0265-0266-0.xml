@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_086_02_0265_0266_0</article-id>
+			<article-categories>
+				<series-title>Scientific Correspondence</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Apoptosis as a novel mode of secretion in endocrine corpuscles of Stannius of a teleost (Clarius batrachus)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ahmad</surname>
+						<given-names>M. Firoz</given-names>
+					</name>
+					<string-name>M. Firoz Ahmad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alim</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Alim</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad</surname>
+						<given-names>Anita</given-names>
+					</name>
+					<string-name>Anita Prasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sen</surname>
+						<given-names>N. S.</given-names>
+					</name>
+					<string-name>N. S. Sen</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rao</surname>
+						<given-names>N. V. Appa</given-names>
+					</name>
+					<string-name>N. V. Appa Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hore</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Hore</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Naskar</surname>
+						<given-names>R.</given-names>
+					</name>
+					<string-name>R. Naskar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mishra</surname>
+						<given-names>K. P.</given-names>
+					</name>
+					<string-name>K. P. Mishra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bonga</surname>
+						<given-names>S. E. Wendelaar</given-names>
+					</name>
+					<string-name>S. E. Wendelaar Bonga</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2004-01-00</string-date>
+			</pub-date>
+			<volume>086</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0265-0266</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

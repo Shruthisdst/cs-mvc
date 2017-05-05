@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_100_06_0827_0830_0</article-id>
+			<article-categories>
+				<series-title>Scientific Correspondence</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Variability in and relation between tree growth, heartwood and oil content in sandalwood (Santalum album L. )</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>A. N. Arun</given-names>
+					</name>
+					<string-name>A. N. Arun Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srinivasa</surname>
+						<given-names>Y. B.</given-names>
+					</name>
+					<string-name>Y. B. Srinivasa</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Joshi</surname>
+						<given-names>Geeta</given-names>
+					</name>
+					<string-name>Geeta Joshi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Seetharam</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Seetharam</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2011-03-00</string-date>
+			</pub-date>
+			<volume>100</volume>
+			<issue>06</issue>
+			<issue-title />
+			<page-range>0827-0830</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

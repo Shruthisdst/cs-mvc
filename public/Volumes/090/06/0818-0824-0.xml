@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_090_06_0818_0824_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Evaluation of bacterial blight resistance in rice lines carrying multiple resistance genes and Xa21 transgenic lines</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Swamy</surname>
+						<given-names>Prashant</given-names>
+					</name>
+					<string-name>Prashant Swamy</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Panchbhai</surname>
+						<given-names>Ajay N.</given-names>
+					</name>
+					<string-name>Ajay N. Panchbhai</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dodiya</surname>
+						<given-names>Priti</given-names>
+					</name>
+					<string-name>Priti Dodiya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Naik</surname>
+						<given-names>Vaishali</given-names>
+					</name>
+					<string-name>Vaishali Naik</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Panchbhai</surname>
+						<given-names>S. D.</given-names>
+					</name>
+					<string-name>S. D. Panchbhai</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zehr</surname>
+						<given-names>Usha B.</given-names>
+					</name>
+					<string-name>Usha B. Zehr</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Azhakanandam</surname>
+						<given-names>Kasi</given-names>
+					</name>
+					<string-name>Kasi Azhakanandam</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Char</surname>
+						<given-names>Bharat R.</given-names>
+					</name>
+					<string-name>Bharat R. Char</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2006-03-00</string-date>
+			</pub-date>
+			<volume>090</volume>
+			<issue>06</issue>
+			<issue-title />
+			<page-range>0818-0824</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

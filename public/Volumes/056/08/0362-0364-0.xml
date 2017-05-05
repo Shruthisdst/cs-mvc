@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_056_08_0362_0364_0</article-id>
+			<article-categories>
+				<series-title>Short Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Effect of herbicide DPX-F6025 (classic), 2(([(4-chloro-6-methyl-pyrimidine-2-yl) amino carbonyl] amino sulfonyl)) benzoic acid, ethyl ester, on cultured cells of corn and several geno types of soyabean</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chowdhury</surname>
+						<given-names>Vijay K.</given-names>
+					</name>
+					<string-name>Vijay K. Chowdhury</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zehr</surname>
+						<given-names>Brent E.</given-names>
+					</name>
+					<string-name>Brent E. Zehr</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Widholm</surname>
+						<given-names>J. M.</given-names>
+					</name>
+					<string-name>J. M. Widholm</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1987-04-00</string-date>
+			</pub-date>
+			<volume>056</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>0362-0364</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_055_07_0353_0354_0</article-id>
+			<article-categories>
+				<series-title>Short Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Azo and Schiff Bases and their Metal Complexes as Antibacterial Compounds</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pujar</surname>
+						<given-names>M. A.</given-names>
+					</name>
+					<string-name>M. A. Pujar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hadimani</surname>
+						<given-names>B. S.</given-names>
+					</name>
+					<string-name>B. S. Hadimani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumari</surname>
+						<given-names>S. Meena</given-names>
+					</name>
+					<string-name>S. Meena Kumari</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gaddad</surname>
+						<given-names>S. M.</given-names>
+					</name>
+					<string-name>S. M. Gaddad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Neelgund</surname>
+						<given-names>Y. F.</given-names>
+					</name>
+					<string-name>Y. F. Neelgund</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1986-04-00</string-date>
+			</pub-date>
+			<volume>055</volume>
+			<issue>07</issue>
+			<issue-title />
+			<page-range>0353-0354</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

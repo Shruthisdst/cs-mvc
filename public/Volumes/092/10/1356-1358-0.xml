@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_092_10_1356_1358_0</article-id>
+			<article-categories>
+				<series-title>Scientific Correspondence</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Occurrence and prevalence of Cyllamyces genus - A putative anaerobic gut fungus in Indian cattle and buffaloes</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sridhar</surname>
+						<given-names>Manpal</given-names>
+					</name>
+					<string-name>Manpal Sridhar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>Deepak</given-names>
+					</name>
+					<string-name>Deepak Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Anandan</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Anandan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad</surname>
+						<given-names>C. S.</given-names>
+					</name>
+					<string-name>C. S. Prasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sampath</surname>
+						<given-names>K. T.</given-names>
+					</name>
+					<string-name>K. T. Sampath</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2007-05-00</string-date>
+			</pub-date>
+			<volume>092</volume>
+			<issue>10</issue>
+			<issue-title />
+			<page-range>1356-1358</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,45 @@
+.center{
+	text-align: center;
+}
+.large{
+	font-size: 1.5em;
+}
+.outFile{
+	font-weight: bold;
+	padding: 1em 0em 0em 0em;
+}
+.right{
+	text-align: right;
+}
+.dashed_border{
+	border: 1px dashed red;
+	margin: 1em 0em;
+}
+.textIndent{
+    text-indent: 50px;
+}
+.list-unstyled{
+	font-size: 12px;
+}
+.red
+{
+	padding-top: 1em;
+	color: red;
+	font-size: 20px;
+}
+.eachauthor
+{
+	margin: 0em 0em 0em 5em;
+	padding: 1em;
+}
+#btn, #addAuthorbtn
+{
+	margin: 1em 0em 1em 5em;
+}
+.warning{
+	font-weight: bold;
+	color: red;
+}
+#showArticleID{
+display: none;
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_105_01_0072_0080_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Anthocyanin enrichment of tomato (<italic>Solanum lycopersicum</italic> L.) fruit by metabolic engineering</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Maligeppagol</surname>
+						<given-names>Manamohan</given-names>
+					</name>
+					<string-name>Manamohan Maligeppagol</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sharath Chandra</surname>
+						<given-names>G.</given-names>
+					</name>
+					<string-name>G. Sharath Chandra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Navale</surname>
+						<given-names>Prakash M.</given-names>
+					</name>
+					<string-name>Prakash M. Navale</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Deepa</surname>
+						<given-names>H.</given-names>
+					</name>
+					<string-name>H. Deepa</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rajeev</surname>
+						<given-names>P. R.</given-names>
+					</name>
+					<string-name>P. R. Rajeev</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Asokan</surname>
+						<given-names>R.</given-names>
+					</name>
+					<string-name>R. Asokan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad Babu</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Prasad Babu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bujji Babu</surname>
+						<given-names>C. S.</given-names>
+					</name>
+					<string-name>C. S. Bujji Babu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Keshava Rao</surname>
+						<given-names>V.</given-names>
+					</name>
+					<string-name>V. Keshava Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Krishna Kumar</surname>
+						<given-names>N. K.</given-names>
+					</name>
+					<string-name>N. K. Krishna Kumar</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2013-07-00</string-date>
+			</pub-date>
+			<volume>105</volume>
+			<issue>01</issue>
+			<issue-title />
+			<page-range>0072-0080</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

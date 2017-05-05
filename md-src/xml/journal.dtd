@@ -1,0 +1,37 @@
+<!ELEMENT journal (volume+)>
+<!ATTLIST journal title CDATA #REQUIRED>
+<!ATTLIST journal short CDATA #REQUIRED>
+<!ATTLIST journal mnemonic CDATA #REQUIRED>
+<!ELEMENT volume (issue+)>
+<!ATTLIST volume vnum CDATA #REQUIRED>
+<!ELEMENT issue (entry+)>
+<!ATTLIST issue inum CDATA #REQUIRED>
+<!ATTLIST issue month CDATA #REQUIRED>
+<!ATTLIST issue year CDATA #REQUIRED>
+<!ATTLIST issue info CDATA #REQUIRED>
+<!ELEMENT entry (title,feature,page,abstract,keywords,authors,dates)>
+<!ATTLIST entry hassup (0|1) #REQUIRED>
+<!ELEMENT title (#PCDATA|i|sup|sub|b)*>
+<!ELEMENT feature (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT abstract (#PCDATA|p|ol|ul)*>
+<!ELEMENT p (#PCDATA|i|sup|sub|b|u)*>
+<!ELEMENT ol (li+)>
+<!ELEMENT ul (li+)>
+<!ELEMENT li (#PCDATA|ol|sup|sub|i|b)*>
+<!ELEMENT keywords (#PCDATA|i|sup|sub|b)*>
+<!ELEMENT i (#PCDATA|sup|sub|b)*>
+<!ELEMENT b (#PCDATA|sup|sub|i)*>
+<!ELEMENT u (#PCDATA)>
+<!ELEMENT sub (#PCDATA|i|b|sub)*>
+<!ELEMENT sup (#PCDATA|i|b)*>
+<!ELEMENT authors (author*)>
+<!ELEMENT author (name,affiliation+,email)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name first CDATA #REQUIRED>
+<!ATTLIST name last CDATA #REQUIRED>
+<!ELEMENT affiliation (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT dates (date*)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date type CDATA #REQUIRED>

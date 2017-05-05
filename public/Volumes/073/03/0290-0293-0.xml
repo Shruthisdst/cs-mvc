@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_073_03_0290_0293_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Nicotinamide and alpha-tocopherol combination partially protects t-butyl hydroperoxide-induced neutrotoxicity: Implication for neurodegenerative disease</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Parihar</surname>
+						<given-names>M. S.</given-names>
+					</name>
+					<string-name>M. S. Parihar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manjula</surname>
+						<given-names>Y.</given-names>
+					</name>
+					<string-name>Y. Manjula</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bano</surname>
+						<given-names>Saira</given-names>
+					</name>
+					<string-name>Saira Bano</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hemnani</surname>
+						<given-names>Taruna</given-names>
+					</name>
+					<string-name>Taruna Hemnani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Javeri</surname>
+						<given-names>Tarangini</given-names>
+					</name>
+					<string-name>Tarangini Javeri</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prakash</surname>
+						<given-names>Prem</given-names>
+					</name>
+					<string-name>Prem Prakash</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1997-08-00</string-date>
+			</pub-date>
+			<volume>073</volume>
+			<issue>03</issue>
+			<issue-title />
+			<page-range>0290-0293</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_101_12_1553_1561_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title><italic>De novo</italic> sequencing and assembly of<italic>Azadirachta indica</italic> fruit transcriptome</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Krishnan</surname>
+						<given-names>Neeraja M.</given-names>
+					</name>
+					<string-name>Neeraja M. Krishnan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pattnaik</surname>
+						<given-names>Swetansu</given-names>
+					</name>
+					<string-name>Swetansu Pattnaik</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Deepak</surname>
+						<given-names>S. A.</given-names>
+					</name>
+					<string-name>S. A. Deepak</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hariharan</surname>
+						<given-names>Arun K.</given-names>
+					</name>
+					<string-name>Arun K. Hariharan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gaur</surname>
+						<given-names>Prakhar</given-names>
+					</name>
+					<string-name>Prakhar Gaur</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chaudhary</surname>
+						<given-names>Rakshit</given-names>
+					</name>
+					<string-name>Rakshit Chaudhary</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jain</surname>
+						<given-names>Prachi</given-names>
+					</name>
+					<string-name>Prachi Jain</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vaidyanathan</surname>
+						<given-names>Srividya</given-names>
+					</name>
+					<string-name>Srividya Vaidyanathan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bharath Krishna</surname>
+						<given-names>P. G.</given-names>
+					</name>
+					<string-name>P. G. Bharath Krishna</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Panda</surname>
+						<given-names>Binay</given-names>
+					</name>
+					<string-name>Binay Panda</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2011-12-00</string-date>
+			</pub-date>
+			<volume>101</volume>
+			<issue>12</issue>
+			<issue-title />
+			<page-range>1553-1561</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
