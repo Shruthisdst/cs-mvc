@@ -58,7 +58,7 @@ class viewHelper extends View {
 
     public function linkDjVu($row = array()) {
         
-        if (intval($row['snum']) >= DIGITIZED_FROM) {             
+        if (intval($row['snum']) >= DIGITIZED_FROM) {
             echo ' | <span class="link-span clr5 yes-ul">';
             echo $this->linkAbstract($row, 1);
             echo '</span> | <span class="link-span clr5 yes-ul">';
@@ -435,6 +435,11 @@ class viewHelper extends View {
             </div>
         ';
     }
+    
+    public function get_columns(){
+		
+		echo '<li class="widget-container widget_recent_news"></li>';
+	}
 }
 
 ?>

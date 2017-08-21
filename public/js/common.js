@@ -1,3 +1,26 @@
+function getResult(feature,widget) {
+    // alert('hhh');
+     //alert(base_url + "data/getFeatureDetails/?feature=" + feature);
+    $.ajax({
+        url: base_url + "data/getFeatureDetails/?feature=" + feature,
+        type: "GET",
+        success: function(data){
+           var widgetNum = ".widget" + widget; 
+           var displayString = "";
+           var obj = JSON.parse(data);
+           var displayString = "";
+           displayString = displayString + '<h4>'+ feature +'</h4><hr />';
+            for(i=0;i<obj.length;i++){
+				
+				displayString = displayString + '<li class="widget-container widget_recent_news"><a href="'+ base_url + 'describe/article/' + obj[i]['journal'] + '/' + obj[i]['volume'] + '/' + obj[i]['issue'] + '/' + obj[i]['page'] + '">' + obj[i]['title'] + '</a></li>';
+			}
+            $(widgetNum).append(displayString);
+            displayString = '';
+        },
+        error: function(){console.log("Fail");}
+  });
+}
+
 $(document).ready(function() {
 
     var isWider = $( '.wider' );

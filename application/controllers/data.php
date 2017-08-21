@@ -188,6 +188,16 @@ class data extends Controller {
 			echo 'False';
 		}
 	}
+	
+	public function getFeatureDetails(){
+		$getData = $this->model->getGetData();
+		unset($getData['url']);
+		$dbh = $this->model->db->connect(DB_NAME);
+		
+		$data = $this->model->db->getFeatureDetailsForCurrentIssue(METADATA_TABLE,$dbh,$getData['feature']);
+		
+		echo json_encode($data, JSON_UNESCAPED_UNICODE);
+	}
 }
 
 ?>

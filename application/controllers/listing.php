@@ -59,8 +59,8 @@ class listing extends Controller {
 	public function forthcoming($journal = DEFAULT_JOURNAL) {
 
 		$data = $this->model->listForthcoming($journal);
-		// var_dump($data);
-		($data) ? $this->view('listing/forthcoming', $data, $journal) : $this->view('error/index');
+		var_dump($data);
+		//~ ($data) ? $this->view('listing/forthcoming', $data, $journal) : $this->view('error/index');
 	}
 
 	public function specialIssues($journal = DEFAULT_JOURNAL, $splTitle = '') {
@@ -70,6 +70,12 @@ class listing extends Controller {
 	}
 
 	public function listsplIssue($journal = DEFAULT_JOURNAL, $volume, $pages) {
+
+		$data = $this->model->listSpecialSection($journal, $volume, $pages);
+		($data) ? $this->view('listing/specialSection', $data, $journal) : $this->view('error/index');
+	}
+
+	public function currentToc($journal = DEFAULT_JOURNAL, $volume, $pages) {
 
 		$data = $this->model->listSpecialSection($journal, $volume, $pages);
 		($data) ? $this->view('listing/specialSection', $data, $journal) : $this->view('error/index');

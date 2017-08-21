@@ -22,7 +22,6 @@ class describe extends Controller {
 			$this->view('describe/article', $data, $journal);
 		}
 		else {
-			
 			$this->view('error/index');
 		}
 	}
@@ -37,6 +36,12 @@ class describe extends Controller {
 
 		$data = $this->model->getDetailsByName($name, 'ASSOCIATE');
 		($data) ? $this->view('describe/associate', $data) : $this->view('error/index');
+	}
+
+	public function getFeatureDetails($journal = DEFAULT_JOURNAL, $feature = 'correspondence') {
+
+		$data = $this->model->listCurrentToc($journal, $feature);
+		var_dump($data);
 	}
 }
 

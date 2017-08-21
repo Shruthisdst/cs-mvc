@@ -106,8 +106,8 @@ class dataModel extends Model {
 					{
 						$affKey = (string) $aff['rid'];
 						$affValue = (string) $affiliations[$affKey];
-						array_push($tempArray, $affValue); 
-						//echo $affKey . "\n"; 
+						array_push($tempArray, $affValue);
+						//echo $affKey . "\n";
 					}
 
 					$tempAuthor['affiliation'] = (object)$tempArray;
@@ -350,7 +350,7 @@ class dataModel extends Model {
 				$tempAuthor['email']=$author->email; 
 				array_push($authors,$tempAuthor);
 			}
-		}	
+		}
 
 		$authorsJson = json_encode($authors,JSON_UNESCAPED_UNICODE);
 

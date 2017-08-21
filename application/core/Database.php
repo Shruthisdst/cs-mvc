@@ -104,6 +104,23 @@ class Database extends PDO {
 		
 		return DB_PREFIX . strtoupper($db);
 	}
+
+	public function getFeatureDetailsForCurrentIssue($table,$dbh,$feature='') {
+		
+		$data = array();
+		
+		$sth = $dbh->prepare('SELECT DISTINCT volume, issue FROM ' . $table .' ORDER BY volume DESC, issue DESC LIMIT 1');
+		$sth->execute();
+		$data = $sth->fetch(PDO::FETCH_ASSOC);
+		
+		
+		$sth = $dbh->prepare('SELECT * FROM ' . $table .' WHERE volume = ' . $data['volume'] . ' AND issue = ' . $data['issue'] . ' AND feature = \'' . $feature . '\'');
+		$sth->execute();
+		
+		$details = [];
+		$details = $sth->fetchAll(PDO::FETCH_ASSOC);
+		return $details;
+	}
 }
 
 ?>

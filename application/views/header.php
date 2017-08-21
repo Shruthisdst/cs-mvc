@@ -27,13 +27,8 @@
 
     <!-- Only MathHax goes here
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-        });
-    </script>
-    <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
+   
+    <script type="text/javascript">var base_url = "<?=BASE_URL?>";</script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js"></script>
     
     <!-- CSS

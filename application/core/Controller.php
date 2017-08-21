@@ -60,7 +60,6 @@ class Controller {
 
 		@header('Location: ' . $path);
 	}
-
 }
 
 ?>
