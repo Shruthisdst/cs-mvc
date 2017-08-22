@@ -26,14 +26,6 @@
 			<contrib-group>
 				<contrib contrib-type="author">
 					<name>
-						<surname>Gore</surname>
-						<given-names>A. P.</given-names>
-					</name>
-					<string-name>A. P. Gore</string-name>
-					<email />
-				</contrib>
-				<contrib contrib-type="author">
-					<name>
 						<surname>Paranjpe</surname>
 						<given-names>S. A.</given-names>
 					</name>
@@ -78,6 +70,14 @@
 						<given-names>M. G.</given-names>
 					</name>
 					<string-name>M. G. Gogate</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gore</surname>
+						<given-names>A. P.</given-names>
+					</name>
+					<string-name>A. P. Gore</string-name>
 					<email />
 				</contrib>
 			</contrib-group>
