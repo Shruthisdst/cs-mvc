@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_092_02_0209_0213_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Sodium hyaluronate of defined molecular size for treating osteoarthritis</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mehta</surname>
+						<given-names>Dhimant P.</given-names>
+					</name>
+					<string-name>Dhimant P. Mehta</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Shodhan</surname>
+						<given-names>Kushal</given-names>
+					</name>
+					<string-name>Kushal Shodhan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Modi</surname>
+						<given-names>Rajiv I.</given-names>
+					</name>
+					<string-name>Rajiv I. Modi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ghosh</surname>
+						<given-names>Prasanta K.</given-names>
+					</name>
+					<string-name>Prasanta K. Ghosh</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2007-01-00</string-date>
+			</pub-date>
+			<volume>092</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0209-0213</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

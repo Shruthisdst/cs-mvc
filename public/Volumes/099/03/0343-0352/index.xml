@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_099_03_0343_0352_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Ultrafast charge transfer through p-oligo(phenylene) bridges: effect of nonequilibrium vibrations Supporting Information</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bauer</surname>
+						<given-names>Christophe</given-names>
+					</name>
+					<string-name>Christophe Bauer</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Teuscher</surname>
+						<given-names>JoÃ«l</given-names>
+					</name>
+					<string-name>JoÃ«l Teuscher</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pelet</surname>
+						<given-names>Serge</given-names>
+					</name>
+					<string-name>Serge Pelet</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wenger</surname>
+						<given-names>Bernard</given-names>
+					</name>
+					<string-name>Bernard Wenger</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>BonhÃ´te'</surname>
+						<given-names>Pierre</given-names>
+					</name>
+					<string-name>Pierre BonhÃ´te'</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nazeeruddin</surname>
+						<given-names>Mohammad K.</given-names>
+					</name>
+					<string-name>Mohammad K. Nazeeruddin</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zakeeruddin</surname>
+						<given-names>Shaik M.</given-names>
+					</name>
+					<string-name>Shaik M. Zakeeruddin</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Comte'</surname>
+						<given-names>Pascal</given-names>
+					</name>
+					<string-name>Pascal Comte'</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>GrÃ¤tzel</surname>
+						<given-names>Michael</given-names>
+					</name>
+					<string-name>Michael GrÃ¤tzel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moser</surname>
+						<given-names>Jacques-edouard</given-names>
+					</name>
+					<string-name>Jacques-edouard Moser</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2010-08-00</string-date>
+			</pub-date>
+			<volume>099</volume>
+			<issue>03</issue>
+			<issue-title />
+			<page-range>0343-0352</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

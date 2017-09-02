@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_096_08_1114_1119_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Dimethyl sulphoxide inhibits in vitro synthesis of juvenile hormone I and II and stimulates juvenile hormone III by corpora allata of insects</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Unni</surname>
+						<given-names>B. G.</given-names>
+					</name>
+					<string-name>B. G. Unni</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Peck</surname>
+						<given-names>Ken E.</given-names>
+					</name>
+					<string-name>Ken E. Peck</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pytel</surname>
+						<given-names>M. M.</given-names>
+					</name>
+					<string-name>M. M. Pytel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dahm</surname>
+						<given-names>K. H.</given-names>
+					</name>
+					<string-name>K. H. Dahm</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhaskaran</surname>
+						<given-names>G.</given-names>
+					</name>
+					<string-name>G. Bhaskaran</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>H. Ranjit</given-names>
+					</name>
+					<string-name>H. Ranjit Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kakoty</surname>
+						<given-names>Y.</given-names>
+					</name>
+					<string-name>Y. Kakoty</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Devi</surname>
+						<given-names>B.</given-names>
+					</name>
+					<string-name>B. Devi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wann</surname>
+						<given-names>S. B.</given-names>
+					</name>
+					<string-name>S. B. Wann</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2009-04-00</string-date>
+			</pub-date>
+			<volume>096</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>1114-1119</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

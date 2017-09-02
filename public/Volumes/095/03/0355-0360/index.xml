@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_095_03_0355_0360_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Water-column geochemical anomalies associated with the remnants of a mega plume: A case study after CR-2003 hydrothermal event in Carlsberg Ridge, NW Indian Ocean</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ray</surname>
+						<given-names>Durbar</given-names>
+					</name>
+					<string-name>Durbar Ray</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mirza</surname>
+						<given-names>Imran H.</given-names>
+					</name>
+					<string-name>Imran H. Mirza</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prakash</surname>
+						<given-names>L. Surya</given-names>
+					</name>
+					<string-name>L. Surya Prakash</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kaisary</surname>
+						<given-names>Sujata</given-names>
+					</name>
+					<string-name>Sujata Kaisary</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarma</surname>
+						<given-names>Y. V. B.</given-names>
+					</name>
+					<string-name>Y. V. B. Sarma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rao</surname>
+						<given-names>B. R.</given-names>
+					</name>
+					<string-name>B. R. Rao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Somayajulu</surname>
+						<given-names>Y. K.</given-names>
+					</name>
+					<string-name>Y. K. Somayajulu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Drolia</surname>
+						<given-names>R. K.</given-names>
+					</name>
+					<string-name>R. K. Drolia</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Raju</surname>
+						<given-names>K. A. Kamesh</given-names>
+					</name>
+					<string-name>K. A. Kamesh Raju</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2008-08-00</string-date>
+			</pub-date>
+			<volume>095</volume>
+			<issue>03</issue>
+			<issue-title />
+			<page-range>0355-0360</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

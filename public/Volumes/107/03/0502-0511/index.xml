@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_107_03_0502_0511_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Increase in agricultural patch contiguity over the past three decades in Ganga River Basin, India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Behera</surname>
+						<given-names>M. D.</given-names>
+					</name>
+					<string-name>M. D. Behera</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patidar</surname>
+						<given-names>N.</given-names>
+					</name>
+					<string-name>N. Patidar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chitale</surname>
+						<given-names>V. S.</given-names>
+					</name>
+					<string-name>V. S. Chitale</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Behera</surname>
+						<given-names>N.</given-names>
+					</name>
+					<string-name>N. Behera</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gupta</surname>
+						<given-names>D.</given-names>
+					</name>
+					<string-name>D. Gupta</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Matin</surname>
+						<given-names>S.</given-names>
+					</name>
+					<string-name>S. Matin</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tare</surname>
+						<given-names>V.</given-names>
+					</name>
+					<string-name>V. Tare</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Panda</surname>
+						<given-names>S. N.</given-names>
+					</name>
+					<string-name>S. N. Panda</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sen</surname>
+						<given-names>D. J.</given-names>
+					</name>
+					<string-name>D. J. Sen</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2014-08-00</string-date>
+			</pub-date>
+			<volume>107</volume>
+			<issue>03</issue>
+			<issue-title />
+			<page-range>0502-0511</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

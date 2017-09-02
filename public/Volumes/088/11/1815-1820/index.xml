@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_088_11_1815_1820_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Applying intra-specific protoplast fusion in Streptomyces griseoflavus to increase the production of Desferrioxamine B</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nazari</surname>
+						<given-names>R.</given-names>
+					</name>
+					<string-name>R. Nazari</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Akbarzadeh</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Akbarzadeh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Norouzian</surname>
+						<given-names>D.</given-names>
+					</name>
+					<string-name>D. Norouzian</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Farahmand</surname>
+						<given-names>B.</given-names>
+					</name>
+					<string-name>B. Farahmand</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vaez</surname>
+						<given-names>J.</given-names>
+					</name>
+					<string-name>J. Vaez</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sadegi</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Sadegi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hormozi</surname>
+						<given-names>F.</given-names>
+					</name>
+					<string-name>F. Hormozi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kiani-rad</surname>
+						<given-names>M.</given-names>
+					</name>
+					<string-name>M. Kiani-rad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zarbakhsh</surname>
+						<given-names>B.</given-names>
+					</name>
+					<string-name>B. Zarbakhsh</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2005-06-00</string-date>
+			</pub-date>
+			<volume>088</volume>
+			<issue>11</issue>
+			<issue-title />
+			<page-range>1815-1820</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

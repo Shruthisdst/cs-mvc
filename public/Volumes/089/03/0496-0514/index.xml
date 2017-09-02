@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_089_03_0496_0514_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Functional genomics of drought stress response in rice: Transcript mapping of annotated unigenes of an indica rice (Oryza sativa L. cv. Nagina 22)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gorantla</surname>
+						<given-names>Markandeya</given-names>
+					</name>
+					<string-name>Markandeya Gorantla</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Babu</surname>
+						<given-names>P. R.</given-names>
+					</name>
+					<string-name>P. R. Babu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lachagari</surname>
+						<given-names>V. B. Reddy</given-names>
+					</name>
+					<string-name>V. B. Reddy Lachagari</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Feltus</surname>
+						<given-names>F. Alex</given-names>
+					</name>
+					<string-name>F. Alex Feltus</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Paterson</surname>
+						<given-names>Andrew H.</given-names>
+					</name>
+					<string-name>Andrew H. Paterson</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Reddy</surname>
+						<given-names>Arjula R.</given-names>
+					</name>
+					<string-name>Arjula R. Reddy</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2005-08-00</string-date>
+			</pub-date>
+			<volume>089</volume>
+			<issue>03</issue>
+			<issue-title />
+			<page-range>0496-0514</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

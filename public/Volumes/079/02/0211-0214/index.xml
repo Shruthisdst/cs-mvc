@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_079_02_0211_0214_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Field evaluation of chlorophyll meter for screening groundnut (Arachis hypogaea L. ) genotypes tolerant to iron-deficiency chlorosis</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Samdur</surname>
+						<given-names>M. Y.</given-names>
+					</name>
+					<string-name>M. Y. Samdur</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>A. L.</given-names>
+					</name>
+					<string-name>A. L. Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mathur</surname>
+						<given-names>R. K.</given-names>
+					</name>
+					<string-name>R. K. Mathur</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manivel</surname>
+						<given-names>P.</given-names>
+					</name>
+					<string-name>P. Manivel</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chikani</surname>
+						<given-names>B. M.</given-names>
+					</name>
+					<string-name>B. M. Chikani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gor</surname>
+						<given-names>H. K.</given-names>
+					</name>
+					<string-name>H. K. Gor</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Khan</surname>
+						<given-names>M. A.</given-names>
+					</name>
+					<string-name>M. A. Khan</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2000-07-00</string-date>
+			</pub-date>
+			<volume>079</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0211-0214</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

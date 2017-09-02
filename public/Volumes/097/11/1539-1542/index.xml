@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_097_11_1539_1542_0</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Monitoring the health of steel and concrete structures using fibre Bragg grating sensors</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tiwari</surname>
+						<given-names>Umesh</given-names>
+					</name>
+					<string-name>Umesh Tiwari</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mishra</surname>
+						<given-names>Vandana</given-names>
+					</name>
+					<string-name>Vandana Mishra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jain</surname>
+						<given-names>Subhash C.</given-names>
+					</name>
+					<string-name>Subhash C. Jain</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kesavan</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Kesavan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ravisankar</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Ravisankar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Singh</surname>
+						<given-names>Nahar</given-names>
+					</name>
+					<string-name>Nahar Singh</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Poddar</surname>
+						<given-names>G. C.</given-names>
+					</name>
+					<string-name>G. C. Poddar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kapur</surname>
+						<given-names>Pawan</given-names>
+					</name>
+					<string-name>Pawan Kapur</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2009-12-00</string-date>
+			</pub-date>
+			<volume>097</volume>
+			<issue>11</issue>
+			<issue-title />
+			<page-range>1539-1542</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_105_09_1247_1253_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Plant volatile organic compounds as chemical markers to identify resistance in sweet potato against weevil <italic>Cylas formicarius</italic></article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Korada</surname>
+						<given-names>Rajasekhara Rao</given-names>
+					</name>
+					<string-name>Rajasekhara Rao Korada</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Misra</surname>
+						<given-names>Swagatika</given-names>
+					</name>
+					<string-name>Swagatika Misra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Naskar</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Naskar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhaktavatsalam</surname>
+						<given-names>N.</given-names>
+					</name>
+					<string-name>N. Bhaktavatsalam</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prasad</surname>
+						<given-names>A. R.</given-names>
+					</name>
+					<string-name>A. R. Prasad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sinha</surname>
+						<given-names>Khushboo</given-names>
+					</name>
+					<string-name>Khushboo Sinha</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jayaprakas</surname>
+						<given-names>C. A.</given-names>
+					</name>
+					<string-name>C. A. Jayaprakas</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mukherjee</surname>
+						<given-names>A.</given-names>
+					</name>
+					<string-name>A. Mukherjee</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2013-11-00</string-date>
+			</pub-date>
+			<volume>105</volume>
+			<issue>09</issue>
+			<issue-title />
+			<page-range>1247-1253</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

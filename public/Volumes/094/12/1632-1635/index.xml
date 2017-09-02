@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_094_12_1632_1635_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Spatial influence on the important volatile oils of Piper nigrum leaves</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Parthasarathy</surname>
+						<given-names>Utpala</given-names>
+					</name>
+					<string-name>Utpala Parthasarathy</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Asish</surname>
+						<given-names>G. R.</given-names>
+					</name>
+					<string-name>G. R. Asish</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zachariah</surname>
+						<given-names>T. J.</given-names>
+					</name>
+					<string-name>T. J. Zachariah</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Saji</surname>
+						<given-names>K. V.</given-names>
+					</name>
+					<string-name>K. V. Saji</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>George</surname>
+						<given-names>K. Johnson</given-names>
+					</name>
+					<string-name>K. Johnson George</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jayarajan</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Jayarajan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mathew</surname>
+						<given-names>P. A.</given-names>
+					</name>
+					<string-name>P. A. Mathew</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Parthasarathy</surname>
+						<given-names>V. A.</given-names>
+					</name>
+					<string-name>V. A. Parthasarathy</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2008-06-00</string-date>
+			</pub-date>
+			<volume>094</volume>
+			<issue>12</issue>
+			<issue-title />
+			<page-range>1632-1635</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

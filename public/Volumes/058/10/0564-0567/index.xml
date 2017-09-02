@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_058_10_0564_0567_0</article-id>
+			<article-categories>
+				<series-title>Short Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Discovery of a tephra bed in the Quaternary alluvial sediments of Pune district (Maharashtra), Peninsular India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Korisettar</surname>
+						<given-names>Ravi</given-names>
+					</name>
+					<string-name>Ravi Korisettar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Venkatesan</surname>
+						<given-names>T. R.</given-names>
+					</name>
+					<string-name>T. R. Venkatesan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mishra</surname>
+						<given-names>Sheila</given-names>
+					</name>
+					<string-name>Sheila Mishra</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rajaguru</surname>
+						<given-names>S. N.</given-names>
+					</name>
+					<string-name>S. N. Rajaguru</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Somayajulu</surname>
+						<given-names>B. L. K.</given-names>
+					</name>
+					<string-name>B. L. K. Somayajulu</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tandon</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Tandon</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gogte</surname>
+						<given-names>V. D.</given-names>
+					</name>
+					<string-name>V. D. Gogte</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ganjoo</surname>
+						<given-names>R. K.</given-names>
+					</name>
+					<string-name>R. K. Ganjoo</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kale</surname>
+						<given-names>V. S.</given-names>
+					</name>
+					<string-name>V. S. Kale</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1989-05-00</string-date>
+			</pub-date>
+			<volume>058</volume>
+			<issue>10</issue>
+			<issue-title />
+			<page-range>0564-0567</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

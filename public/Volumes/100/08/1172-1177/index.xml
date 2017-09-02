@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_100_08_1172_1177_0</article-id>
+			<article-categories>
+				<series-title>Research Accounts</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Cellulose nanocrystals-based nanocomposites: fruits of a novel biomass research and teaching platform</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cao</surname>
+						<given-names>Xiaodong</given-names>
+					</name>
+					<string-name>Xiaodong Cao</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Habibi</surname>
+						<given-names>Youssef</given-names>
+					</name>
+					<string-name>Youssef Habibi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>MagalhÃ£es</surname>
+						<given-names>Washington Luiz Esteves</given-names>
+					</name>
+					<string-name>Washington Luiz Esteves MagalhÃ£es</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rojas</surname>
+						<given-names>Orlando J.</given-names>
+					</name>
+					<string-name>Orlando J. Rojas</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lucia</surname>
+						<given-names>Lucian A.</given-names>
+					</name>
+					<string-name>Lucian A. Lucia</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2011-04-00</string-date>
+			</pub-date>
+			<volume>100</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>1172-1177</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

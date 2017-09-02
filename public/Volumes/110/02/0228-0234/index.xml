@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_110_02_0228_0234_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Variation in the phytotoxic activity of <italic>Tinospora tuberculata</italic> extracts as influenced by solvent type and chemical profile</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aslani</surname>
+						<given-names>Farzad</given-names>
+					</name>
+					<string-name>Farzad Aslani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Juraimi</surname>
+						<given-names>Abdul Shukor</given-names>
+					</name>
+					<string-name>Abdul Shukor Juraimi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ahmad-Hamdani</surname>
+						<given-names>Muhammad Saiful</given-names>
+					</name>
+					<string-name>Muhammad Saiful Ahmad-Hamdani</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Golestan Hashemi</surname>
+						<given-names>Farahnaz Sadat</given-names>
+					</name>
+					<string-name>Farahnaz Sadat Golestan Hashemi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alam</surname>
+						<given-names>Md Amirul</given-names>
+					</name>
+					<string-name>Md Amirul Alam</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Omar</surname>
+						<given-names>Dzolkhifli</given-names>
+					</name>
+					<string-name>Dzolkhifli Omar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kamal Uddin</surname>
+						<given-names>Md.</given-names>
+					</name>
+					<string-name>Md. Kamal Uddin</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Abdul Hakim</surname>
+						<given-names>Md.</given-names>
+					</name>
+					<string-name>Md. Abdul Hakim</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2016-01-00</string-date>
+			</pub-date>
+			<volume>110</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0228-0234</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_095_08_1015_1017_0</article-id>
+			<article-categories>
+				<series-title>Commentary</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Sustainable forest management through community participation</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kotwal</surname>
+						<given-names>P. C.</given-names>
+					</name>
+					<string-name>P. C. Kotwal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Omprakash</surname>
+						<given-names>M. D.</given-names>
+					</name>
+					<string-name>M. D. Omprakash</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kandari</surname>
+						<given-names>L. S.</given-names>
+					</name>
+					<string-name>L. S. Kandari</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mali</surname>
+						<given-names>K. P.</given-names>
+					</name>
+					<string-name>K. P. Mali</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Badyal</surname>
+						<given-names>Mohit</given-names>
+					</name>
+					<string-name>Mohit Badyal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mishra</surname>
+						<given-names>Apurva</given-names>
+					</name>
+					<string-name>Apurva Mishra</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2008-10-00</string-date>
+			</pub-date>
+			<volume>095</volume>
+			<issue>08</issue>
+			<issue-title />
+			<page-range>1015-1017</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

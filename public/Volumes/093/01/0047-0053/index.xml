@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_093_01_0047_0053_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Immunopharmacological basis of the healing of indomethacin-induced gastric mucosal damage in rats by the constituents of Phyllanthus emblica</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhattacharya</surname>
+						<given-names>Sayanti</given-names>
+					</name>
+					<string-name>Sayanti Bhattacharya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chatterjee</surname>
+						<given-names>Saurabh</given-names>
+					</name>
+					<string-name>Saurabh Chatterjee</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bauri</surname>
+						<given-names>Ajay</given-names>
+					</name>
+					<string-name>Ajay Bauri</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bandivdeker</surname>
+						<given-names>A. H.</given-names>
+					</name>
+					<string-name>A. H. Bandivdeker</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chattopadhyay</surname>
+						<given-names>Subrata</given-names>
+					</name>
+					<string-name>Subrata Chattopadhyay</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bandyopadhyay</surname>
+						<given-names>Sandip K.</given-names>
+					</name>
+					<string-name>Sandip K. Bandyopadhyay</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Poduval</surname>
+						<given-names>T. B.</given-names>
+					</name>
+					<string-name>T. B. Poduval</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2007-07-00</string-date>
+			</pub-date>
+			<volume>093</volume>
+			<issue>01</issue>
+			<issue-title />
+			<page-range>0047-0053</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

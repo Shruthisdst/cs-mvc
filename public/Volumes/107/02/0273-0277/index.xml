@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_107_02_0273_0277_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Diatom burst-driven silica depletion under the Antarctic sea ice: evidence from sponge spicules</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Shetye</surname>
+						<given-names>Suhas</given-names>
+					</name>
+					<string-name>Suhas Shetye</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mohan</surname>
+						<given-names>Rahul</given-names>
+					</name>
+					<string-name>Rahul Mohan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jafar</surname>
+						<given-names>Syed A.</given-names>
+					</name>
+					<string-name>Syed A. Jafar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nair</surname>
+						<given-names>Abhilash</given-names>
+					</name>
+					<string-name>Abhilash Nair</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patil</surname>
+						<given-names>Shramik</given-names>
+					</name>
+					<string-name>Shramik Patil</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jawak</surname>
+						<given-names>Shridhar</given-names>
+					</name>
+					<string-name>Shridhar Jawak</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Asthana</surname>
+						<given-names>Rajesh</given-names>
+					</name>
+					<string-name>Rajesh Asthana</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gazi</surname>
+						<given-names>Sahina</given-names>
+					</name>
+					<string-name>Sahina Gazi</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2014-07-00</string-date>
+			</pub-date>
+			<volume>107</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0273-0277</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

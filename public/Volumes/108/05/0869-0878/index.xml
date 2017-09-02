@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_108_05_0869_0878_0</article-id>
+			<article-categories>
+				<series-title>Special Section: Hyperspectral Remote Sensing</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Monitoring of forest cover in India: imaging spectroscopy perspective</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Krishnayya</surname>
+						<given-names>N. S. R.</given-names>
+					</name>
+					<string-name>N. S. R. Krishnayya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Christian</surname>
+						<given-names>Binal</given-names>
+					</name>
+					<string-name>Binal Christian</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vyas</surname>
+						<given-names>Dhaval</given-names>
+					</name>
+					<string-name>Dhaval Vyas</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Saini</surname>
+						<given-names>Manjit</given-names>
+					</name>
+					<string-name>Manjit Saini</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Joshi</surname>
+						<given-names>Nikita</given-names>
+					</name>
+					<string-name>Nikita Joshi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manjunath</surname>
+						<given-names>K. R.</given-names>
+					</name>
+					<string-name>K. R. Manjunath</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>Tanumi</given-names>
+					</name>
+					<string-name>Tanumi Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Padalia</surname>
+						<given-names>Hitendra</given-names>
+					</name>
+					<string-name>Hitendra Padalia</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>George</surname>
+						<given-names>Rajee</given-names>
+					</name>
+					<string-name>Rajee George</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kushwaha</surname>
+						<given-names>S. P. S.</given-names>
+					</name>
+					<string-name>S. P. S. Kushwaha</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2015-03-00</string-date>
+			</pub-date>
+			<volume>108</volume>
+			<issue>05</issue>
+			<issue-title />
+			<page-range>0869-0878</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

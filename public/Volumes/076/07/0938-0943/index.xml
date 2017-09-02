@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_076_07_0938_0943_0</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Vertical distribution of ozone over the Indian Ocean (15Â°N-20Â°S) during First Field Phase INDOEX-1998</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mandal</surname>
+						<given-names>T. K.</given-names>
+					</name>
+					<string-name>T. K. Mandal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kley</surname>
+						<given-names>D.</given-names>
+					</name>
+					<string-name>D. Kley</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smit</surname>
+						<given-names>H. G. J.</given-names>
+					</name>
+					<string-name>H. G. J. Smit</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Srivastava</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Srivastava</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Peshin</surname>
+						<given-names>S. K.</given-names>
+					</name>
+					<string-name>S. K. Peshin</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mitra</surname>
+						<given-names>A. P.</given-names>
+					</name>
+					<string-name>A. P. Mitra</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1999-04-00</string-date>
+			</pub-date>
+			<volume>076</volume>
+			<issue>07</issue>
+			<issue-title />
+			<page-range>0938-0943</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

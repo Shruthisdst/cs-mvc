@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_070_07_0614_0618_0</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>IRS-IC applications for coastal zone management</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nayak</surname>
+						<given-names>Shailesh</given-names>
+					</name>
+					<string-name>Shailesh Nayak</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chauhan</surname>
+						<given-names>Prakash</given-names>
+					</name>
+					<string-name>Prakash Chauhan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chauhan</surname>
+						<given-names>H. B.</given-names>
+					</name>
+					<string-name>H. B. Chauhan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bahuguna</surname>
+						<given-names>Anjali</given-names>
+					</name>
+					<string-name>Anjali Bahuguna</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nath</surname>
+						<given-names>A. Narendra</given-names>
+					</name>
+					<string-name>A. Narendra Nath</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1996-04-00</string-date>
+			</pub-date>
+			<volume>070</volume>
+			<issue>07</issue>
+			<issue-title />
+			<page-range>0614-0618</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

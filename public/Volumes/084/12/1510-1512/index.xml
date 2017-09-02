@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_084_12_1510_1512_0</article-id>
+			<article-categories>
+				<series-title>Scientific Correspondence</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Induced polyploidy Gossypium: A tool to overcome interspecific incompatibility of cultivated tetraploid and diploid cottons</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mehetre</surname>
+						<given-names>S. S.</given-names>
+					</name>
+					<string-name>S. S. Mehetre</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aher</surname>
+						<given-names>A. R.</given-names>
+					</name>
+					<string-name>A. R. Aher</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gawande</surname>
+						<given-names>V. L.</given-names>
+					</name>
+					<string-name>V. L. Gawande</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patil</surname>
+						<given-names>V. R.</given-names>
+					</name>
+					<string-name>V. R. Patil</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mokate</surname>
+						<given-names>A. S.</given-names>
+					</name>
+					<string-name>A. S. Mokate</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2003-06-00</string-date>
+			</pub-date>
+			<volume>084</volume>
+			<issue>12</issue>
+			<issue-title />
+			<page-range>1510-1512</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

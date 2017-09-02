@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_105_10_1419_1424_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Anti-venom potential of Pakistani medicinal plants: inhibition of anticoagulation activity of <italic>Naja naja karachiensis</italic> toxin</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Asad</surname>
+						<given-names>Muhammad Hassham Hassan Bin</given-names>
+					</name>
+					<string-name>Muhammad Hassham Hassan Bin Asad</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Razi</surname>
+						<given-names>Muhammad Tahir</given-names>
+					</name>
+					<string-name>Muhammad Tahir Razi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Durr-e-Sabish</surname>
+						<given-names></given-names>
+					</name>
+					<string-name>Durr-e-Sabish</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Najamus-Saqib</surname>
+						<given-names>Qazi</given-names>
+					</name>
+					<string-name>Qazi Najamus-Saqib</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nasim</surname>
+						<given-names>Sheikh Jawad</given-names>
+					</name>
+					<string-name>Sheikh Jawad Nasim</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Murtaza</surname>
+						<given-names>Ghulam</given-names>
+					</name>
+					<string-name>Ghulam Murtaza</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hussain</surname>
+						<given-names>Izhar</given-names>
+					</name>
+					<string-name>Izhar Hussain</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2013-11-00</string-date>
+			</pub-date>
+			<volume>105</volume>
+			<issue>10</issue>
+			<issue-title />
+			<page-range>1419-1424</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

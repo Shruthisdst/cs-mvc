@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_089_01_0101_0112_0</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Microbial diversity: Application of micro-organisms for the biodegradation of xenobiotics</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jain</surname>
+						<given-names>Rakesh Kumar</given-names>
+					</name>
+					<string-name>Rakesh Kumar Jain</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kapur</surname>
+						<given-names>Manisha</given-names>
+					</name>
+					<string-name>Manisha Kapur</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Labana</surname>
+						<given-names>Sumeet</given-names>
+					</name>
+					<string-name>Sumeet Labana</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lal</surname>
+						<given-names>Banwari</given-names>
+					</name>
+					<string-name>Banwari Lal</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarma</surname>
+						<given-names>Priyangshu Manab</given-names>
+					</name>
+					<string-name>Priyangshu Manab Sarma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhattacharya</surname>
+						<given-names>Dhruva</given-names>
+					</name>
+					<string-name>Dhruva Bhattacharya</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Thakur</surname>
+						<given-names>Indu Shekhar</given-names>
+					</name>
+					<string-name>Indu Shekhar Thakur</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2005-07-00</string-date>
+			</pub-date>
+			<volume>089</volume>
+			<issue>01</issue>
+			<issue-title />
+			<page-range>0101-0112</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

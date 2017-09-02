@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_100_10_1555_1563_0</article-id>
+			<article-categories>
+				<series-title>Research Communications</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>RS and GIS in mapping of geomorphic records and understanding the local controls of glacial retreat from the Baspa Valley, Himachal Pradesh, India</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Deota</surname>
+						<given-names>Bhushan S. Deota</given-names>
+					</name>
+					<string-name>Bhushan S. Deota Deota</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Trivedi</surname>
+						<given-names>Y. N.</given-names>
+					</name>
+					<string-name>Y. N. Trivedi</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kulkarni</surname>
+						<given-names>A. V.</given-names>
+					</name>
+					<string-name>A. V. Kulkarni</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bahuguna</surname>
+						<given-names>I. M.</given-names>
+					</name>
+					<string-name>I. M. Bahuguna</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rathore</surname>
+						<given-names>B. P.</given-names>
+					</name>
+					<string-name>B. P. Rathore</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2011-05-00</string-date>
+			</pub-date>
+			<volume>100</volume>
+			<issue>10</issue>
+			<issue-title />
+			<page-range>1555-1563</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

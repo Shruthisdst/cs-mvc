@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_097_02_0202_0209_0</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Time-resolved spectroscopy studies of the photodeprotection reactions of p-hydroxyÂ­phenacyl ester phototrigger compounds</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ma</surname>
+						<given-names>Chensheng</given-names>
+					</name>
+					<string-name>Chensheng Ma</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kwok</surname>
+						<given-names>Wai Ming</given-names>
+					</name>
+					<string-name>Wai Ming Kwok</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chan</surname>
+						<given-names>Wing Sum</given-names>
+					</name>
+					<string-name>Wing Sum Chan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Du</surname>
+						<given-names>Yong</given-names>
+					</name>
+					<string-name>Yong Du</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zuo</surname>
+						<given-names>Peng</given-names>
+					</name>
+					<string-name>Peng Zuo</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kan</surname>
+						<given-names>Jovi Tze Wai</given-names>
+					</name>
+					<string-name>Jovi Tze Wai Kan</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Toy</surname>
+						<given-names>Patrick H.</given-names>
+					</name>
+					<string-name>Patrick H. Toy</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Phillips</surname>
+						<given-names>David Lee</given-names>
+					</name>
+					<string-name>David Lee Phillips</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>2009-07-00</string-date>
+			</pub-date>
+			<volume>097</volume>
+			<issue>02</issue>
+			<issue-title />
+			<page-range>0202-0209</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>

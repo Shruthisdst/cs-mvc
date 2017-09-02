@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "dtd/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id>crsc</journal-id>
+			<journal-title-group>
+				<journal-title>Current Science</journal-title>
+				<abbrev-journal-title abbrev-type="iso4">Current Science</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="print">0011-3891</issn>
+			<issn pub-type="electronic">0011-3891</issn>
+			<publisher>
+				<publisher-name>Indian Academy of Sciences</publisher-name>
+				<publisher-loc>Bengaluru</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="ias">currsci_066_01_0042_0056_0</article-id>
+			<article-categories>
+				<series-title>Research Articles</series-title>
+			</article-categories>
+			<title-group>
+				<article-title>Very high resolution radiometers for INSAT-2</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Joseph</surname>
+						<given-names>George</given-names>
+					</name>
+					<string-name>George Joseph</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Iyengar</surname>
+						<given-names>V. S.</given-names>
+					</name>
+					<string-name>V. S. Iyengar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nagachenchaiah</surname>
+						<given-names>K.</given-names>
+					</name>
+					<string-name>K. Nagachenchaiah</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kumar</surname>
+						<given-names>A. S. Kiran</given-names>
+					</name>
+					<string-name>A. S. Kiran Kumar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aradhye</surname>
+						<given-names>B. V.</given-names>
+					</name>
+					<string-name>B. V. Aradhye</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kaduskar</surname>
+						<given-names>V. N.</given-names>
+					</name>
+					<string-name>V. N. Kaduskar</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dave</surname>
+						<given-names>R. K.</given-names>
+					</name>
+					<string-name>R. K. Dave</string-name>
+					<email />
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nagrani</surname>
+						<given-names>C. M.</given-names>
+					</name>
+					<string-name>C. M. Nagrani</string-name>
+					<email />
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="published">
+				<string-date>1994-01-00</string-date>
+			</pub-date>
+			<volume>066</volume>
+			<issue>01</issue>
+			<issue-title />
+			<page-range>0042-0056</page-range>
+			<supplementary-material />
+			<history />
+			<self-uri />
+			<abstract />
+			<kwd-group>
+				<kwd />
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
