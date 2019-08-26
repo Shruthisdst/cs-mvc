@@ -10,19 +10,20 @@ class dataModel extends Model {
 	public function getMetadaData($volumes, $issues, $dbh) {
 
 		$xmlFilePath = PHY_VOL_URL . $volumes . '/' . $issues . '/';
-		$xmlFileNames = glob($xmlFilePath . '*.xml');
-
+		$xmlFileNames = glob($xmlFilePath . '/*', GLOB_ONLYDIR);
+		
 		foreach($xmlFileNames as $xmlFileName)
 		{
 			if (!(file_exists($xmlFileName))) {
 					return False;
 			}
-
+			
 			$metaDataFromXML = array();
 
 			$datesArray = array("Manuscript Received" => "M","Manuscript Revised" => "R","Accepted"=>"A", "Early published" => "E", "Unedited version published online" => "U","Final version published online" => "F");
 
-			$xml = simplexml_load_file($xmlFileName);
+			$xml = simplexml_load_file($xmlFileName . '/index.xml');
+			echo "Here<br />";
 
 			if ($xml === false) 
 			{
@@ -146,7 +147,6 @@ class dataModel extends Model {
 			$metaDataFromXML['authors'] = $authorsJson; 
 			$metaDataFromXML['dates'] = $datesJson;
 			$metaDataFromXML['id'] = $articleId;
-
 			$this->db->insertData(METADATA_TABLE, $dbh, $metaDataFromXML);
 		}
 	}

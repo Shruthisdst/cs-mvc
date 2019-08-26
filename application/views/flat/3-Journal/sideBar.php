@@ -1,5 +1,5 @@
 <!-- Column 2 -->
-        <div class="col-md-4 clear-paddings">
+        <div class="col-md-4 clear-paddings gap-above-med">
             <div class="col-padded col-shaded"><!-- inner custom column -->             
                 <ul class="list-unstyled clear-margins"><!-- widgets -->
                     <li class="widget-container widget_nav_menu"><!-- widget -->
@@ -7,7 +7,7 @@
                         <div class="journal-desc">
                             <figure class="recent-news-thumb">
                                 <a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>" title="Current Issue : Vol. <?=$viewHelper->displayNumber($current->volume)?>, Issue <?=$viewHelper->displayNumber($current->issue)?>">
-                                <img src="<?=VOL_URL  . $current->volume . '/' . $current->issue ?>/thumb.jpg" alt="Current Issue : Vol. <?=$viewHelper->displayNumber($current->volume)?>, Issue <?=$viewHelper->displayNumber($current->issue)?>"></a>
+                                <img src="<?=STOCK_IMAGE_URL?>issue.png" alt="Current Issue"></a>
                             </figure>
                             <div class="journal-current-issue">
                                 <p>

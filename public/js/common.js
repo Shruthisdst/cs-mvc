@@ -1,6 +1,6 @@
 function getResult(feature,widget) {
     // alert('hhh');
-     //alert(base_url + "data/getFeatureDetails/?feature=" + feature);
+     // alert(base_url + "data/getFeatureDetails/?feature=" + feature);
     $.ajax({
         url: base_url + "data/getFeatureDetails/?feature=" + feature,
         type: "GET",

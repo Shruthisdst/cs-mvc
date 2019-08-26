@@ -1,5 +1,5 @@
 <!-- Column 2 -->
-        <div class="col-md-4 clear-paddings">
+        <div class="col-md-4 clear-paddings gap-above-med">
             <div class="col-padded-no-top col-shaded"><!-- inner custom column -->
                 <ul class="list-unstyled clear-margins"><!-- widgets -->                    
                     <li class="widget-container widget_recent_news"><!-- widgets list -->               

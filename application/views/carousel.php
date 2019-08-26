@@ -13,7 +13,7 @@
 									</div>
 									<img src="<?=PUBLIC_URL?>images/stock/issue.png" class="img-thumbnail" alt="Current Issue">
 									<div class="caption-below">
-										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Vol. 112, No. 06<br /> 25 March 2017</a></p>
+										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Vol. 113, No. 03<br /> 25 August 2017</a></p>
 									</div>
 								</div>
 								<div class="col-sm-3 caption-content text-white">
