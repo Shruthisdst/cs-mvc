@@ -1,281 +1,118 @@
-<h1>Editorial Board</h1>
-<h2>&nbsp;</h2>
-
-<h3>Editor</h3>
-<p><strong>R. Srinivasan,</strong> Indian Institute of Science, Bengaluru<br />
-srinimalu@gmail.com - (Earth System Sciences)</p>
-
-<h3>Co-Editor</h3>
-<p><strong>S. K. Satheesh,</strong> Indian Institute of Science, Bengaluru<br />
-satheesh@caos.iisc.ernet.in - (Climate Sciences)</p>
-
-<h3>Associate Editors</h3>
-<p><strong>B. Ananthanarayan,</strong> Indian Institute of Science, Bengaluru<br />
-bananthanarayan@gmail.com - (Particle Physics and Field Theory)</p>
-
-<p><strong>E. Arunan,</strong> Indian Institute of Science, Bengaluru<br />
-arunan@ipc.iisc.ernet.in - (Inorganic and Physical Chemistry)</p>
-
-<p><strong>K. N. Ganeshaiah,</strong> University of Agricultural Sciences, Bengaluru<br />
-knganeshaiah@gmail.com</p>
-
-<p><strong>P. C. Kesavan,</strong> M.S. Swaminathan Research Foundation, Chennai<br />
-pckesavan@mssrf.res.in - (Agricultural Sustainability Sciences)</p>
-
-<p><strong>Giridhar Madras,</strong> Indian Institute of Science, Bengaluru<br />
-giridhar@chemeng.iisc.ernet.in - (Chemical Engineering)</p>
-
-<p><strong>P. P. Mujumdar,</strong> Indian Institute of Science, Bengaluru<br />
-pradeep@civil.iisc.ernet.in - (Civil Engineering)</p>
-
-<p><strong>V. Nagaraja,</strong> Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br />
-vraj@jncasr.ac.in - (Molecular Biology)</p>
-
-<p><strong>G. Rangarajan,</strong> Indian Institute of Science, Bengaluru<br />
-rangaraj@math.iisc.ernet.in - (Mathematics)</p>
-
-<p><strong>Munivenkatappa Sanjappa,</strong> University of Agricultural Sciences, Bengaluru<br />
-sanjappam@ymail.com - (Botany – Taxonomy and Conservation)</p>
-
-<h3>Editors</h3>
-<h4>Physics</h4>
-<ul>
-	<li class="gap-above-small"><strong>J. N. Goswami,</strong> Physical Research Laboratory, Ahmedabad<br />
-	goswami@prl.res.in - (Planetary and Space Sciences, Solar System: Formation and Evolution, Geo- and Cosmo-chronology, Solar–Stellar relationship)</li>
-	<li class="gap-above-small"><strong>Sulabha Kulkarni,</strong> Pune<br />
-	s.kulkarni@iiserpune.ac.in - (Condensed Matter Physics, Nanotechnology, Surface Science, Materials Science)</li>
-	<li class="gap-above-small"><strong>Sunil Mukhi,</strong> Indian Institute of Science Education and Research, Pune<br />
-	sunil.mukhi@iiserpune.ac.in - (Quantum Field Theory and String Theory)</li>
-	<li class="gap-above-small"><strong>Srikanth Sastry,</strong> Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br />
-	sastry@jncasr.ac.in - (Statistical Mechanics, Soft Matter Physics, Chemical Physics)</li>
-	<li class="gap-above-small"><strong>K. P. Singh,</strong> Tata Institute of Fundamental Research, Mumbai<br />
-	singh@tifr.res.in - (Astronomy and Astrophysics, Instrumentation for X-ray Astronomy, Multi wave [opt-radio-X-ray-gamma-ray] Studies of Active Galactic Nuclei, X-ray Astronomy in General – or X-ray Emission from Cosmic Sources)</li>
-	<li class="gap-above-small"><strong>R. Srianand,</strong> Inter-University Centre for Astronomy and Astrophysics, Pune<br />
-	anand@iucaa.in - (Astrophysics)</li>
-	<li class="gap-above-small"><strong>V. Venkataraman,</strong> Indian Institute of Science, Bengaluru<br />
-	venki@physics.iisc.ernet.in - (Condensed Matter Physics)</li>
-	<li class="gap-above-small"><strong>Paul J. Wiita,</strong> The College of New Jersey, New Jersey<br />
-	wiitap@tcnj.edu - (Astronomy)</li>
-</ul><hr />
-
-<h4>Chemistry</h4>
-<ul>
-	<li class="gap-above-small"><strong>S. Chandrasekhar,</strong> CSIR-Indian Institute of Chemical Technology, Hyderabad<br />
-	srivaric@iict.res.in - (Synthetic Organic Chemistry, Synthesis of Complex Natural Products, Medicinal Chemistry and Drug Discovery, Organocatalysis, Use of PEG as a Green Solvent and Green Chemistry, Synthesis of Unusual Beta Amino Acids and Peptidomimetics)</li>
-	<li class="gap-above-small"><strong>Arun Chattopadhyay,</strong> Indian Institute of Technology, Guwahati<br />
-	arun@iitg.ernet.in - (Nanoscale Science and Technology, Physical Chemistry, Materials Science, Nanobiotechnology)</li>
-	<li class="gap-above-small"><strong>Shobhana Narasimhan,</strong> Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br />
-	shobhana@jncasr.ac.in - (Computational Nanoscience and Nanomagnetism)</li>
-	<li class="gap-above-small"><strong>Srinivasan Natarajan,</strong> Indian Institute of Science, Bengaluru<br />
-	snatarajan@sscu.iisc.ernet.in - (Inorganic Materials Chemistry, Solid State Chemistry/Synthesis, Structure, Li-ion Battery Materials/Ceramic Pigments, Inorganic-Organic Hybrid Materials, Magnetic Materials)</li>
-	<li class="gap-above-small"><strong>N. Sathyamurthy,</strong> Indian Institute of Science Education and Research, Mohali<br />
-	nsath@iisermohali.ac.in - (Theoretical Chemistry)</li>
-	<li class="gap-above-small"><strong>Richard N. Zare,</strong> Stanford University, USA<br />
-	zare@stanford.edu - (Laser Chemistry, Chemical Reactions at Molecular Level)</li>
-</ul><hr />
-
-<h4>Biology</h4>
-<p>Mathematical Modelling in Biology</p>
-<ul>
-	<li class="gap-above-small"><strong>N. V. Joshi,</strong> Indian Institute of Science, Bengaluru<br />
-	nvjoshi@ces.iisc.ernet.in - (Statistical Analysis, Mathematical Modelling in Biology)</li>
-</ul>
-
-<p>Microbiology, Physiology, Endocrinology, Neurobiology, Molecular Genetics, Genomics, Developmental Biology, Structural Biology</p>
-
-<ul>
-	<li class="gap-above-small"><strong>Gaiti Hasan,</strong> National Centre for Biological Sciences, Bengaluru<br />
-	gaiti@ncbs.res.in - (Molecular Biology, Genetics, Neuroscience, Cell Signalling)</li>
-	<li class="gap-above-small"><strong>S. Krishnaswamy,</strong> Institute of Mathematical Sciences, Chennai<br />
-	mkukrishna@gmail.com - (Structural Biology)</li>
-	<li class="gap-above-small"><strong>Vinod Kumar,</strong> University of Delhi, Delhi<br />
-	vkumar@zoology.du.ac.in - (Regulatory Biology, Biological Rhythms, Neuroendocrine Control of Seasonality, Behavioural Neuroscience)</li>
-	<li class="gap-above-small"><strong>L. S. Shashidhara,</strong> Indian Institute of Science Education and Research, Pune<br />
-	ls.shashidhara@iiserpune.ac.in - (Evolution, Genetics and Developmental Biology)</li>
-	<li class="gap-above-small"><strong>Yogesh Shouche,</strong> National Center for Cell Science, Pune<br />
-	yogesh@nccs.res.in - (Microbial Diversity, Vector Biology, Genetic Diversity of Microbes)</li>
-	<li class="gap-above-small"><strong>Vidita Vaidya,</strong> Tata Institute of Fundamental Research, Mumbai<br />
-	vvaidya@tifr.res.in - (Neuroscience, Anxiety and Depression, Hippocampal Plasticity, Stress and Animal Models of Mood Disorders)</li>
-</ul>
-
-<p>Ecology, Evolution, Animal Behaviour, Conservation Biology, Taxonomy</p>
-
-<ul>
-	<li class="gap-above-small"><strong>K. Chandrashekara,</strong> University of Agricultural Sciences, GKVK, Bengaluru<br />
-	sec_uas@yahoo.co.in - (Ecology and Evolutionary Biology, Insect Ecology and Behaviour, Biodiversity and Bio-prospecting, Insect Pest Management)</li>
-	<li class="gap-above-small"><strong>Priya Davidar,</strong> Pondicherry University, Puducherry<br />
-	pdavidar.ees@pondiuni.edu.in - (Pollination Biology, Conservation Biology, Biodiversity, Ornithology)</li>
-	<li class="gap-above-small"><strong>Vinita Gowda,</strong> Indian Institute of Science Education and Research, Bhopal<br />
-	gowdav@iiserb.ac.in - (Plant Ecology, Evolution and Taxonomy, Systematics (Phylogenetics) and Population Genetics, Behavioural Biology and Conservation Biology)</li>
-	<li class="gap-above-small"><strong>Krushnamegh Kunte,</strong> National Centre for Biological Sciences, Bengaluru<br />
-	krushnamegh@ncbs.res.in - (Ecology, Evolution, Genetics and Conservation Biology)</li>
-	<li class="gap-above-small"><strong>Harini Nagendra,</strong> Azim Premji University, Bengaluru<br />
-	harini.nagendra@apu.edu.in - (Ecological Sciences, Landscape Ecology, Urban Ecology, Social-ecological systems)</li>
-	<li class="gap-above-small"><strong>Naveen Namboothri,</strong> Indian Institute of Science, Bengaluru<br />
-	naveen.namboo@gmail.com - (Marine Biology, Coral Reef Ecology, Marine Resource Management and Population Demography)</li>
-	<li class="gap-above-small"><strong>Barry Noon,</strong> Colorado State University, USA<br />
-	Barry.Noon@ColoState.EDU - (Ecology, Fish, Wildlife and Conservation Biology)</li>
-	<li class="gap-above-small"><strong>Suhel Quader,</strong> Nature Conservation Foundation, Mysuru<br />
-	suhelq@ncf-india.org - (Evolution, Ecology, Citizen Science)</li>
-	<li class="gap-above-small"><strong>V. V. Ramamurthy,</strong> Indian Agricultural Research Institute, New Delhi<br />
-	vvr3@vsnl.com - (Taxonomy)</li>
-	<li class="gap-above-small"><strong>Mewa Singh,</strong> University of Mysore, Mysuru<br />
-	msingh@psychology.uni-mysore.ac.in - (Sociobiology and Wildlife Ecology)</li>
-	<li class="gap-above-small"><strong>Hema Somanathan,</strong> Indian Institute of Science Education and Research, Thiruvananthapuram
-	hsomanathan@iisertvm.ac.in - (Evolutionary Ecology)</li>
-	<li class="gap-above-small"><strong>Maria Thaker,</strong> Indian Institute of Science, Bengaluru<br />
-	mthaker@ces.iisc.ernet.in - (Animal Behaviour, Ecology and Physiology, Field Endocrinology, Sexual Selection and Predator–Prey Interactions)</li>
-	<li class="gap-above-small"><strong>Abi Tamim Vanak,</strong> Ashoka Trust for Research in Ecology and the Environment, Bengaluru<br />
-	avanak@atree.org - (Ecology, Conservation Science, Savanna Ecosystems)</li>
-</ul><hr />
-
-<h4>Earth System Sciences</h4>
-<p>Palaeontology, Palaeogeography, Palaeoclimate</p>
-
-<ul>
-	<li class="gap-above-small"><strong>Sunil Bajpai,</strong> Birbal Sahni Institute of Palaeobotany, Lucknow<br />
-	director@bsip.res.in - (Palaeontology)</li>
-	<li class="gap-above-small"><strong>R. Ramesh,</strong> National Institute of Science Education and Research, Bhubaneswar<br />
-	kartaveeryarjuna@gmail.com - (Palaeoclimate and Oceanography)</li>
-	<li class="gap-above-small"><strong>Ashok Sahni,</strong> 98, Mahatma Gandhi Marg, Lucknow<br />
-	ashok.sahni@gmail.com - (Palaeontology and Palaeogeography)</li>
-</ul>
-
-<p>Petrology</p>
-<ul>
-	<li class="gap-above-small"><strong>Somnath Dasgupta,</strong> Assam University, Silchar<br/ >
-	vc@aus.ac.in - (Metamorphic Petrology and Geochemistry)</li>
-	<li class="gap-above-small"><strong>N. V. Chalapathi Rao,</strong> Banaras Hindu University, Varanasi<br />
-	nvcr100@gmail.com - (Petrology)</li>
-</ul>
-
-<p>Structure and Tectonics</p>
-<ul>
-	<li class="gap-above-small"><strong>Saibal Gupta,</strong> Indian Institute of Technology, Kharagpur<br />
-	saibl@gg.iitkgp.ernet.in - (Petrology, Structure and Tectonics)</li>
-	<li class="gap-above-small"><strong>Malay Mukul,</strong> Indian Institute of Technology-Bombay, Mumbai
-	malaymukul@iitb.ac.in - (Tectonics, Lithospheric Deformation Studies)</li>
-	<li class="gap-above-small"><strong>Dilip Saha,</strong> Indian Statistical Institute, Kolkata
-	dsaha@isical.ac.in - (Structure, Tectonics and Sedimentology)</li>
-</ul>
-
-<p>Economic Geology</p>
-<ul>
-	<li class="gap-above-small"><strong>Biswajit Mishra,</strong> Indian Institute of Technology, Kharagpur<br />
-	bmgg@gg.iitkgp.ernet.in - (Ore Mineralogy and Ore Geochemistry)</li>
-</ul>
-
-<p>Geomorphology and Fluvial Processes</p>
-<ul>
-	<li class="gap-above-small"><strong>Rajiv Sinha,</strong> Indian Institute of Technology, Kanpur<br />
-	rsinha@iitk.ac.in - (River Science, Fluvial Geomorphology)</li>
-</ul><hr />
-
-<h4>Archaeology</h4>
-<ul>
-	<li class="gap-above-small"><strong>Ravi Korisettar,</strong> Karnatak University, Dharwad<br />
-	korisettar@gmail.com - (Archaeology)</li>
-</ul><hr />
-
-<h4>Atmospheric Sciences</h4>
-<ul>
-	<li class="gap-above-small"><strong>K. Krishnamoorthy,</strong> Indian Institute of Science, Bengaluru<br />
-	krishnamoorthy@caos.iisc.ernet.in - (Atmospheric and Ionospheric Science)</li>
-	<li class="gap-above-small"><strong>Anil V. Kulkarni,</strong> Indian Institute of Science, Bengaluru<br />
-	anilkulkarni@caos.iisc.ernet.in - (Cryosphere, Glaciers and Climate Change)</li>
-	<li class="gap-above-small"><strong>A. R. Ravishankara,</strong> Colorado State University, USA<br />
-	a.r.ravishankara@colostate.edu - (Atmospheric Chemistry, Climate Change, Ozone Depletion)</li>
-	<li class="gap-above-small"><strong>J. Srinivasan,</strong> Indian Institute of Science, Bengaluru<br />
-	jayes@caos.iisc.ernet.in - (Climate Modelling)</li>
-</ul><hr />
-
-<h4>Oceanography</h4>
-<ul>
-	<li class="gap-above-small"><strong>P. N. Vinayachandran,</strong> Indian Institute of Science, Bengaluru<br />
-	vinay@caos.iisc.ernet.in - (Physical Oceanography, Ocean Modelling, Physical–Biological Interactions in Ocean)</li>
-	<li class="gap-above-small"><strong>A. C. Anil,</strong> National Institute of Oceanography, Goa<br />
-	acanil@nio.org - (Biological Oceanography, Marine Ecology, Marine Biology)</li>
-</ul><hr />
-
-<h4>Medical Science</h4>
-<ul>
-	<li class="gap-above-small"><strong>Anurag Bhargava,</strong> Yenepoya Medical College, Mangaluru<br />
-	anuragb17@gmail.com - (General Medicine)</li>
-	<li class="gap-above-small"><strong>Lakshmanan Krishnamurti,</strong> Emory University, Atlanta, GA<br />
-	lakshmanan.krishnamurti@emory.edu - (Haematology, Oncology)</li>
-	<li class="gap-above-small"><strong>A. T. K. Rau,</strong> M.S. Ramaiah Medical College, Bengaluru<br />
-	atkrau@gmail.com - (Paediatric Medicine, Haematology, Oncology)</li>
-	<li class="gap-above-small"><strong>Alok Srivastava,</strong> Christian Medical College, Vellore<br />
-	aloks@cmcvellore.ac.in - (Medicine, Haematology, Stem Cell Transplantation and Translational Research)</li>
-	<li class="gap-above-small"><strong>Soumya Swaminathan,</strong> Indian Council of Medical Research, New Delhi<br />
-	doctorsoumya@yahoo.com - (Infectious Diseases and Paediatrics)</li>
-</ul><hr />
-
-<h4>Remote Sensing and Space Sciences</h4>
-<ul>
-	<li class="gap-above-small"><strong>Ajai,</strong> Space Applications Center (ISRO), Ahmedabad<br />
-	ajai@sac.isro.gov.in - (Earth and Planetary Sciences, Remote Sensing Applications, Earth Science: Desertification, Glaciology, Coastal Zone Environment, Natural Resources Management, Lunar and Martian Geoscience)</li>
-	<li class="gap-above-small"><strong>R. R. Navalgund,</strong> Indian Space Research Organisation, Bengaluru<br />
-	navalrr@gmail.com - (Remote Sensing/Earth Observation)</li>
-</ul><hr />
-
-<h4>Engineering</h4>
-<ul>
-	<li class="gap-above-small"><strong>Atul H. Chokshi,</strong> Indian Institute of Science, Bengaluru<br />
-	achokshi@materials.iisc.ernet.in - (Ceramics and Nanomaterials)</li>
-	<li class="gap-above-small"><strong>Gopalan Jagadeesh,</strong> Indian Institute of Science, Bengaluru
-	jaggie@aero.iisc.ernet.in - (Experimental Hypersonics and Shockwave Dynamics)</li>
-	<li class="gap-above-small"><strong>Sukumar Mishra,</strong> Indian Institute of Technology Delhi, New Delhi<br />
-	sukumar@ee.iitd.ac.in - (Power System, Renewable Energy: Power System Control, Photovoltaic Energy Management, Grid Code)</li>
-	<li class="gap-above-small"><strong>G. Prathap,</strong> National Institute for Interdisciplinary Science and Technology, Thiruvananthapuram<br />
-	gp@niist.res.in - (Structural Mechanics and Information Science)</li>
-	<li class="gap-above-small"><strong>K. Ramamurthy,</strong> Indian Institute of Technology, Chennai<br />
-	vivek@iitm.ac.in - (Civil Engineering, Sustainable Construction Materials, Building Science and Engineering, Concrete Technology)</li>
-	<li class="gap-above-small"><strong>Saragur M. Srinidhi,</strong> Advanced Computing and Communications Society, Bengaluru
-	ssrinidhi@accsindia.org - (Communication Networks: Network Performance Analysis, Call Admission Control, Operations Research, High Performance Computing)</li>
-	<li class="gap-above-small"><strong>Satyam Suwas,</strong> Indian Institute of Science, Bengaluru<br />
-	satyamsuwas@materials.iisc.ernet.in - (Metallurgy: Crystallographic texture, Materials characterization, Mechanical behaviour of materials)</li>
-</ul><hr />
-
-<h4>Agricultural Sciences, Horticultural Sciences and Sustainability</h4>
-<ul>
-	<li class="gap-above-small"><strong>M. Anandraj,</strong> Bengaluru<br />
-	arajiisr@gmail.com - (Plant Pathology of Horticultural Crops, Mycology, Plant Growth Promoting Organisms, Host–Pathogen Interaction)</li>
-</ul><hr />
-
-<h4>Management Studies</h4>
-<ul>
-	<li class="gap-above-small"><strong>M. H. Bala Subrahmanya,</strong> Indian Institute of Science, Bengaluru<br />
-	bala@mgmt.iisc.ernet.in - (Management Studies, Industrial Economics)</li>
-</ul><hr />
-
-<h4>History and Philosophy of Science</h4>
-<ul>
-	<li class="gap-above-small"><strong>Dhruv Raina,</strong> Jawaharlal Nehru University, New Delhi<br />
-	dhruv@mail.jnu.ac.in - (History and Philosophy of Science, Society and Social Movements, History and Philosophy of Mathematics and Exact Sciences, The History of Contemporary Science)</li>
-</ul><hr />
-
-<h4>Working Committee, Current Science Association</h4>
-<ul>
-	<li class="gap-above-small"><strong>P. Balaram,</strong> Indian Institute of Science, Bengaluru</li>
-	<li class="gap-above-small"><strong>N. Balakrishnan (Vice President),</strong> Indian Institute of Science, Bengaluru</li>
-	<li class="gap-above-small"><strong>R. Gadagkar,</strong> Indian Institute of Science, Bengaluru</li>
-	<li class="gap-above-small"><strong>K. N. Ganesh,</strong> Indian Institute of Science Education and Research, Pune</li>
-	<li class="gap-above-small"><strong>R. B. Grover,</strong> Homi Bhabha National Institute, Mumbai</li>
-	<li class="gap-above-small"><strong>Kiran Kumar,</strong> Indian Space Research Organisation, Bengaluru</li>
-	<li class="gap-above-small"><strong>R. A. Mashelkar (Vice President),</strong> National Chemical Laboratory, Pune</li>
-	<li class="gap-above-small"><strong>V. Nagaraja (Secretary),</strong> Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru</li>
-	<li class="gap-above-small"><strong>R. Narasimha (Previous President),</strong> Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru</li>
-	<li class="gap-above-small"><strong>M. Rajeevan Nair,</strong> Ministry of Earth Science, New Delhi</li>
-	<li class="gap-above-small"><strong>V. S. Ramamurthy (President),</strong> National Institute of Advanced Studies, Bengaluru</li>
-	<li class="gap-above-small"><strong>Ramakrishna Ramaswamy,</strong> Jawaharlal Nehru University, New Delhi</li>
-	<li class="gap-above-small"><strong>Ashutosh Sharma,</strong> Department of Science and Technology, New Delhi</li>
-	<li class="gap-above-small"><strong>R. Srinivasan,</strong> Indian Institute of Science, Bengaluru</li>
-	<li class="gap-above-small"><strong>Vijayalakshmi Ravindranath (Treasurer),</strong> Indian Institute of Science, Bengaluru</li>
-</ul><hr />
-
-<h4>Editorial staff:</h4>
-<p>R. Anuradha, Chandrika Ramesh, D. L. Geetha, G. Madhavan, K. P. Madhu, V. Rajitha, N. Subashini, V. Venkateswari, and M. S. Venugopal</p>
-
-<h4>Circulation and Accounts:</h4>
-<p>H. R. Ananthamurthy, B. S. Asha, Meghana B. Yadav, A. Shashidhar, T. M. Tejeswini</p>
+<h1>Editorial Board</h1><br />
+<h2>Chief Editor</h2>
+<p><strong>S. K. Satheesh, </strong>Indian Institute of Science, Bengaluru<br /><i>satheesh@ias.ac.in</i></p>
+<hr>
+<h2>Section Editors</h2>
+<p><strong>E. Arunan, </strong>Indian Institute of Science, Bengaluru<br /><i>arunan@iisc.ac.in - (Chemistry)</i></p>
+<p><strong>Sandeep M. Eswarappa, </strong>Indian Institute of Science, Bengaluru<br /><i>sandeep@iisc.ac.in - (Medical Sciences)</i></p>
+<p><strong>K. N. Ganeshaiah, </strong>University of Agricultural Sciences, GKVK, Bengaluru<br /><i>knganeshaiah@gmail.com (Plant Sciences)</i></p>
+<p><strong>Gaiti Hasan, </strong>National Centre for Biological Sciences, Bengaluru<br /><i>gaiti@ncbs.res.in - (Animal Sciences)</i></p>
+<p><strong>Gopalan Jagadeesh, </strong>Indian Institute of Science, Bengaluru<br /><i>jaggie@iisc.ac.in - (Aerospace Engineering)</i></p>
+<p><strong>P. C. Kesavan, </strong>M.S. Swaminathan Research Foundation, Chennai<br /><i>pckamalam38@gmail.com - (Agricultural Sciences and Forestry)</i></p>
+<p><strong>Ravi Korisettar, </strong>Karnatak University, Dharwad<br /><i>korisettar@gmail.com - (History and Archaeology)</i></p>
+<p><strong>Giridhar Madras, </strong>Indian Institute of Science, Bengaluru<br /><i>giridhar@iisc.ac.in - (Chemical Engineering)</i></p>
+<p><strong>R. R. Navalgund, </strong>Indian Space Research Organisation, Bengaluru<br /><i>navalrr@gmail.com - (Remote Sensing and Space Applications)</i></p>
+<p><strong>G. Rangarajan, </strong>Indian Institute of Science, Bengaluru<br /><i>rangaraj@iisc.ac.in - (Mathematics)</i></p>
+<p><strong>R. Srinivasan, </strong>Indian Institute of Science, Bengaluru<br /><i>srinimalu@gmail.com - (Earth System and Planetary Sciences)</i></p>
+<p><strong>M. H. Bala Subrahmanya, </strong>Indian Institute of Science, Bengaluru<br /><i>bala@iisc.ac.in - (Management Studies)</i></p>
+<hr>
+<h3>Subject Editors</h3>
+<h2>Agricultural Sciences, Horticultural Sciences and Sustainability</h2>
+<p><strong>M. Anandraj, </strong>Bengaluru<br /><i>arajiisr@gmail.com - (Plant Pathology of Horticultural Crops, Mycology, Plant Growth Promoting Organisms, Host–Pathogen Interaction)</i></p>
+<p><strong>Andreas Buerkert, </strong>University of Kassel, Germany<br /><i>buerkert@uni-kassel.de - (Sustainability, Soil Fertility, Nutrient Management and Matter Fluxes in Drylands)</i></p>
+<p><strong>K. N. Ganeshaiah, </strong>University of Agricultural Sciences, Bengaluru<br /><i>knganeshaiah@gmail.com - (Plant Evolutionary Biology, Plant Genetics and Breeding)</i></p>
+<p><strong>P. C. Kesavan, </strong>M. S. Swaminathan Research Foundation, Chennai<br /><i>pckesavan@mssrf.res.in - (Agricultural Sustainability Sciences)</i></p>
+<p><strong>R. L. Ravikumar, </strong>University of Agricultural Sciences, Bengaluru<br /><i>rlravikumar@rediffmail.com – (Plant Genetics and Breeding, Molecular Markers)</i></p><br />
+<h2>Archaeology</h2>
+<p><strong>Ravi Korisettar, </strong>Karnatak University, Dharwad<br /><i>korisettar@gmail.com - (Archaeology)</i></p><br />
+<h2>Atmospheric Sciences</h2>
+<p><strong>K. Krishnamoorthy, </strong>Indian Institute of Science, Bengaluru<br /><i>krishnamoorthyspl@gmail.com - (Atmospheric and Ionospheric Science)</i></p>
+<p><strong>Anil V. Kulkarni, </strong>Indian Institute of Science, Bengaluru<br /><i>anilkulkarni@iisc.ac.in - (Cryosphere, Glaciers and Climate Change)</i></p>
+<p><strong>A. R. Ravishankara, </strong>Colorado State University, USA<br /><i>a.r.ravishankara@colostate.edu - (Atmospheric Chemistry, Climate Change, Ozone Depletion)</i></p>
+<p><strong>S. K. Satheesh, </strong>Indian Institute of Science, Bengaluru<br /><i>satheesh@iisc.ac.in - (Aerosols and Climate Change)</i></p>
+<p><strong>J. Srinivasan, </strong>Indian Institute of Science, Bengaluru<br /><i>jayes@iisc.ac.in - (Climate Modelling)</i></p><br />
+<h2>Biology</h2>
+<p><strong>K. Chandrashekara, </strong>University of Agricultural Sciences, GKVK, Bengaluru<br /><i>kchandra58@gmail.com - (Ecology and Evolutionary Biology, Insect Ecology and Behaviour, Biodiversity and Bio-prospecting, Insect Pest Management)</i></p>
+<p><strong>Sorab Dalal, </strong>Advanced Centre for Treatment, Research and Education in Cancer, Navi Mumbai<br /><i>sdalal@actrec.gov.in - (Molecular Biology and Biochemistry)</i></p>
+<p><strong>Vinita Gowda, </strong>Indian Institute of Science Education and Research, Bhopal<br /><i>gowdav@iiserb.ac.in - (Plant Ecology, Evolution and Taxonomy, Systematics (Phylogenetics) and Population Genetics, Behavioural Biology, Conservation Biology)</i></p>
+<p><strong>Saman Habib, </strong>CSIR-Central Drug Research Institute, Lucknow<br /><i>saman_habib@cdri.res.in - (Molecular Biology and Biochemistry)</i></p>
+<p><strong>Gaiti Hasan, </strong>National Centre for Biological Sciences, Bengaluru<br /><i>gaiti@ncbs.res.in - (Molecular Biology, Genetics, Neuroscience, Cell Signalling)</i></p>
+<p><strong>N. V. Joshi, </strong>Indian Institute of Science, Bengaluru<br /><i>nvjoshi@iisc.ac.in - (Statistical Analysis, Mathematical Modelling in Biology)</i></p>
+<p><strong>Ullasa Kodandaramaiah, </strong>Indian Institute of Science Education and Research, Thiruvananthapuram<br /><i>ullasa@iisertvm.ac.in- (Ecology and Evolution)</i></p>
+<p><strong>Vinod Kumar, </strong>University of Delhi, Delhi<br /><i>vkumar@zoology.du.ac.in - (Regulatory Biology, Biological Rhythms, Neuroendocrine Control of Seasonality, Behavioural Neuroscience)</i></p>
+<p><strong>Renjith Mathew, </strong>National Institute of Science Education and Research, Bhubaneswar<br /><i>renjith.mathew@niser.ac.in - (Microbiology)</i></p>
+<p><strong>Subhash Rajpurohit, </strong>Ahmedabad University, Ahmedabad<br /><i>subhash.rajpurohit@ahduni.edu.in - (Ecology and Evolution)</i></p>
+<p><strong>V. V. Ramamurthy, </strong>Indian Agricultural Research Institute, New Delhi<br /><i>vvrento@gmail.com - (Taxonomy)</i></p>
+<p><strong>V. V. Robin, </strong>Indian Institute of Science Education and Research, Tirupati<br /><i>robin@iisertirupati.ac.in - (Ecology and Evolution)</i></p>
+<p><strong>Gayatri Saberwal, </strong>Institute of Bioinformatics and Applied Biotechnology, Bengaluru<br /><i>gayatri@ibab.ac.in - (Biomedical policy research, Clinical trial databases)</i></p>
+<p><strong>Munivenkatappa Sanjappa, </strong>University of Agricultural Sciences, Bengaluru<br /><i>sanjappam@ymail.com - (Botany – Taxonomy and Conservation)</i></p>
+<p><strong>L. S. Shashidhara, </strong>Indian Institute of Science Education and Research, Pune<br /><i>ls.shashidhara@iiserpune.ac.in - (Evolution, Genetics and Developmental Biology)</i></p>
+<p><strong>Yogesh Shouche, </strong>National Centre for Cell Science, Pune<br /><i>yogesh@nccs.res.in - (Microbial Diversity, Vector Biology, Genetic Diversity of Microbes)</i></p>
+<p><strong>Hema Somanathan, </strong>Indian Institute of Science Education and Research, Thiruvananthapuram<br /><i>hsomanathan@iisertvm.ac.in - (Evolutionary Ecology)</i></p><br /><br />
+<h2>Chemistry</h2>
+<p><strong>E. Arunan, </strong>Indian Institute of Science, Bengaluru<br /><i>arunan@iisc.ac.in - (Inorganic and Physical Chemistry)</i></p>
+<p><strong>Srinivasan Natarajan, </strong>Indian Institute of Science, Bengaluru<br /><i>snatarajan@iisc.ac.in - (Inorganic Materials Chemistry, Solid State Chemistry/Synthesis, Structure, Li-ion Battery Materials/Ceramic Pigments, Inorganic–Organic Hybrid Materials,  Magnetic Materials)</i></p>
+<p><strong>N. Sathyamurthy, </strong>Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br /><i>nsath@iisermohali.ac.in - (Theoretical Chemistry)</i></p>
+<p><strong>Richard N. Zare, </strong>Stanford University, USA<br /><i>zare@stanford.edu - (Laser Chemistry, Chemical Reactions at Molecular Level)</i></p><br />
+<h2>Computer Science</h2>
+<p><strong>Viraj Kumar, </strong>Indian Institute of Science, Bengaluru<br /><i>viraj@iisc.ac.in - (Computer Science Education, Algorithms, Theory of Computing)</i></p><br />
+<h2>Earth System Sciences</h2>
+<p><strong>Sunil Bajpai, </strong>Indian Institute of Technology, Roorkee<br /><i>sunilbajpai2001@yahoo.com - (Palaeontology)</i></p>
+<p><strong>S. Balakrishnan, </strong>Pondicherry University, Puducherry<br /><i>balakrishnan.srinivasan@gmail.com - (Geochemistry and Geochronology)</i></p>
+<p><strong>Somnath Dasgupta, </strong>Westwind, Block 4, Flat 3B, 78, Raja SC Mullick Road, Kolkata<br /><i>somnathdasg@gmail.com - (Metamorphic Petrology and Geochemistry)</i></p>
+<p><strong>Saibal Gupta, </strong>Indian Institute of Technology, Kharagpur<br /><i>saibl@gg.iitkgp.ac.in - (Petrology, Structure and Tectonics)</i></p>
+<p><strong>K. S. Krishna, </strong>Centre for Earth, Ocean and Atmospheric Sciences, University of Hyderabad, Hyderabad<br /><i>krishna@uohyd.ac.in - (Lithospheric dynamics, Tectonics, Plate tectonics, Marine geophysics)</i></p>
+<p><strong>Biswajit Mishra, </strong>Indian Institute of Technology, Kharagpur<br /><i>bmgg@gg.iitkgp.ac.in - (Ore Mineralogy and Ore Geochemistry)</i></p>
+<p><strong>Malay Mukul, </strong>Indian Institute of Technology-Bombay, Mumbai<br /><i>malaymukul@iitb.ac.in - (Tectonics, Lithospheric Deformation Studies)</i></p>
+<p><strong>Rajeev Patnaik, </strong>Centre of Advanced Study in Geology, Panjab University, Chandigarh<br /><i>rajeevpatnaik@gmail.com - (Vertebrate Palaeontology)</i></p>
+<p><strong>G. V. R. Prasad, </strong>University of Delhi, Delhi<br /><i>guntupalli.vrprasad@gmail.com - (Vertebrate Palaeontology, Palaeo-biogeography)</i></p>
+<p><strong>N. V. Chalapathi Rao, </strong>Banaras Hindu University, Varanasi<br /><i>nvcr100@gmail.com - (Petrology)</i></p>
+<p><strong>Dilip Saha, </strong>Indian Statistical Institute, Kolkata<br /><i>dsaha@isical.ac.in - (Structure, Tectonics and Sedimentology)</i></p>
+<p><strong>Rajiv Sinha, </strong>Indian Institute of Technology, Kanpur<br /><i>rsinha@iitk.ac.in - (River Science, Fluvial Geomorphology)</i></p>
+<p><strong>R. Srinivasan, </strong>Indian Institute of Science, Bengaluru<br /><i>srinimalu@gmail.com - (Solid Earth Sciences, Precambrian Geology)</i></p><br />
+<h2>Engineering</h2>
+<p><strong>Gopalan Jagadeesh, </strong>Indian Institute of Science, Bengaluru<br /><i>jaggie@iisc.ac.in - (Experimental Hypersonics and Shockwave Dynamics)</i></p>
+<p><strong>Giridhar Madras, </strong>Indian Institute of Science, Bengaluru<br /><i>giridhar@iisc.ac.in - (Chemical Engineering)</i></p>
+<p><strong>Sukumar Mishra, </strong>Indian Institute of Technology Delhi, New Delhi<br /><i>sukumar@ee.iitd.ac.in  - (Power System, Renewable Energy: Power System Control, Photovoltaic Energy Management, Grid Code)</i></p>
+<p><strong>G. Prathap, </strong>Vidya Academy of Science and Technology, Thrissur<br /><i>gangan@vidyaacademy.ac.in - (Structural Mechanics and Information Science)</i></p>
+<p><strong>K. Ramamurthy, </strong>Indian Institute of Technology Madras, Chennai<br /><i>vivek@iitm.ac.in - (Civil Engineering, Sustainable Construction Materials, Building Science and Engineering, Concrete Technology)</i></p>
+<p><strong>Saragur M. Srinidhi, </strong>Advanced Computing and Communications Society, Bengaluru<br /><i>ssrinidhi@accsindia.org  - (Communication Networks: Network Performance Analysis, Call Admission Control, Operations Research, High Performance Computing)</i></p>
+<p><strong>V. V. Srinivas, </strong>Indian Institute of Science, Bengaluru<br /><i>vvs@iisc.ac.in, vvsrinivas@yahoo.com - (Surface Water Hydrology, Stochastic Hydrology, Extreme Events (Floods, Droughts, Rainfall))</i></p>
+<p><strong>Satyam Suwas, </strong>Indian Institute of Science, Bengaluru<br /><i>satyamsuwas@iisc.ac.in - (Metallurgy: Crystallographic Texture, Materials Characterization, Mechanical Behaviour of Materials)</i></p>
+<p><strong>Shivam Tripathi, </strong>Indian Institute of Technology Kanpur, Kanpur<br /><i>shiva@iitk.ac.in - (Watershed Hydrology, Eco-hydrology, River Hydraulics)</i></p><br />
+<h2>History and Philosophy of Science</h2>
+<p><strong>Dhruv Raina, </strong>Jawaharlal Nehru University, New Delhi<br /><i>dhruv@mail.jnu.ac.in - (History and Philosophy of Science, Society and Social Movements, History and Philosophy of Mathematics and Exact Sciences, The History of Contemporary Science)</i></p><br />
+<h2>Management Studies</h2>
+<p><strong>M. H. Bala Subrahmanya, </strong>Indian Institute of Science, Bengaluru<br /><i>bala@iisc.ac.in - (Management Studies, Industrial Economics)</i></p><br />
+<h2>Mathematics</h2>
+<p><strong>G. Rangarajan, </strong>Indian Institute of Science, Bengaluru<br /><i>rangaraj@iisc.ac.in - (Mathematics)</i></p><br />
+<h2>Medical Sciences</h2>
+<p><strong>Sandeep M. Eswarappa, </strong>Indian Institute of Science, Bengaluru<br /><i>sandeep@iisc.ac.in - (Physiological and Pathological Angiogenesis)</i></p>
+<p><strong>Lakshmanan Krishnamurti, </strong>Emory University, Atlanta, GA<br /><i>lakshmanan.krishnamurti@choa.org - (Haematology, Oncology)</i></p>
+<p><strong>Indraneel Mittra, </strong>Tata Memorial Centre, Navi Mumbai<br /><i>indraneel.mittra@gmail.com - (Oncology)</i></p>
+<p><strong>Sanjay A. Pai, </strong>Columbia Asia Referral Hospital, Bengaluru<br /><i>sanjayapai@gmail.com - (Gastrointestinal Pathology)</i></p>
+<p><strong>H. Paramesh, </strong>Lakeside Center for Health Promotion, Bengaluru<br /><i>drhparamesh@gmail.com - (Air Pollution and Health)</i></p>
+<p><strong>B. S. Shankaranarayana Rao, </strong>National Institute of Mental Health and Neuro Sciences, Bengaluru<br /><i>bssrao.nimhans@gmail.com - (Neurophysiology)</i></p>
+<p><strong>U. S. Vishal Rao, </strong>Health Care Global Cancer Centre, Bengaluru<br /><i>drvishalrao@gmail.com  - (Surgical Oncology, Robotic Surgery)</i></p>
+<p><strong>Prabha Sampath, </strong>Institute of Medical Biology, Singapore<br /><i>Prabha.sampath@imb.a-star.edu.sg - (Molecular Medicine)</i></p>
+<p><strong>Subrata Sinha, </strong>All India Institute of Medical Sciences, New Delhi<br /><i>sub_sinha@hotmail.com, sub_sinha2004@yahoo.co.in - (Oncology)</i></p><br />
+<h2>Oceanography</h2>
+<p><strong>A. C. Anil, </strong>National Institute of Oceanography, Goa<br /><i>acanil@nio.org - (Biological Oceanography, Marine Ecology, Marine Biology)</i></p>
+<p><strong>P. N. Vinayachandran, </strong>Indian Institute of Science, Bengaluru<br /><i>vinay@iisc.ac.in - (Physical Oceanography, Ocean Modelling, Physical–Biological Interactions in Ocean)</i></p><br />
+<h2>Physics</h2>
+<p><strong>Debajyoti Choudhury, </strong>University of Delhi, Delhi<br /><i>debchou@physics.du.ac.in - (Particle Physics and Cosmology)</i></p>
+<p><strong>Justin David, </strong>Indian Institute of Science, Bengaluru<br /><i>justin@iisc.ac.in - (High Energy Physics, General Relativity, Mathematical Physics)</i></p>
+<p><strong>Swapan Kumar Ghosh, </strong>University of Mumbai, Mumbai<br /><i>swapankghosh@gmail.com - (Soft Condensed Matter Physics, Theoretical Chemistry, Computational Material Science)</i></p>
+<p><strong>J.	N. Goswami, </strong>Physical Research Laboratory, Ahmedabad<br /><i>goswami@prl.res.in - (Planetary and Space Sciences, Solar System: Formation and Evolution, Geo- and Cosmo-chronology, Solar–Stellar relationship)</i></p>
+<p><strong>Sulabha Kulkarni, </strong>Centre for Materials for Electronics Technology, Pune<br /><i>skknano@gmail.com - (Condensed Matter Physics, Nanotechnology, Surface Science, Materials Science)</i></p>
+<p><strong>Pinaki Majumdar, </strong>Harish-Chandra Research Institute, Allahabad<br /><i>pinaki@hri.res.in - (Condensed Matter Physics)</i></p>
+<p><strong>K. P. Singh, </strong>Indian Institute of Science Education and Research, Mohali<br /><i>kulinderpal@gmail.com - (Astronomy and Astrophysics)</i></p>
+<p><strong>Tarun Souradeep, </strong>Inter-University Centre for Astronomy and Astrophysics, Pune<br /><i>tarun@iucaa.in - (Cosmology, High Energy Physics, Early Universe)</i></p>
+<p><strong>Paul J. Wiita, </strong>The College of New Jersey, New Jersey<br /><i>wiitap@tcnj.edu - (Astronomy)</i></p><br />
+<h2>Remote Sensing and Space Sciences</h2>
+<p><strong>Ajai, </strong>Space Applications Centre (ISRO), Ahmedabad<br><span class="itl">ajai@sac.isro.gov.in - (Earth and Planetary Sciences, Remote Sensing Applications, Earth Science: Desertification, Glaciology, Coastal Zone Environment, Natural Resources Management, Lunar and Martian Geoscience)</p>
+	<p><strong>R. R. Navalgund, </strong>Indian Space Research Organisation, Bengaluru<br><span class="itl">navalrr@gmail.com - (Remote Sensing/Earth Observation)</p>
+		<hr>
+		<p><strong>S. Ramaseshan Fellow:</strong><br>Pratik Pawar, S. strong</p>
+		<p><strong>Editorial staff:</strong><br>M. K. Anitha, R. Anuradha, Chandrika Ramesh, D. L. Geetha, G. Madhavan, K. P. Madhu, V. Rajitha, <br>N. Subashini, V. Venkateswari and M. S. strong</p>
+		<p><strong>Circulation and Accounts:</strong><br>H. R. Ananthamurthy, Pramodkumar S. Kodagali, Meghana B. Yadav, B. G. strong</p>
