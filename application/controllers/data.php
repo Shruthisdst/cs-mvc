@@ -196,7 +196,7 @@ class data extends Controller {
 		
 		$data = $this->model->db->getFeatureDetailsForCurrentIssue(METADATA_TABLE,$dbh,$getData['feature']);
 		
-		echo json_encode($data, JSON_UNESCAPED_UNICODE);
+		echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 	}
 }
 

@@ -20,7 +20,7 @@ a {
 	padding: 0;
 }
 .widget-container{
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 .column-paddings{
 	padding: 8px;
@@ -122,4 +122,39 @@ span.img-small img{
   margin-bottom: 5em;
 }
 
-
+.widget_title{
+	font-size: 1.1em;
+	border-bottom: 1px solid #4E4E4E;
+	border-left: 10px solid #FFD700;
+	text-align: right;
+	padding: 0.2em 1em 0.5em 0.2em;
+	margin: 0 0 0.5em 0;
+	text-transform:uppercase;
+	border-radius: 0px 0 0 0;
+	-moz-border-radius: 0px 0 0 0;
+	-webkit-border-radius: 0px 0 0 0;
+	color: #000000;
+}
+.ititle{
+	font-size: 1em;
+	margin-bottom: 20px;
+}
+.ititle a{
+	color: #000000;
+}
+.iauthor{
+    font-size: 0.95em;
+    font-style: italic;
+}
+.iauthor a:HOVER{
+	text-decoration: none;
+	cursor: pointer;
+}
+.iauthor a{
+    color: #E26655;
+ }
+.iauthor span:not(:last-of-type)::after{
+	font-size: 1.2em;
+	font-style: normal;
+  	content: ' ∘ ';
+}

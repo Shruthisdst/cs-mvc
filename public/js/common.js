@@ -9,10 +9,17 @@ function getResult(feature,widget) {
            var displayString = "";
            var obj = JSON.parse(data);
            var displayString = "";
-           displayString = displayString + '<h4>'+ feature +'</h4><hr />';
+           displayString = displayString + '<h4 class="widget_title">'+ feature +'</h4>';
             for(i=0;i<obj.length;i++){
-				
-				displayString = displayString + '<li class="widget-container widget_recent_news"><a href="'+ base_url + 'describe/article/' + obj[i]['journal'] + '/' + obj[i]['volume'] + '/' + obj[i]['issue'] + '/' + obj[i]['page'] + '">' + obj[i]['title'] + '</a></li>';
+
+				let authorString = '';
+
+                authors = JSON.parse(obj[i]['authors']);
+                $.each(authors, function( index, author ) {
+                    authorString += '<span><a>' + author.name.full + '</a></span>';
+                });
+
+                displayString = displayString + '<li class="widget-container widget_recent_news ititle"><a href="'+ base_url + 'describe/article/' + obj[i]['journal'] + '/' + obj[i]['volume'] + '/' + obj[i]['issue'] + '/' + obj[i]['page'] + '">' + obj[i]['title'] + '</a><p class="iauthor">' + authorString + '</p></li>';
 			}
             $(widgetNum).append(displayString);
             displayString = '';

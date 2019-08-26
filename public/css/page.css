@@ -14,7 +14,7 @@
 	overflow: hidden;
 }
 .col-shaded {
-	background-color: rgba( 0, 0, 0, 0.02 );
+	background-color: rgba( 0, 0, 0, 0.04 );
 }
 .title-widget {
 	color: #898989;
