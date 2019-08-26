@@ -3,8 +3,8 @@
             <div class="col-padded-no-top col-shaded"><!-- inner custom column -->
                 <ul class="list-unstyled clear-margins"><!-- widgets -->                    
                     <li class="widget-container widget_recent_news"><!-- widgets list -->               
-                    <?php require_once('application/views/generalNews.php');?>
                         <ul class="list-unstyled">
+                        <?php require_once('application/views/generalNews.php');?>
                             <li class="recent-news-wrap">
                                 <h1 class="title-median"><a href="<?=RESOURCES_URL?>News/Positions.pdf" target="_blank" title="Career">Career</a></h1>
                                 <div class="recent-news-content clearfix">
