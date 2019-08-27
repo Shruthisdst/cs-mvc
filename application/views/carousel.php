@@ -7,16 +7,16 @@
                     <div class="item active">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
 							<div class="row">
-								<div class="col-sm-3 text-white">
+								<div class="col-sm-4 text-white">
 									<div class="caption-content">
 										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Current Issue</a></p>
-									</div>
+									</div><hr />
 									<img src="<?=PUBLIC_URL?>images/stock/issue.png" class="img-thumbnail" alt="Current Issue">
 									<div class="caption-below">
 										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Vol. 113, No. 03<br /> 25 August 2017</a></p>
 									</div>
 								</div>
-								<div class="col-sm-3 caption-content text-white">
+								<div class="col-sm-2 caption-content text-white">
 									<p class="caption-title">In this issue</p><hr />
 									<p>Women in science: New frontiers in research</p>
 									<p>Insect and plant antifreeze proteins</p>
