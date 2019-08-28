@@ -1,5 +1,5 @@
-<li class="recent-news-wrap gap-above-med">
-	<h1 class="title-median"><a href="javascript:void()" title="Change in email">Change in email domain nameM</a></h1>
+<li class="recent-news-wrap clear-margins">
+	<h1 class="title-median"><a href="javascript:void()" title="Change in email">Change in email domain name</a></h1>
 	<div class="recent-news-content clearfix">
 		<div class="recent-news-text clear-margins">
 			<p class="text-justify">

@@ -1,10 +1,16 @@
 <!-- Column 2 -->
         <div class="col-md-4 clear-paddings gap-above-med">
             <div class="col-padded-no-top col-shaded"><!-- inner custom column -->
+                <ul class="list-inline social">
+                    <li><a title="YouTube" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/youtube.png" alt="YouTube"></a></li>
+                    <li><a title="Twitter" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/twitter.png" alt="Twitter"></a></li>
+                    <li><a title="Facebook" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/facebook.png" alt="Facebook"></a></li>
+                    <li><a title="Wordpress" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/wordpress.png" alt="Blog"></a></li>
+                </ul>
+                <hr />
                 <ul class="list-unstyled clear-margins"><!-- widgets -->                    
                     <li class="widget-container widget_recent_news"><!-- widgets list -->               
                         <ul class="list-unstyled">
-                        <?php require_once('application/views/generalNews.php');?>
                             <li class="recent-news-wrap">
                                 <h1 class="title-median"><a href="<?=RESOURCES_URL?>News/Positions.pdf" target="_blank" title="Career">Career</a></h1>
                                 <div class="recent-news-content clearfix">

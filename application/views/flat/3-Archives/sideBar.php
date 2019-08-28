@@ -29,14 +29,8 @@
                         </ul>
                     </li>
                 </ul>
-                <ul class="list-unstyled clear-margins">
-                    <li class="widget-container widget_recent_news">
-                        <ul class="list-unstyled">
-<?php require_once('application/views/generalNews.php');?>
-                        </ul>
-                    </li>
-                </ul>
             </div>
         </div>
+                <?php require_once('application/views/generalSidebar.php');?>
     </div>
 </div>

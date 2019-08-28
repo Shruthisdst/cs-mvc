@@ -2,43 +2,36 @@
     <div class="row no-gutter fullwidth">
         <div class="col-lg-12 clearfix" style="padding: 0;">
             <div id="carousel" class="carousel slide" data-interval="8000" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel" data-slide-to="1"></li>
+                </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
+                    <!-- 83 Annual meeting carousel -->
                     <div class="item active">
+                        <img src="<?=PUBLIC_URL?>images/stock/carousel/20180209carousel011.jpg" alt="Indian Academy of Sciences">
                         <div class="override-carousel-caption pos-2-3-left scheme-dark">
-							<div class="row">
-								<div class="col-sm-4 text-white">
-									<div class="caption-content">
-										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Current Issue</a></p>
-									</div><hr />
-									<img src="<?=PUBLIC_URL?>images/stock/issue.png" class="img-thumbnail" alt="Current Issue">
-									<div class="caption-below">
-										<p class="caption-title"><a href="<?=BASE_URL . 'listing/articles/' . DEFAULT_JOURNAL . '/' . $current->volume . '/' . $current->issue?>">Vol. 113, No. 03<br /> 25 August 2017</a></p>
-									</div>
-								</div>
-								<div class="col-sm-2 caption-content text-white">
-									<p class="caption-title">In this issue</p><hr />
-									<p>Women in science: New frontiers in research</p>
-									<p>Insect and plant antifreeze proteins</p>
-									<p>Assessment of forest burnt area</p>
-								</div>
-								<div class="col-sm-3 caption-content text-white">
-									<p class="caption-title">Guest Editorial</p><hr />
-									<p>Joy of discovery as a reason for pursuing a career in science, <i>B. Ananthanarayan</i></p>
-									<p>The Nobel laureate Serge Haroche while visiting India in January 2017 has been quoted as saying ‘Since they receive taxpayer’s money, the scientists can’t live in an ivory...</p>
-									<p class="more_right"><a href="<?=RESOURCES_URL?>1307.pdf" target="_blank">...read more</a></p>
-								</div>
-								<div class="col-sm-3 text-white">
-									<div class="caption-content">
-										<p class="caption-title"><a href="">Previous Issue</a></p>
-									</div>
-									<img src="<?=PUBLIC_URL?>images/stock/p_image.png" class="img-thumbnail pimage" alt="Previous Issue">
-									<h4 class="archive-title"><a href="<?=BASE_URL . 'listing/issues/'?>">Archive</a></h4>
-								</div>
+                            <div class="caption-content">
+                                <h3 class="caption-title">Indian Academy of Sciences</h3>
+                                <p>The Academy building, erected by Sir C V Raman, is located in the campus of the Raman Research Institute in Bengaluru.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="<?=PUBLIC_URL?>images/stock/carousel/academybldg.jpg" alt="Indian Academy of Sciences">
+                        <div class="override-carousel-caption pos-2-3-left scheme-dark">
+                            <div class="caption-content">
+                                <h3 class="caption-title">Indian Academy of Sciences</h3>
+                                <p>The Academy building, erected by Sir C V Raman, is located in the campus of the Raman Research Institute in Bengaluru.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- Left and right controls -->
+                 <a class="left carousel-control" href="#carousel" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                <a class="right carousel-control" href="#carousel" data-slide="next"><i class="fa fa-chevron-right"></i></a> 
             </div>
         </div>
     </div>
