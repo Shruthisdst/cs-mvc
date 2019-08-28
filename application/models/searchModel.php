@@ -27,7 +27,7 @@ class searchModel extends Model {
 		if($filter != '') array_unshift($data['filter'], $filter);
 		$data['words'] = array_merge($words, $data['words']);
 
-		$sqlFilter = (count($data['filter'] > 1)) ? implode(' and ', $data['filter']) : array_values($data['filter']);
+		$sqlFilter = (count($data['filter']) > 1) ? implode(' and ', $data['filter']) : implode('', array_values($data['filter']));
 		$sqlStatement = 'SELECT * FROM ' . METADATA_TABLE . ' WHERE ' . $textQuery . $sqlFilter . $orderBy;
 
 		$data['query'] = $sqlStatement;

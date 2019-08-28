@@ -20,17 +20,17 @@
                         </div>
                         <div class="clearfix"></div>
                         <ul class="journal-menu">
-                            <li><a href="<?=BASE_URL . 'Journal/'?>">Home</a></li>
+                            <li><a href="<?=BASE_URL . 'Archives/'?>">Home</a></li>
                             <li><a href="<?=BASE_URL . 'listing/issues/'?>">Volumes &amp; Issues</a></li>
                             <li><a href="<?=BASE_URL . 'listing/specialIssues/'?>">Special Sections</a></li>
                             <li><a href="<?=BASE_URL . 'listing/categories/'?>">Categories</a></li>
-                            <li><a href="<?=BASE_URL . 'listing/forthcoming/'?>">Forthcoming Articles</a></li>
+                            <li><a href="<?=BASE_URL . 'Forthcoming_Articles/'?>">Forthcoming Articles</a></li>
                             <li><a href="<?=BASE_URL . 'search/index/' . $journal?>">Search</a></li>
                         </ul>
                     </li>
                 </ul>
             </div>
         </div>
-                <?php require_once('application/views/generalSidebar.php');?>
+        <?php require_once('application/views/generalSidebar.php');?>
     </div>
 </div>

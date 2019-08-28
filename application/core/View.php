@@ -242,8 +242,7 @@ class View {
 
     		switch ($journal) {
 				case 'crsc':
-					$path = 'flat/3-Journal';
-					break;
+					$path = 'flat/3-Archives';
 			}
 		}
 
