@@ -1,0 +1,9 @@
+public/Volumes/*/*/*/*.pdf
+public/Volumes/*/*/*/*.Meta
+public/Volumes/*/*/*/*.jpg
+public/Volumes/*/*/*/*.JPG
+public/Volumes/*/forthcoming/*.pdf
+public/Volumes/*/forthcoming/*/*
+public/Volumes/*/*/*/*/*
+public/data/
+public/jats-archiving-dtd-1.0/
