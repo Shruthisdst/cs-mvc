@@ -61,10 +61,10 @@
                                     
                                     <span class="journal-article-meta-feature"><?=$row->feature?></span>
                                 </p>
-                                <p class="journal-article-list-title"><a href="<?=BASE_URL.'describe/article/' . $row->journal . '/' . $row->volume . '/' . $row->issue . '/' . $row->page?>"><?=$viewHelper->formatText($row->title)?></a></p>
+                                <p class="journal-article-list-title"><a href="<?=BASE_URL.'describe/article/' . $row->journal . '/' . $row->id?>"><?=$viewHelper->formatText($row->title)?></a></p>
                                 <p class="journal-article-list-authors"><?=$viewHelper->displayAuthors($row->authors, $row->journal)?></p>
                                 <div class="journal-article-list-meta">
-                                    <span><a href="<?=BASE_URL.'describe/article/' . $row->journal . '/' . $row->volume . '/' . $row->issue . '/' . $row->page?>">More Details</a></span>
+                                    <span><a href="<?=BASE_URL.'describe/article/' . $row->journal . '/' . $row->id?>">More Details</a></span>
                                     <?php if ($row->abstract): ?>
                                     <span><a class="trigger-abstract" id="display_<?=$row->id?>" href="javascript:void(0);">Abstract</a></span>
                                     <?php endif; ?>

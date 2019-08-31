@@ -23,8 +23,7 @@ class dataModel extends Model {
 			$datesArray = array("Manuscript Received" => "M","Manuscript Revised" => "R","Accepted"=>"A", "Early published" => "E", "Unedited version published online" => "U","Final version published online" => "F");
 
 			$xml = simplexml_load_file($xmlFileName . '/index.xml');
-			echo "Here<br />";
-
+			
 			if ($xml === false) 
 			{
 				return False;
@@ -56,7 +55,7 @@ class dataModel extends Model {
 			$feature =  $xml->front->{'article-meta'}->{'article-categories'}->{'series-title'}->__toString();
 			$page =  $xml->front->{'article-meta'}->{'page-range'}->__toString();
 			$abstract =  $xml->front->{'article-meta'}->abstract->asXML();
-			$abstract = preg_replace("/<abstract>|<\/abstract>|\t*/","",$abstract);
+			$abstract = preg_replace("/<abstract>|<\/abstract>|\t*|<abstract\/>/","",$abstract);
 			$history = $xml->front->{'article-meta'}->history;
 
 			$dates = array();
