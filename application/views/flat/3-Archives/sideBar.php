@@ -30,7 +30,7 @@
                     </li>
                 </ul>
             </div>
-        </div>
         <?php require_once('application/views/generalSidebar.php');?>
+        </div>
     </div>
 </div>

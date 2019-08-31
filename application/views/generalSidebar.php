@@ -1,6 +1,5 @@
 <!-- Column 2 -->
-        <div class="col-md-4 clear-paddings gap-above-med">
-            <div class="col-padded-no-top col-shaded"><!-- inner custom column -->
+            <div class="col-padded-no-top col-shaded gap-above-med"><!-- inner custom column -->
                 <ul class="list-inline social">
                     <li><a title="YouTube" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/youtube.png" alt="YouTube"></a></li>
                     <li><a title="Twitter" href="javascript:void(0);"><img src="<?=PUBLIC_URL?>images/stock/twitter.png" alt="Twitter"></a></li>
@@ -89,5 +88,3 @@
             </div>
         </div>
     </div>
-</div>
-
