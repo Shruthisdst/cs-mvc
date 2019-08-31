@@ -12,12 +12,13 @@ class describe extends Controller {
 		$this->article();
 	}
 
-	public function article($journal = DEFAULT_JOURNAL, $volume = DEFAULT_VOLUME, $issue = DEFAULT_ISSUE, $page = DEFAULT_PAGE) {
+	public function article($journal = DEFAULT_JOURNAL, $id = '') {
 
-		$data = $this->model->getDetails($journal, $volume, $issue, $page);
+		$data = $this->model->getDetails($journal, $id);
 		if ($data) {
-			
-			$path = PHY_VOL_URL . $journal . '/' . $volume . '/' . $issue . '/' . $page . '/';
+
+			$articleDetails = preg_split('/_/', $id);
+			$path = PHY_VOL_URL . $journal . '/' . $articleDetails[1] . '/' . $articleDetails[2] . '/' . $articleDetails[3] . '-' . $articleDetails[4] . '/';
 			$data->supplementary = $this->model->listFiles($path);
 			$this->view('describe/article', $data, $journal);
 		}

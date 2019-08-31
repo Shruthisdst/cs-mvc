@@ -48,7 +48,7 @@
                                 <div class="recent-news-content clearfix">
                                     <div class="recent-news-text clear-margins">
                                         <p><span class="text-primary"><?=$viewHelper->linkArticle($data, '<i class="fa fa-file-pdf-o"></i>', 'download', 'Download PDF')?></span> &nbsp; <?=$viewHelper->linkArticle($data, 'Click here to view fulltext PDF')?></p>
-                                        <p><br />Permanent link:<br /><?=BASE_URL.'article/fulltext/' . $data->journal . '/' . $data->volume . '/' . $data->issue . '/' . $data->page?></p>
+                                        <p><br />Permanent link:<br /><?=BASE_URL.'article/fulltext/crsc/' . $viewHelper->getPDFLink($data)?></p>
                                     </div>
                                 </div>
                             </li>

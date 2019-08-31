@@ -46,7 +46,7 @@ class viewHelper extends View {
 
         echo '<a';
         echo ($action == 'download') ? ' download ' : '';
-        echo ' title="' . $hoverText . '" target="_blank" class="text-blue download-article" href="'. BASE_URL . 'article/fulltext/' . $data->volume . '/' . $data->issue . '/' . $data->page . '">' . $anchorText . '</a>';
+        echo ' title="' . $hoverText . '" target="_blank" class="text-blue download-article" href="'. BASE_URL . 'article/fulltext/crsc/' . $this->getPDFLink($data) . '">' . $anchorText . '</a>';
     }
 
     public function linkViewOnline($row = array(), $page = 1, $text = '', $anchorText = 'Read online') {
@@ -440,6 +440,12 @@ class viewHelper extends View {
 		
 		echo '<li class="widget-container widget_recent_news"></li>';
 	}
+
+    public function getPDFLink($data = array()){
+
+        $articleDetails = preg_split('/_/', $data->id);
+        return $articleDetails[1] . '/' . $articleDetails[2] . '/' . $articleDetails[3] . '-' . $articleDetails[4] . '_' . $articleDetails[5];
+    }
 }
 
 ?>

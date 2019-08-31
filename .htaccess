@@ -3,80 +3,8 @@ RewriteEngine On
 
 RewriteBase /cs-mvc
 
-RewriteCond %{REQUEST_URI}  ^/chemsci.*
-RewriteRule ^(.+)$ page/flat/Journals/Journal_of_Chemical_Sciences/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/mathsci.*
-RewriteRule ^(.+)$ page/flat/Journals/Proceedings_–_Mathematical_Sciences/ [QSA,L]
-
-RewriteRule ^jess$ page/flat/Journals/Journal_of_Earth_System_Science/ [QSA,L]
-RewriteRule ^jess/$ page/flat/Journals/Journal_of_Earth_System_Science/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/sadhana.*
-RewriteRule ^(.+)$ page/flat/Journals/Sadhana/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/pramana.*
-RewriteRule ^(.+)$ page/flat/Journals/Pramana_–_Journal_of_Physics/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/jbiosci.*
-RewriteRule ^(.+)$ page/flat/Journals/Journal_of_Biosciences/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/matersci.*
-RewriteRule ^(.+)$ page/flat/Journals/Bulletin_of_Materials_Science/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/jaa.*
-RewriteRule ^(.+)$ page/flat/Journals/Journal_of_Astrophysics_and_Astronomy/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/jgenet.*
-RewriteRule ^(.+)$ page/flat/Journals/Journal_of_Genetics/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/resonance.*
-RewriteRule ^(.+)$ page/flat/Journals/Resonance_–_Journal_of_Science_Education/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/patrika.*
-RewriteRule ^(.+)$ page/flat/Publications/Patrika/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/positions.*
-RewriteRule ^(.+)$ page/flat/About_IASc/Positions_Available/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/epramana.*
-RewriteRule ^(.+)$ http://web-japps.ias.ac.in:8080/epramana/jsp/epramana.html [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/mail$
-RewriteRule ^(.+)$ https://mail.ias.ac.in/squirrelmail [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/womeninscience.*
-RewriteRule ^(.+)$ page/flat/Initiatives/Women_in_Science/ [QSA,L]
-
-RewriteCond %{REQUEST_URI}  ^/j_archive/.* [OR]
-RewriteCond %{REQUEST_URI}  ^/jarch/.* 
-RewriteRule ^(.+)$ http://www-old.ias.ac.in/$1 [R=301,L]
-
-RewriteCond %{REQUEST_URI} ^/article/fulltext/jbsc/[0-9]{3}/[0-9]{2}/[0-9]{4}[a-z]?$
-RewriteRule ^article/fulltext/jbsc/(.*) article/fulltext/jbsc/${jbsc-pagemap:$1} [R=301,L]
-
-RewriteCond %{REQUEST_URI} ^/article/fulltext/jgen/[0-9]{3}/[0-9]{2}/[0-9]{4}$ [OR]
-RewriteCond %{REQUEST_URI} ^/article/fulltext/jgen/082/01-02/[0-9]{4}$ [OR]
-RewriteCond %{REQUEST_URI} ^/article/fulltext/jgen/[0-9]{3}/online/e[0-9]{4}$ 
-RewriteRule ^article/fulltext/jgen/(.*) article/fulltext/jgen/${jgen-pagemap:$1} [R=301,L]
-
-RewriteCond %{REQUEST_URI}  ^/yearbook
-RewriteRule ^(.+)$ public/Resources/Other_Publications/Overview/yearbook2017.pdf [QSA,L]
-
-RewriteCond %{REQUEST_URI}  /article/fulltext/*
-RewriteRule article/fulltext/(.*) public/Volumes/$1.pdf [QSA,L]
-
-RewriteCond %{REQUEST_URI}  /journal-cms.*
-RewriteRule ^(.+)$ data/index/journal [QSA,L]
-
-#RewriteCond %{REQUEST_URI}  ^/trust/?$ [OR]
-#RewriteCond %{REQUEST_URI}  ^/trust/(.*)
-RewriteCond %{REQUEST_URI}  ^/trust/?$
-#RewriteCond %{REQUEST_URI}  ^/trust/$ 
-RewriteRule ^(.+)$ http://web-japps.ias.ac.in:8080/tact/tAcT/Home/ [L]
-#RewriteRule ^(/trust/?)$ http://web-japps.ias.ac.in:8080/tact/tAcT/Home/ [OR]
-#RewriteRule ^(.+)$ http://web-japps.ias.ac.in:8080/tact/tAcT/Home/$1 [PT]
-#RewriteRule ^/trust/(.*) http://web-japps.ias.ac.in:8080/tact/tAcT/Home/$1 [PT]
+RewriteCond %{REQUEST_URI} article/fulltext/crsc/*
+RewriteRule article/fulltext/crsc/([0-9]{3})/([0-9]{2})/(.*)_.* public/data/$1/$2/$3.pdf [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
