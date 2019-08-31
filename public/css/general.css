@@ -127,8 +127,8 @@ span.img-small img{
 
 .widget_title{
 	font-size: 1.1em;
-	/*border-bottom: 1px solid #4E4E4E;*/
-	border-left: 10px solid #FFD700;
+	border-bottom: 1px solid #4E4E4E;
+	border-left: 10px solid #900020;
 	/*border-right: 10px solid #FFD700;*/
 	text-align: right;
 	padding: 0.5em;

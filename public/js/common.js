@@ -19,7 +19,7 @@ function getResult(feature,widget) {
                     authorString += '<span><a href="' + base_url + 'listing/bibliography/crsc/' + author.name.full.replace(' ', '_') + '">' + author.name.full + '</a></span>';
                 });
 
-                displayString = displayString + '<li class="widget-container widget_recent_news ititle"><a href="'+ base_url + 'describe/article/' + obj[i]['journal'] + '/' + obj[i]['volume'] + '/' + obj[i]['issue'] + '/' + obj[i]['page'] + '">' + obj[i]['title'] + '</a><p class="iauthor">' + authorString + '</p></li>';
+                displayString = displayString + '<li class="widget-container widget_recent_news ititle"><a href="'+ base_url + 'describe/article/' + obj[i]['journal'] + '/' + obj[i]['id'] + '">' + obj[i]['title'] + '</a><p class="iauthor">' + authorString + '</p></li>';
 			}
             $(widgetNum).append(displayString);
             displayString = '';
